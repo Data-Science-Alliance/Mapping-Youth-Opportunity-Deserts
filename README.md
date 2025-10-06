@@ -1,10 +1,14 @@
-# [Project Title]
+# Mapping "Youth Opportunity Deserts" in San Diego County
 
-[Project Description]
+Access to positive youth development opportunities—including after-school programs, libraries, parks, and mentorship—varies dramatically across San Diego neighborhoods, potentially limiting life outcomes for young people. The project aims to develop an interactive map that identifies "opportunity deserts" by overlaying locations of youth services with demographic data on youth population density, household income levels, and transportation access. Through GIS analysis, spatial statistics including Getis-Ord Gi* hotspot analysis, and network analysis for travel times, the project will quantify disparities in youth program access across the county. This tool will enable nonprofits and government agencies to strategically plan and fund new youth programs in underserved areas, ensuring equitable access to developmental resources that can break cycles of poverty and improve educational outcomes.
+
 
 ## Contributors
 
-[Project Team]
+- Lauren Vo
+- Rohan Raval
+- Hannah Tran
+
 
 ## Project Organization
 
