@@ -7,7 +7,6 @@ Access to positive youth development opportunities—including after-school prog
 
 - Lauren Vo
 - Rohan Raval
-- Hannah Tran
 
 
 ## Project Organization
