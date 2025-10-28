@@ -1,89 +1,45 @@
-# NBER w25147 — “The Opportunity Atlas” (Chetty et al., 2018)
+# Paper: The Opportunity Atlas — Chetty et al. (2018)
 
-**Links:** [NBER working paper][nber] 
+Link: [https://www.nber.org/papers/w25147](https://www.nber.org/papers/w25147)
 
-[nber]: https://www.nber.org/papers/w25147
+## 3 Key Takeaways (Access/Mobility)
 
-> **Main idea:** Where kids grow up—down to very small neighborhoods—strongly relates to their adult outcomes. Differences are mostly **local**, and what matters most is the **immediate social environment**, not how close jobs are.
+* **Opportunity is hyper-local.** The biggest differences in kids’ adult outcomes are **across nearby tracts within the same county**; what’s just outside the immediate neighborhood adds little once the local context is known. 
+* **Social environment > job proximity.** Better outcomes track places with **higher adult employment, higher local incomes, more two-parent households, stronger school/test context, and social capital**, not simply proximity to job centers or local job growth. 
+* **Signals are strong, persistent, and partly causal.** Tract differences are mostly **real (not noise)**, **stable over time**, and align with **experimental/quasi-experimental evidence** (MTO; movers), implying sizable **causal effects of place**. 
 
----
+## Figure to Replicate (and how)
 
-## Why this paper matters for our project
+* **Figure concept:** Choropleth of **upward mobility for low-income children by childhood tract** (e.g., mean adult income rank for kids from the **25th parental percentile**). 
+  **Needed data:** Opportunity Atlas tract outcomes (p=25), tract geometries (TIGER/ACS), San Diego subset.
+  **Steps:**
 
-* We should analyze at **small neighborhood units** (Census **tracts** or **block groups**), not city or county averages.
-* For mapping access, use the area kids can actually reach on foot/transit: roughly **a 10–12 minute walk (~0.5–0.6 miles / ~1 km)**.
-* To find “opportunity deserts,” look at **youth-serving places + social conditions** (adult employment, family stability, school performance)—not just job centers.
+  1. Join Atlas tract outcomes ↔ Census tract shapefile via **GEOID**.
+  2. Filter to **San Diego County**; compute quantiles/deciles.
+  3. Style a **quantile choropleth**; label extreme tracts (hi/low).
+  4. Optional facets by **gender/race** to show subgroup heterogeneity. 
 
----
+## Limitations/Caveats
 
-## What the paper finds
+* **Not one size fits all.** A tract that’s “good for income” may be **bad for incarceration** (esp. for men) or differ by subgroup; always check **outcome × subgroup** views. 
+* **Privacy/reliability.** Some small cells are suppressed/noisy; subgroup estimates can be less precise—treat single-tract outliers with caution. 
+* **Associational maps.** Many patterns are causal at the tract level, but any single map is still **associational**; don’t attribute effects to a single site. 
 
-* **Most differences are hyper-local.** Two nearby neighborhoods can produce very different adult outcomes for kids, even in the same county or school area.
-* **The signal is real.** Neighborhood differences aren’t just noise; they’re stable and meaningful.
-* **Neighborhoods aren’t one-size-fits-all.** A place that’s good for one group or outcome (e.g., income) might not be for another (e.g., incarceration risk). We should look by **subgroup** and **outcome**.
-* **What predicts better outcomes:** more **employed adults nearby**, higher local **incomes**, higher **two-parent share**, stronger **school/test score** environment, and **social capital**—**within about half a mile**.
-* **What doesn’t predict by itself:** being close to job centers or in a booming local job market does **not** automatically translate to better outcomes for kids.
+## “So what for San Diego?”
 
----
+* **Hypothesis we can test with our map:**
+  Tracts with **few youth-serving sites** within a **~0.5–0.6-mile walkshed** and **weaker social environment proxies** (lower adult employment, higher single-parent share, lower school/test context) will align with **worse Atlas outcomes** for low-income youth. 
+* **Proxy(s) we can compute now:**
 
-## How reliable are these neighborhood signals?
+  * **Services per 1,000 youth** (YMCA, libraries, SDYS, parks/rec) by tract/BG.
+  * **Nearest-k distance** to services (walk & transit).
+  * **Transit arrivals within 500 m** of youth-dense blocks.
+  * **% zero-vehicle households** (barrier), **youth population** (denominator). 
+* **Data we must collect to avoid bias:**
 
-* **They’re persistent.** Even if we use estimates that are ~10 years old, they still carry most of their predictive value.
-* **They’re not just sorting.** Experimental evidence (Moving to Opportunity) lines up with the observational patterns, suggesting much of the neighborhood effect is **causal**.
+  * **Hours, eligibility, capacity** for each site (access ≠ presence).
+  * **Safety/lighting & sidewalk continuity** along likely paths.
+  * **Awareness/usage** (do teens know/use sites?).
+  * **Subgroup cuts** (when reliable) so we don’t mask disparities. 
 
----
-
-## What this means for our San Diego map 
-
-* **Geometry:** work at **tract or block-group** level. Keep BG for internal analysis; aggregate to tract for public views if needed.
-* **Access radius:** compute access using **~0.5–0.6-mile walk-sheds** (or equivalent 10–15-minute transit isochrones).
-* **Core indicators to layer:**
-
-  * **Services:** YMCA, libraries, SDYS, parks/rec.
-  * **Social environment:** adult employment rate (or proxy), two-parent share, school performance/test score proxy, social capital where available.
-  * **Barriers:** **youth population** (for normalization), **households with zero vehicles**, **income** (context, not as a “deficit” label).
-* **Metrics to produce quickly:**
-
-  * **Services per 1,000 youth** by tract/BG.
-  * **Distance to nearest 1/3/5 services** (walk/transit).
-  * **Transit frequency near youth areas** (arrivals within 500 m).
-  * **Missingness flags** (hours, eligibility, capacity).
-* **Design choices to document:**
-
-  * Why we chose **5–17** as the primary youth cohort (and test **10–19** as a sensitivity).
-  * Why we used **0.5–0.6-mile** buffers/isochrones.
-  * Why we **normalize by youth population** (not total population).
-  * How we treat **subgroups** (e.g., race/gender) and **different outcomes** (income vs incarceration).
-
----
-
-## Starter “desert” score (simple, transparent, adjustable)
-
-> Begin unweighted; adjust with partners after interviews.
-
-* **Higher is better access** (flip the sign if you prefer “desert severity” instead):
-
-  * **+** services_per_1k_youth
-  * **+** transit_arrivals_within_500m
-  * **–** nearest3_distance_km
-  * **–** pct_zero_vehicle
-  * **Context only:** income (use carefully; don’t let it dominate)
-
-Run **sensitivity checks**: try 0.4–0.8-mile buffers, reweight terms, compare ranks. Report **top/bottom deciles** and how stable they are.
-
----
-
-## Notes for data intake and communication
-
-* Use **precision-adjusted** estimates and exclude subgroup results with poor reliability.
-* School boundaries don’t perfectly match tracts; that’s okay—effects remain within school areas and within neighborhoods.
-* Be explicit that these are **associations**; use the MTO result to justify **targeting**, not to claim any one site “causes” outcomes.
-* Always include a **“Data Gaps & Caveats”** box: hours, eligibility, capacity, safety, and awareness are often missing but matter a lot.
-
----
-
-## Quick glossary
-
-* **Tract / Block group:** small Census areas that approximate neighborhoods. BG is smaller (finer detail).
-* **Walk-shed:** the area you can reasonably walk from a point (we use ~0.5–0.6 miles).
-* **Social capital:** community ties and norms that help people access information/opportunities (we’ll use proxies if direct data is missing).
+*Why this paper matters for us:* build and analyze at **tract/BG scale**, measure **walk-shed access (~0.5–0.6 mi)**, overlay **services + social environment**, and use Atlas outcomes as **stable, high-signal targets** to locate San Diego’s “opportunity deserts.” 
