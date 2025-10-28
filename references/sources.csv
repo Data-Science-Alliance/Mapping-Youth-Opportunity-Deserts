@@ -1,0 +1,10 @@
+source_id,title,provider,url,notes
+YMCA,San Diego County YMCA Branches,YMCA SD,https://www.ymcasd.org/locations/,Directory page; branch list and links; may need manual extraction or request
+SD_LIBRARY,San Diego Public Library Locations,City of San Diego,https://www.sandiego.gov/public-library/locations,Branch directory; hours vary; may also exist on open data
+SDYS,San Diego Youth Services,San Diego Youth Services,https://sdyouthservices.org/services/,Programs & locations; likely needs partner contact for structured export
+ACS_BG_2023,ACS Demographic & Housing (BG),U.S. Census Bureau,https://data.census.gov/map/050XX00US06073$1400000/ACSDP5Y2023/DP05?q=DP05+San+Diego+County&layer=VT_2022_140_00_PY_D1,Use API pull for reproducibility; DP05 summary table; choose cohort bins
+SANDAG_DASH,Population & Housing Dashboard,SANDAG,https://app.powerbigov.us/view?r=eyJrIjoiOThiOTAyMTItY2JiYy00MjVmLTlkZGQtNDUzN2E4ZTI2NTMyIiwidCI6IjJiYmI1Njg5LWQ5ZDUtNDA2Yi04ZDAyLWNmMTAwMmI0NzNlNyJ9,Reference dashboard; confirm downloadable table endpoint
+SANDAG_STORY,SANDAG Story/Overview,SANDAG,https://opendata.sandag.org/stories/s/dyus-9yxv,Overview/story page for regional datasets
+MTS_GTFS,Transit Stops (GTFS),San Diego MTS,https://opendata.sandag.org/dataset/Transit_Stops_GTFS/ajf8-kzsr,Stops table; full GTFS zip may be separate link
+REC_CTRS,Recreation Center Locations,City of San Diego,https://data.sandiego.gov/datasets/recreation-center-locations/,Open data dataset page; download CSV/GeoJSON
+SD_COUNTY_PARKS,San Diego County Parks,County of San Diego,https://www.sdparks.org/content/sdparks/en/FindAParkAlphabetically.html,Park directory; may need scraping or contact for data export
