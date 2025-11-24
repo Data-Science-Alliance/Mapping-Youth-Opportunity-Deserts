@@ -1,0 +1,479 @@
+﻿OID_,shape_id,route_id,route_short_name,route_long_name,route_type,agency_id,route_desc,route_url,route_color,route_text_color,route_type_text,RouteShapeName,route_color_RGB,route_text_color_RGB,Shape_Length
+1,3010111,301,101,Oceanside - UTC/VA/UCSD,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3010111_301,"(0, 0, 153)","(255, 255, 255)",64299.022185339541466
+2,3010125,301,101,Oceanside - UTC/VA/UCSD,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3010125_301,"(0, 0, 153)","(255, 255, 255)",65023.903781964138034
+3,3010130,301,101,Oceanside - UTC/VA/UCSD,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3010130_301,"(0, 0, 153)","(255, 255, 255)",149486.999710031610448
+4,3010132,301,101,Oceanside - UTC/VA/UCSD,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3010132_301,"(0, 0, 153)","(255, 255, 255)",150331.579572360933525
+5,3020045,302,302,Oceanside - Vista via Vista Way,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3020045_302,"(0, 0, 153)","(255, 255, 255)",67816.314695927838329
+6,3020046,302,302,Oceanside - Vista via Vista Way,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3020046_302,"(0, 0, 153)","(255, 255, 255)",64863.877171245469071
+7,3030084,303,303,Oceanside - Vista via Mission Av,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3030084_303,"(0, 0, 153)","(255, 255, 255)",78044.142657602176769
+8,3030086,303,303,Oceanside - Vista via Mission Av,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3030086_303,"(0, 0, 153)","(255, 255, 255)",48039.078060978827125
+9,3030091,303,303,Oceanside - Vista via Mission Av,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3030091_303,"(0, 0, 153)","(255, 255, 255)",48091.741450610825268
+10,3030092,303,303,Oceanside - Vista via Mission Av,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3030092_303,"(0, 0, 153)","(255, 255, 255)",76061.699054191572941
+11,3040088,304,304,Encinitas - Palomar College,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3040088_304,"(0, 0, 153)","(255, 255, 255)",71597.774561935570091
+12,3040091,304,304,Encinitas - Palomar College,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3040091_304,"(0, 0, 153)","(255, 255, 255)",64237.179441636653792
+13,3040092,304,304,Encinitas - Palomar College,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3040092_304,"(0, 0, 153)","(255, 255, 255)",65213.873191541286360
+14,3040093,304,304,Encinitas - Palomar College,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3040093_304,"(0, 0, 153)","(255, 255, 255)",71616.293386497942265
+15,3050076,305,305,Vista - Escondido,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3050076_305,"(0, 0, 153)","(255, 255, 255)",65540.867742219110369
+16,3050077,305,305,Vista - Escondido,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3050077_305,"(0, 0, 153)","(255, 255, 255)",51381.222226582554867
+17,3050079,305,305,Vista - Escondido,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3050079_305,"(0, 0, 153)","(255, 255, 255)",66552.095390704140300
+18,3050080,305,305,Vista - Escondido,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3050080_305,"(0, 0, 153)","(255, 255, 255)",35831.228709617513232
+19,3060027,306,306,Vista - Fallbrook,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3060027_306,"(0, 0, 153)","(255, 255, 255)",12275.455139690548094
+20,3060033,306,306,Vista - Fallbrook,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3060033_306,"(0, 0, 153)","(255, 255, 255)",76389.038607716429397
+21,3060035,306,306,Vista - Fallbrook,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3060035_306,"(0, 0, 153)","(255, 255, 255)",81715.069271868560463
+22,3060036,306,306,Vista - Fallbrook,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3060036_306,"(0, 0, 153)","(255, 255, 255)",79987.902796827518614
+23,3060037,306,306,Vista - Fallbrook,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3060037_306,"(0, 0, 153)","(255, 255, 255)",78116.205086695961654
+24,3080067,308,308,Escondido - Solana Beach,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3080067_308,"(0, 0, 153)","(255, 255, 255)",100891.823449881325359
+25,3080068,308,308,Escondido - Solana Beach,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3080068_308,"(0, 0, 153)","(255, 255, 255)",99612.521429602260469
+26,3090174,309,309,Town Center North - Encinitas via ECR,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3090174_309,"(0, 0, 153)","(255, 255, 255)",129416.050535510090413
+27,3090176,309,309,Town Center North - Encinitas via ECR,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3090176_309,"(0, 0, 153)","(255, 255, 255)",136469.746669665677473
+28,3090177,309,309,Town Center North - Encinitas via ECR,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3090177_309,"(0, 0, 153)","(255, 255, 255)",131890.860694501636317
+29,3090178,309,309,Town Center North - Encinitas via ECR,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3090178_309,"(0, 0, 153)","(255, 255, 255)",138944.556742436281638
+30,3090179,309,309,Town Center North - Encinitas via ECR,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3090179_309,"(0, 0, 153)","(255, 255, 255)",131890.860694501636317
+31,3090180,309,309,Town Center North - Encinitas via ECR,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3090180_309,"(0, 0, 153)","(255, 255, 255)",129416.050535510090413
+32,3090181,309,309,Town Center North - Encinitas via ECR,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3090181_309,"(0, 0, 153)","(255, 255, 255)",138944.556742436281638
+33,3090182,309,309,Town Center North - Encinitas via ECR,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3090182_309,"(0, 0, 153)","(255, 255, 255)",136469.746669665677473
+34,3110046,311,311,East Oceanside,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3110046_311,"(0, 0, 153)","(255, 255, 255)",21917.136660392898193
+35,3110050,311,311,East Oceanside,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3110050_311,"(0, 0, 153)","(255, 255, 255)",62297.174370135020581
+36,3110051,311,311,East Oceanside,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3110051_311,"(0, 0, 153)","(255, 255, 255)",37637.444123063120060
+37,3110052,311,311,East Oceanside,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3110052_311,"(0, 0, 153)","(255, 255, 255)",67122.461622043134412
+38,3130042,313,313,Oceanside TC - Town Center North,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3130042_313,"(0, 0, 153)","(255, 255, 255)",55468.995405798159481
+39,3130043,313,313,Oceanside TC - Town Center North,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3130043_313,"(0, 0, 153)","(255, 255, 255)",53780.556268557862495
+40,3130044,313,313,Oceanside TC - Town Center North,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3130044_313,"(0, 0, 153)","(255, 255, 255)",24576.464922385352111
+41,3130045,313,313,Oceanside TC - Town Center North,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3130045_313,"(0, 0, 153)","(255, 255, 255)",26044.872006216017326
+42,3130046,313,313,Oceanside TC - Town Center North,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3130046_313,"(0, 0, 153)","(255, 255, 255)",58247.362229584148736
+43,3130047,313,313,Oceanside TC - Town Center North,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3130047_313,"(0, 0, 153)","(255, 255, 255)",56529.967623566568363
+44,3130048,313,313,Oceanside TC - Town Center North,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3130048_313,"(0, 0, 153)","(255, 255, 255)",27325.876277394050703
+45,3130049,313,313,Oceanside TC - Town Center North,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3130049_313,"(0, 0, 153)","(255, 255, 255)",28823.238830002013856
+46,3150102,315,315,College Bl Sprinter Sta - 22 Area via Vandegrift,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3150102_315,"(0, 0, 153)","(255, 255, 255)",73531.280031180052902
+47,3150103,315,315,College Bl Sprinter Sta - 22 Area via Vandegrift,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3150103_315,"(0, 0, 153)","(255, 255, 255)",100169.903844275293523
+48,3150104,315,315,College Bl Sprinter Sta - 22 Area via Vandegrift,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3150104_315,"(0, 0, 153)","(255, 255, 255)",97694.721473440426053
+49,3150105,315,315,College Bl Sprinter Sta - 22 Area via Vandegrift,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3150105_315,"(0, 0, 153)","(255, 255, 255)",73956.503125333692878
+50,3180094,318,318,Oceanside TC - Vista TC via Oceanside Blvd,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3180094_318,"(0, 0, 153)","(255, 255, 255)",27830.345602021090599
+51,3180097,318,318,Oceanside TC - Vista TC via Oceanside Blvd,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3180097_318,"(0, 0, 153)","(255, 255, 255)",72622.364575838320889
+52,3180098,318,318,Oceanside TC - Vista TC via Oceanside Blvd,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3180098_318,"(0, 0, 153)","(255, 255, 255)",72200.046882774840924
+53,3180099,318,318,Oceanside TC - Vista TC via Oceanside Blvd,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3180099_318,"(0, 0, 153)","(255, 255, 255)",76808.423572394429357
+54,3180100,318,318,Oceanside TC - Vista TC via Oceanside Blvd,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3180100_318,"(0, 0, 153)","(255, 255, 255)",77933.018858324445318
+55,3180101,318,318,Oceanside TC - Vista TC via Oceanside Blvd,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3180101_318,"(0, 0, 153)","(255, 255, 255)",27830.345602021090599
+56,3230087,323,323,College Sprinter - Quarry Creek,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3230087_323,"(0, 0, 153)","(255, 255, 255)",25643.638335696097784
+57,3230088,323,323,College Sprinter - Quarry Creek,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3230088_323,"(0, 0, 153)","(255, 255, 255)",45607.918501848122105
+58,3250061,325,325,Carlsbad Village - College Sprinter,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3250061_325,"(0, 0, 153)","(255, 255, 255)",57397.514952024517697
+59,3250062,325,325,Carlsbad Village - College Sprinter,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3250062_325,"(0, 0, 153)","(255, 255, 255)",59926.832861604962090
+60,3320078,332,332,Vista TC - Buena Creek Station,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3320078_332,"(0, 0, 153)","(255, 255, 255)",61955.362009147254867
+61,3320079,332,332,Vista TC - Buena Creek Station,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3320079_332,"(0, 0, 153)","(255, 255, 255)",60200.862261192116421
+62,3320080,332,332,Vista TC - Buena Creek Station,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3320080_332,"(0, 0, 153)","(255, 255, 255)",55912.939189540309599
+63,3320081,332,332,Vista TC - Buena Creek Station,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3320081_332,"(0, 0, 153)","(255, 255, 255)",57667.439644536789274
+64,3320082,332,332,Vista TC - Buena Creek Station,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3320082_332,"(0, 0, 153)","(255, 255, 255)",57667.439826172267203
+65,3340013,334,334,Vista Circulator,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3340013_334,"(0, 0, 153)","(255, 255, 255)",34281.664771755029506
+66,3470026,347,347,CSUSM to PCTC,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3470026_347,"(0, 0, 153)","(255, 255, 255)",29986.030126760775602
+67,3470027,347,347,CSUSM to PCTC,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3470027_347,"(0, 0, 153)","(255, 255, 255)",29851.463472778756113
+68,3500058,350,350,BREEZE Rapid:  ETC - Del Lago TC,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3500058_350,"(0, 0, 153)","(255, 255, 255)",29517.474161467023805
+69,3500059,350,350,BREEZE Rapid:  ETC - Del Lago TC,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3500059_350,"(0, 0, 153)","(255, 255, 255)",30625.092138519979926
+70,3500060,350,350,BREEZE Rapid:  ETC - Del Lago TC,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3500060_350,"(0, 0, 153)","(255, 255, 255)",21319.796469248929498
+71,3510054,351,351,Escondido Circulator (CCW),3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3510054_351,"(0, 0, 153)","(255, 255, 255)",33588.385037061780167
+72,3510055,351,351,Escondido Circulator (CCW),3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3510055_351,"(0, 0, 153)","(255, 255, 255)",16162.184869163313124
+73,3520043,352,352,Midway & Washington (Clock),3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3520043_352,"(0, 0, 153)","(255, 255, 255)",33327.274087801954011
+74,3520044,352,352,Midway & Washington (Clock),3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3520044_352,"(0, 0, 153)","(255, 255, 255)",15381.862469650959611
+75,3530028,353,353,Escondido to Nordahl Market Pl via Citracado,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3530028_353,"(0, 0, 153)","(255, 255, 255)",26671.633974021777249
+76,3530029,353,353,Escondido to Nordahl Market Pl via Citracado,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3530029_353,"(0, 0, 153)","(255, 255, 255)",25860.801425213983748
+77,3530030,353,353,Escondido to Nordahl Market Pl via Citracado,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3530030_353,"(0, 0, 153)","(255, 255, 255)",26671.633992502582259
+78,3540023,354,354,Escondido TC - Orange Glen High School,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3540023_354,"(0, 0, 153)","(255, 255, 255)",30306.431176163932832
+79,3540024,354,354,Escondido TC - Orange Glen High School,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3540024_354,"(0, 0, 153)","(255, 255, 255)",9386.957169764198625
+80,3540025,354,354,Escondido TC - Orange Glen High School,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3540025_354,"(0, 0, 153)","(255, 255, 255)",33137.867763596477744
+81,3550016,355,355,N. Broadway to El Norte Parkway,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3550016_355,"(0, 0, 153)","(255, 255, 255)",52065.626631697086850
+82,3550017,355,355,N. Broadway to El Norte Parkway,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3550017_355,"(0, 0, 153)","(255, 255, 255)",52065.626633814594243
+83,3560006,356,356,Morningview & Escondido Blvd (Clock),3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3560006_356,"(0, 0, 153)","(255, 255, 255)",24100.279785925424221
+84,3570014,357,357,Valley Parkway to El Norte Parkway,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3570014_357,"(0, 0, 153)","(255, 255, 255)",50450.337888044618012
+85,3570015,357,357,Valley Parkway to El Norte Parkway,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3570015_357,"(0, 0, 153)","(255, 255, 255)",50282.394547151008737
+86,3570017,357,357,Valley Parkway to El Norte Parkway,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3570017_357,"(0, 0, 153)","(255, 255, 255)",50450.338460461862269
+87,3570018,357,357,Valley Parkway to El Norte Parkway,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3570018_357,"(0, 0, 153)","(255, 255, 255)",50450.336725145294622
+88,3580016,358,358,Escondido Country Club (Clock),3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3580016_358,"(0, 0, 153)","(255, 255, 255)",52239.128478023209027
+89,3590015,359,359,Escondido Country Club (Counter),3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3590015_359,"(0, 0, 153)","(255, 255, 255)",52239.130127352749696
+90,3710027,371,371,Escondido - Ramona,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3710027_371,"(0, 0, 153)","(255, 255, 255)",103881.274761095774011
+91,3710028,371,371,Escondido - Ramona,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3710028_371,"(0, 0, 153)","(255, 255, 255)",101243.845372368217795
+92,3710029,371,371,Escondido - Ramona,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3710029_371,"(0, 0, 153)","(255, 255, 255)",105941.051135069050360
+93,3710031,371,371,Escondido - Ramona,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3710031_371,"(0, 0, 153)","(255, 255, 255)",101243.845945348599344
+94,3710032,371,371,Escondido - Ramona,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3710032_371,"(0, 0, 153)","(255, 255, 255)",105941.051708049431909
+95,3710033,371,371,Escondido - Ramona,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3710033_371,"(0, 0, 153)","(255, 255, 255)",103881.274865926170605
+96,3880039,388,388,Escondido - Pala,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3880039_388,"(0, 0, 153)","(255, 255, 255)",172776.532535962440306
+97,3880040,388,388,Escondido - Pala,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3880040_388,"(0, 0, 153)","(255, 255, 255)",172363.440422203217167
+98,3880043,388,388,Escondido - Pala,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3880043_388,"(0, 0, 153)","(255, 255, 255)",172776.533108379720943
+99,3880044,388,388,Escondido - Pala,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3880044_388,"(0, 0, 153)","(255, 255, 255)",172363.440424320724560
+100,3920036,392,392,Oceanside TC - 14 Area,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3920036_392,"(0, 0, 153)","(255, 255, 255)",90403.958426532102749
+101,3920037,392,392,Oceanside TC - 14 Area,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3920037_392,"(0, 0, 153)","(255, 255, 255)",87500.127665115680429
+102,3920038,392,392,Oceanside TC - 14 Area,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3920038_392,"(0, 0, 153)","(255, 255, 255)",87027.569980350221158
+103,3920039,392,392,Oceanside TC - 14 Area,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3920039_392,"(0, 0, 153)","(255, 255, 255)",90500.951328598923283
+104,3950049,395,395,Oceanside TC - Camp San Onofre,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3950049_395,"(0, 0, 153)","(255, 255, 255)",130052.934757099093986
+105,3950051,395,395,Oceanside TC - Camp San Onofre,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3950051_395,"(0, 0, 153)","(255, 255, 255)",131003.928984042780939
+106,3950052,395,395,Oceanside TC - Camp San Onofre,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3950052_395,"(0, 0, 153)","(255, 255, 255)",129580.377072333634715
+107,3950053,395,395,Oceanside TC - Camp San Onofre,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,3950053_395,"(0, 0, 153)","(255, 255, 255)",131100.921886109601473
+108,3980014,398,,COASTER,2,NCTD,,http://www.gonctd.com/coaster,00459D,FFFFFF,Rail,3980014_398,"(0, 0, 153)","(255, 255, 255)",214514.774665082746651
+109,3980016,398,,COASTER,2,NCTD,,http://www.gonctd.com/coaster,00459D,FFFFFF,Rail,3980016_398,"(0, 0, 153)","(255, 255, 255)",214689.654809925472364
+110,3990012,399,,SPRINTER,0,NCTD,,http://www.gonctd.com/sprinter,00AB9B,FFFFFF,"Tram, Streetcar, Light rail",3990012_399,"(0, 0, 153)","(255, 255, 255)",115836.732679497159552
+111,3990013,399,,SPRINTER,0,NCTD,,http://www.gonctd.com/sprinter,00AB9B,FFFFFF,"Tram, Streetcar, Light rail",3990013_399,"(0, 0, 153)","(255, 255, 255)",115836.732679497145000
+112,3990014,399,,SPRINTER,0,NCTD,,http://www.gonctd.com/sprinter,00AB9B,FFFFFF,"Tram, Streetcar, Light rail",3990014_399,"(0, 0, 153)","(255, 255, 255)",64185.873993223176512
+113,4440020,444,444,Poinsettia Station Coaster Conx - Faraday,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,4440020_444,"(0, 0, 153)","(255, 255, 255)",44973.026763098801894
+114,4440022,444,444,Poinsettia Station Coaster Conx - Faraday,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,4440022_444,"(0, 0, 153)","(255, 255, 255)",44196.265392352259369
+115,4450063,445,445,Poinsettia - Palomar College via PAR,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,4450063_445,"(0, 0, 153)","(255, 255, 255)",60211.533311053201032
+116,4450064,445,445,Poinsettia - Palomar College via PAR,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,4450064_445,"(0, 0, 153)","(255, 255, 255)",60683.180503273950308
+117,6040006,604,604,Encinitas - San Marcos,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6040006_604,"(0, 0, 153)","(255, 255, 255)",84307.316992275664234
+118,6040009,604,604,Encinitas - San Marcos,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6040009_604,"(0, 0, 153)","(255, 255, 255)",84325.828096583747538
+119,6040010,604,604,Encinitas - San Marcos,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6040010_604,"(0, 0, 153)","(255, 255, 255)",79573.490132839215221
+120,6080006,608,608,Escondido TC - Del Lago Academy,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6080006_608,"(0, 0, 153)","(255, 255, 255)",15580.465746526841031
+121,6080007,608,608,Escondido TC - Del Lago Academy,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6080007_608,"(0, 0, 153)","(255, 255, 255)",15589.325781035013279
+122,6090007,609,609,Encinitas Station - Sage Creek HS,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6090007_609,"(0, 0, 153)","(255, 255, 255)",64383.549793975922512
+123,6090008,609,609,Encinitas Station - Sage Creek HS,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6090008_609,"(0, 0, 153)","(255, 255, 255)",43569.933604753823602
+124,6230007,623,623,College Sprinter - Sage Creek HS,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6230007_623,"(0, 0, 153)","(255, 255, 255)",65452.350029913955950
+125,6230008,623,623,College Sprinter - Sage Creek HS,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6230008_623,"(0, 0, 153)","(255, 255, 255)",90598.173524310986977
+126,6230010,623,623,College Sprinter - Sage Creek HS,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6230010_623,"(0, 0, 153)","(255, 255, 255)",59013.364467454492114
+127,6230011,623,623,College Sprinter - Sage Creek HS,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6230011_623,"(0, 0, 153)","(255, 255, 255)",59559.987125263709459
+128,6320006,632,632,Vista TC - Rancho Buena Vista HS,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6320006_632,"(0, 0, 153)","(255, 255, 255)",18094.101681231964903
+129,6320007,632,632,Vista TC - Rancho Buena Vista HS,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6320007_632,"(0, 0, 153)","(255, 255, 255)",24805.976161211161525
+130,6510004,651,651,Escondido Circulator - Orange Glen HS,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6510004_651,"(0, 0, 153)","(255, 255, 255)",45932.796522855584044
+131,6520004,652,652,Midway & Washington - Orange Glen HS,3,NCTD,,http://www.gonctd.com/breeze,008C9B,FFFFFF,Bus,6520004_652,"(0, 0, 153)","(255, 255, 255)",45671.686613976933586
+132,105_0_98,105,105,Old Town - University City,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=105,000099,FFFFFF,Bus,105_0_98_105,"(0, 0, 153)","(255, 255, 255)",54630.034465856188035
+133,105_0_99,105,105,Old Town - University City,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=105,000099,FFFFFF,Bus,105_0_99_105,"(0, 0, 153)","(255, 255, 255)",32981.031048265846039
+134,105_1_102,105,105,Old Town - University City,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=105,000099,FFFFFF,Bus,105_1_102_105,"(0, 0, 153)","(255, 255, 255)",37947.438291409394878
+135,105_1_103,105,105,Old Town - University City,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=105,000099,FFFFFF,Bus,105_1_103_105,"(0, 0, 153)","(255, 255, 255)",54934.031196192154312
+136,105_1_104,105,105,Old Town - University City,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=105,000099,FFFFFF,Bus,105_1_104_105,"(0, 0, 153)","(255, 255, 255)",25812.646203135809628
+137,10_2_69,10,10,Old Town - University/College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=10,000099,FFFFFF,Bus,10_2_69_10,"(0, 0, 153)","(255, 255, 255)",46979.334334836021299
+138,10_2_71,10,10,Old Town - University/College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=10,000099,FFFFFF,Bus,10_2_71_10,"(0, 0, 153)","(255, 255, 255)",35911.244343862374080
+139,10_3_70,10,10,Old Town - University/College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=10,000099,FFFFFF,Bus,10_3_70_10,"(0, 0, 153)","(255, 255, 255)",48479.256004075985402
+140,10_3_72,10,10,Old Town - University/College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=10,000099,FFFFFF,Bus,10_3_72_10,"(0, 0, 153)","(255, 255, 255)",33028.309655823519279
+141,110_0_22,110,110,Mira Mesa - Downtown via Hwy 163,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=110,000099,FFFFFF,Bus,110_0_22_110,"(0, 0, 153)","(255, 255, 255)",104997.849345261522103
+142,110_1_21,110,110,Mira Mesa - Downtown via Hwy 163,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=110,000099,FFFFFF,Bus,110_1_21_110,"(0, 0, 153)","(255, 255, 255)",103910.427917962908396
+143,115_2_79,115,115,El Cajon T.C. - SDSU T.C.,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=115,000099,FFFFFF,Bus,115_2_79_115,"(0, 0, 153)","(255, 255, 255)",32338.018884367495048
+144,115_2_81,115,115,El Cajon T.C. - SDSU T.C.,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=115,000099,FFFFFF,Bus,115_2_81_115,"(0, 0, 153)","(255, 255, 255)",61830.653685424120340
+145,115_2_82,115,115,El Cajon T.C. - SDSU T.C.,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=115,000099,FFFFFF,Bus,115_2_82_115,"(0, 0, 153)","(255, 255, 255)",50500.135093658333062
+146,115_3_76,115,115,El Cajon T.C. - SDSU T.C.,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=115,000099,FFFFFF,Bus,115_3_76_115,"(0, 0, 153)","(255, 255, 255)",48620.862226185185136
+147,115_3_77,115,115,El Cajon T.C. - SDSU T.C.,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=115,000099,FFFFFF,Bus,115_3_77_115,"(0, 0, 153)","(255, 255, 255)",59259.275315496910480
+148,115_3_80,115,115,El Cajon T.C. - SDSU T.C.,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=115,000099,FFFFFF,Bus,115_3_80_115,"(0, 0, 153)","(255, 255, 255)",26651.230050271282380
+149,115_3_84,115,115,El Cajon T.C. - SDSU T.C.,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=115,000099,FFFFFF,Bus,115_3_84_115,"(0, 0, 153)","(255, 255, 255)",15393.876042712983690
+150,11_0_314,11,11,SDSU - Downtown San Diego,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=11,000099,FFFFFF,Bus,11_0_314_11,"(0, 0, 153)","(255, 255, 255)",52222.186442101658031
+151,11_0_317,11,11,SDSU - Downtown San Diego,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=11,000099,FFFFFF,Bus,11_0_317_11,"(0, 0, 153)","(255, 255, 255)",55807.768609482642205
+152,11_1_315,11,11,SDSU - Downtown San Diego,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=11,000099,FFFFFF,Bus,11_1_315_11,"(0, 0, 153)","(255, 255, 255)",55120.538296900966088
+153,11_1_316,11,11,SDSU - Downtown San Diego,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=11,000099,FFFFFF,Bus,11_1_316_11,"(0, 0, 153)","(255, 255, 255)",36370.869499774424185
+154,11_1_318,11,11,SDSU - Downtown San Diego,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=11,000099,FFFFFF,Bus,11_1_318_11,"(0, 0, 153)","(255, 255, 255)",61797.398531025850389
+155,120_0_127,120,120,Downtown San Diego - Kearny Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=120,000099,FFFFFF,Bus,120_0_127_120,"(0, 0, 153)","(255, 255, 255)",29084.344713229718764
+156,120_0_133,120,120,Downtown San Diego - Kearny Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=120,000099,FFFFFF,Bus,120_0_133_120,"(0, 0, 153)","(255, 255, 255)",67806.660140525389579
+157,120_0_135,120,120,Downtown San Diego - Kearny Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=120,000099,FFFFFF,Bus,120_0_135_120,"(0, 0, 153)","(255, 255, 255)",54023.328580033296021
+158,120_1_131,120,120,Downtown San Diego - Kearny Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=120,000099,FFFFFF,Bus,120_1_131_120,"(0, 0, 153)","(255, 255, 255)",62839.049988537219178
+159,120_1_132,120,120,Downtown San Diego - Kearny Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=120,000099,FFFFFF,Bus,120_1_132_120,"(0, 0, 153)","(255, 255, 255)",25073.854009704977216
+160,120_1_134,120,120,Downtown San Diego - Kearny Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=120,000099,FFFFFF,Bus,120_1_134_120,"(0, 0, 153)","(255, 255, 255)",46213.582671836673399
+161,12_2_11,12,12,City College - Skyline Hills,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=12,000099,FFFFFF,Bus,12_2_11_12,"(0, 0, 153)","(255, 255, 255)",20839.431985513965628
+162,12_2_27,12,12,City College - Skyline Hills,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=12,000099,FFFFFF,Bus,12_2_27_12,"(0, 0, 153)","(255, 255, 255)",49147.716309812720283
+163,12_3_24,12,12,City College - Skyline Hills,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=12,000099,FFFFFF,Bus,12_3_24_12,"(0, 0, 153)","(255, 255, 255)",25543.023224025608215
+164,12_3_26,12,12,City College - Skyline Hills,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=12,000099,FFFFFF,Bus,12_3_26_12,"(0, 0, 153)","(255, 255, 255)",52285.835347865271615
+165,12_3_28,12,12,City College - Skyline Hills,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=12,000099,FFFFFF,Bus,12_3_28_12,"(0, 0, 153)","(255, 255, 255)",50947.871559890947537
+166,12_3_29,12,12,City College - Skyline Hills,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=12,000099,FFFFFF,Bus,12_3_29_12,"(0, 0, 153)","(255, 255, 255)",27418.414045650009939
+167,13_0_173,13,13,Kaiser Hospital  - 24th St Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=13,000099,FFFFFF,Bus,13_0_173_13,"(0, 0, 153)","(255, 255, 255)",39620.483731190121034
+168,13_0_197,13,13,Kaiser Hospital  - 24th St Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=13,000099,FFFFFF,Bus,13_0_197_13,"(0, 0, 153)","(255, 255, 255)",65570.572427604696713
+169,13_0_198,13,13,Kaiser Hospital  - 24th St Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=13,000099,FFFFFF,Bus,13_0_198_13,"(0, 0, 153)","(255, 255, 255)",25950.088696414553851
+170,13_1_193,13,13,Kaiser Hospital  - 24th St Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=13,000099,FFFFFF,Bus,13_1_193_13,"(0, 0, 153)","(255, 255, 255)",65490.137269301732886
+171,13_1_194,13,13,Kaiser Hospital  - 24th St Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=13,000099,FFFFFF,Bus,13_1_194_13,"(0, 0, 153)","(255, 255, 255)",56644.856394598733459
+172,13_1_195,13,13,Kaiser Hospital  - 24th St Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=13,000099,FFFFFF,Bus,13_1_195_13,"(0, 0, 153)","(255, 255, 255)",40413.959966099369922
+173,13_1_196,13,13,Kaiser Hospital  - 24th St Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=13,000099,FFFFFF,Bus,13_1_196_13,"(0, 0, 153)","(255, 255, 255)",25076.177303202366602
+174,14_2_97,14,14,Grantville Trolley  -  Baltimore & Lake Murray,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=14,000099,FFFFFF,Bus,14_2_97_14,"(0, 0, 153)","(255, 255, 255)",53559.300504735845607
+175,14_3_98,14,14,Grantville Trolley  -  Baltimore & Lake Murray,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=14,000099,FFFFFF,Bus,14_3_98_14,"(0, 0, 153)","(255, 255, 255)",50976.065001340226445
+176,18_8_9,18,18,Grantville Trlly via Camino del Rio,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=18,000099,FFFFFF,Bus,18_8_9_18,"(0, 0, 153)","(255, 255, 255)",39360.125434607754869
+177,1_2_161,1,1,Fashion Valley - La Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=1,000099,FFFFFF,Bus,1_2_161_1,"(0, 0, 153)","(255, 255, 255)",60383.222130459900654
+178,1_3_162,1,1,Fashion Valley - La Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=1,000099,FFFFFF,Bus,1_3_162_1,"(0, 0, 153)","(255, 255, 255)",45012.826173532965186
+179,1_3_163,1,1,Fashion Valley - La Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=1,000099,FFFFFF,Bus,1_3_163_1,"(0, 0, 153)","(255, 255, 255)",60729.825826492124179
+180,1_3_164,1,1,Fashion Valley - La Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=1,000099,FFFFFF,Bus,1_3_164_1,"(0, 0, 153)","(255, 255, 255)",46384.106779837842623
+181,201_9_31,201,201,Super Loop - Counterclockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=201,CC0000,FFFFFF,Bus,201_9_31_201,"(0, 0, 153)","(255, 255, 255)",30646.698841756508045
+182,201_9_32,201,201,Super Loop - Counterclockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=201,CC0000,FFFFFF,Bus,201_9_32_201,"(0, 0, 153)","(255, 255, 255)",15328.577572557951498
+183,202_8_35,202,202,Super Loop - Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=202,CC0000,FFFFFF,Bus,202_8_35_202,"(0, 0, 153)","(255, 255, 255)",30646.743484548336710
+184,202_8_36,202,202,Super Loop - Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=202,CC0000,FFFFFF,Bus,202_8_36_202,"(0, 0, 153)","(255, 255, 255)",15948.860318416243899
+185,204_8_7,204,204,Super Loop - Judicial Dr.,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=204,CC0000,FFFFFF,Bus,204_8_7_204,"(0, 0, 153)","(255, 255, 255)",17951.227865515465965
+186,20_0_256,20,20,Downtown - Rancho Bernardo Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=20,000099,FFFFFF,Bus,20_0_256_20,"(0, 0, 153)","(255, 255, 255)",58123.765390958389617
+187,20_0_258,20,20,Downtown - Rancho Bernardo Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=20,000099,FFFFFF,Bus,20_0_258_20,"(0, 0, 153)","(255, 255, 255)",153486.105992551223608
+188,20_0_260,20,20,Downtown - Rancho Bernardo Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=20,000099,FFFFFF,Bus,20_0_260_20,"(0, 0, 153)","(255, 255, 255)",152070.027345050213626
+189,20_0_261,20,20,Downtown - Rancho Bernardo Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=20,000099,FFFFFF,Bus,20_0_261_20,"(0, 0, 153)","(255, 255, 255)",56707.686743457423290
+190,20_0_262,20,20,Downtown - Rancho Bernardo Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=20,000099,FFFFFF,Bus,20_0_262_20,"(0, 0, 153)","(255, 255, 255)",95813.645684495844762
+191,20_0_263,20,20,Downtown - Rancho Bernardo Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=20,000099,FFFFFF,Bus,20_0_263_20,"(0, 0, 153)","(255, 255, 255)",94397.567036994892987
+192,20_1_257,20,20,Downtown - Rancho Bernardo Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=20,000099,FFFFFF,Bus,20_1_257_20,"(0, 0, 153)","(255, 255, 255)",154104.717669647274306
+193,20_1_259,20,20,Downtown - Rancho Bernardo Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=20,000099,FFFFFF,Bus,20_1_259_20,"(0, 0, 153)","(255, 255, 255)",61117.591530360252364
+194,20_1_264,20,20,Downtown - Rancho Bernardo Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=20,000099,FFFFFF,Bus,20_1_264_20,"(0, 0, 153)","(255, 255, 255)",98612.267165510667837
+195,215_2_25,215,215,Mid-City Rapid,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=215,CC0000,FFFFFF,Bus,215_2_25_215,"(0, 0, 153)","(255, 255, 255)",52365.643220733458293
+196,215_3_27,215,215,Mid-City Rapid,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=215,CC0000,FFFFFF,Bus,215_3_27_215,"(0, 0, 153)","(255, 255, 255)",51700.469589063875901
+197,215_3_28,215,215,Mid-City Rapid,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=215,CC0000,FFFFFF,Bus,215_3_28_215,"(0, 0, 153)","(255, 255, 255)",33732.096588525542757
+198,225_0_23,225,225,Downtown - Otay Mesa TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=225,CC0000,FFFFFF,Bus,225_0_23_225,"(0, 0, 153)","(255, 255, 255)",130372.991193058420322
+199,225_1_22,225,225,Downtown - Otay Mesa TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=225,CC0000,FFFFFF,Bus,225_1_22_225,"(0, 0, 153)","(255, 255, 255)",131118.747007604513783
+200,227_2_6,227,227,Imperial Beach - Otay Mesa TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=227,CC0000,FFFFFF,Bus,227_2_6_227,"(0, 0, 153)","(255, 255, 255)",43618.867037759111554
+201,227_2_9,227,227,Imperial Beach - Otay Mesa TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=227,CC0000,FFFFFF,Bus,227_2_9_227,"(0, 0, 153)","(255, 255, 255)",66956.631804899632698
+202,227_3_10,227,227,Imperial Beach - Otay Mesa TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=227,CC0000,FFFFFF,Bus,227_3_10_227,"(0, 0, 153)","(255, 255, 255)",70406.172590800269973
+203,227_3_11,227,227,Imperial Beach - Otay Mesa TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=227,CC0000,FFFFFF,Bus,227_3_11_227,"(0, 0, 153)","(255, 255, 255)",42640.388900520832976
+204,235_0_65,235,235,Downtown - Escondido Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=235,CC0000,FFFFFF,Bus,235_0_65_235,"(0, 0, 153)","(255, 255, 255)",202901.644180385483196
+205,235_1_66,235,235,Downtown - Escondido Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=235,CC0000,FFFFFF,Bus,235_1_66_235,"(0, 0, 153)","(255, 255, 255)",200855.232982012792490
+206,235_1_67,235,235,Downtown - Escondido Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=235,CC0000,FFFFFF,Bus,235_1_67_235,"(0, 0, 153)","(255, 255, 255)",104925.667713811737485
+207,235_1_68,235,235,Downtown - Escondido Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=235,CC0000,FFFFFF,Bus,235_1_68_235,"(0, 0, 153)","(255, 255, 255)",67056.831464471091749
+208,237_0_34,237,237,Miramar College Transit Station - UCSD,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=237,CC0000,FFFFFF,Bus,237_0_34_237,"(0, 0, 153)","(255, 255, 255)",51960.604366565472446
+209,237_1_33,237,237,Miramar College Transit Station - UCSD,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=237,CC0000,FFFFFF,Bus,237_1_33_237,"(0, 0, 153)","(255, 255, 255)",54201.000619304562861
+210,25_0_90,25,25,Fashion Valley - Kearny Mesa TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=25,000099,FFFFFF,Bus,25_0_90_25,"(0, 0, 153)","(255, 255, 255)",28197.830046042090544
+211,25_0_97,25,25,Fashion Valley - Kearny Mesa TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=25,000099,FFFFFF,Bus,25_0_97_25,"(0, 0, 153)","(255, 255, 255)",62086.493306505493820
+212,25_1_93,25,25,Fashion Valley - Kearny Mesa TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=25,000099,FFFFFF,Bus,25_1_93_25,"(0, 0, 153)","(255, 255, 255)",40323.172496015627985
+213,25_1_96,25,25,Fashion Valley - Kearny Mesa TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=25,000099,FFFFFF,Bus,25_1_96_25,"(0, 0, 153)","(255, 255, 255)",69563.354913507151650
+214,27_2_86,27,27,Pacific Beach - Kearny Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=27,000099,FFFFFF,Bus,27_2_86_27,"(0, 0, 153)","(255, 255, 255)",43815.727976232345100
+215,27_2_90,27,27,Pacific Beach - Kearny Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=27,000099,FFFFFF,Bus,27_2_90_27,"(0, 0, 153)","(255, 255, 255)",29521.675023043320834
+216,27_3_87,27,27,Pacific Beach - Kearny Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=27,000099,FFFFFF,Bus,27_3_87_27,"(0, 0, 153)","(255, 255, 255)",47247.332827179481683
+217,27_3_88,27,27,Pacific Beach - Kearny Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=27,000099,FFFFFF,Bus,27_3_88_27,"(0, 0, 153)","(255, 255, 255)",30431.786345596847241
+218,27_3_89,27,27,Pacific Beach - Kearny Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=27,000099,FFFFFF,Bus,27_3_89_27,"(0, 0, 153)","(255, 255, 255)",16815.546481582648994
+219,280_0_20,280,280,Escondido Transit Center - Downtown,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=280,CC0000,FFFFFF,Bus,280_0_20_280,"(0, 0, 153)","(255, 255, 255)",176633.757750545511954
+220,280_1_21,280,280,Escondido Transit Center - Downtown,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=280,CC0000,FFFFFF,Bus,280_1_21_280,"(0, 0, 153)","(255, 255, 255)",175548.114596162980888
+221,28_2_54,28,28,Old Town T.C. - Shelter Island,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=28,000099,FFFFFF,Bus,28_2_54_28,"(0, 0, 153)","(255, 255, 255)",17587.224798119816114
+222,28_3_53,28,28,Old Town T.C. - Shelter Island,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=28,000099,FFFFFF,Bus,28_3_53_28,"(0, 0, 153)","(255, 255, 255)",18369.686833687930630
+223,290_0_19,290,290,Rancho Bernardo Station - Downtown,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=290,CC0000,FFFFFF,Bus,290_0_19_290,"(0, 0, 153)","(255, 255, 255)",131625.849371119227726
+224,290_1_18,290,290,Rancho Bernardo Station - Downtown,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=290,CC0000,FFFFFF,Bus,290_1_18_290,"(0, 0, 153)","(255, 255, 255)",130389.085698288312415
+225,2_0_85,2,2,Downtown San Diego - 30th & Adams,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=2,000099,FFFFFF,Bus,2_0_85_2,"(0, 0, 153)","(255, 255, 255)",30963.679247950160061
+226,2_1_86,2,2,Downtown San Diego - 30th & Adams,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=2,000099,FFFFFF,Bus,2_1_86_2,"(0, 0, 153)","(255, 255, 255)",30415.181090493162628
+227,30_0_343,30,30,Old Town  - UTC via Pacific Beach,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=30,000099,FFFFFF,Bus,30_0_343_30,"(0, 0, 153)","(255, 255, 255)",34614.282464350952068
+228,30_0_345,30,30,Old Town  - UTC via Pacific Beach,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=30,000099,FFFFFF,Bus,30_0_345_30,"(0, 0, 153)","(255, 255, 255)",93851.143102267873473
+229,30_1_334,30,30,Old Town  - UTC via Pacific Beach,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=30,000099,FFFFFF,Bus,30_1_334_30,"(0, 0, 153)","(255, 255, 255)",36972.112923425862391
+230,30_1_341,30,30,Old Town  - UTC via Pacific Beach,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=30,000099,FFFFFF,Bus,30_1_341_30,"(0, 0, 153)","(255, 255, 255)",91469.607336169690825
+231,30_1_342,30,30,Old Town  - UTC via Pacific Beach,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=30,000099,FFFFFF,Bus,30_1_342_30,"(0, 0, 153)","(255, 255, 255)",55134.734271505796642
+232,31_2_41,31,31,UTC - Mira Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=31,000099,FFFFFF,Bus,31_2_41_31,"(0, 0, 153)","(255, 255, 255)",41472.019973908660177
+233,31_3_42,31,31,UTC - Mira Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=31,000099,FFFFFF,Bus,31_3_42_31,"(0, 0, 153)","(255, 255, 255)",40439.845592699733970
+234,35_2_53,35,35,Ocean Beach - Old Town,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=35,000099,FFFFFF,Bus,35_2_53_35,"(0, 0, 153)","(255, 255, 255)",21319.461234165904898
+235,35_3_52,35,35,Ocean Beach - Old Town,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=35,000099,FFFFFF,Bus,35_3_52_35,"(0, 0, 153)","(255, 255, 255)",19522.746996141435375
+236,3_0_98,3,3,UCSD Hospital - Euclid Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=3,000099,FFFFFF,Bus,3_0_98_3,"(0, 0, 153)","(255, 255, 255)",49428.175188700435683
+237,3_1_93,3,3,UCSD Hospital - Euclid Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=3,000099,FFFFFF,Bus,3_1_93_3,"(0, 0, 153)","(255, 255, 255)",49532.973909869666386
+238,41_0_104,41,41,Fashion Valley -  UCSD,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=41,000099,FFFFFF,Bus,41_0_104_41,"(0, 0, 153)","(255, 255, 255)",51172.747226951862103
+239,41_0_105,41,41,Fashion Valley -  UCSD,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=41,000099,FFFFFF,Bus,41_0_105_41,"(0, 0, 153)","(255, 255, 255)",61159.203677795478143
+240,41_0_108,41,41,Fashion Valley -  UCSD,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=41,000099,FFFFFF,Bus,41_0_108_41,"(0, 0, 153)","(255, 255, 255)",31739.083035338833724
+241,41_1_110,41,41,Fashion Valley -  UCSD,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=41,000099,FFFFFF,Bus,41_1_110_41,"(0, 0, 153)","(255, 255, 255)",51995.743496547183895
+242,41_1_111,41,41,Fashion Valley -  UCSD,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=41,000099,FFFFFF,Bus,41_1_111_41,"(0, 0, 153)","(255, 255, 255)",63617.603186801592528
+243,41_1_112,41,41,Fashion Valley -  UCSD,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=41,000099,FFFFFF,Bus,41_1_112_41,"(0, 0, 153)","(255, 255, 255)",34212.415647942427313
+244,43_2_5,43,43,Balboa Av TC - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=43,000099,FFFFFF,Bus,43_2_5_43,"(0, 0, 153)","(255, 255, 255)",35531.373613297604606
+245,43_3_6,43,43,Balboa Av TC - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=43,000099,FFFFFF,Bus,43_3_6_43,"(0, 0, 153)","(255, 255, 255)",37603.697410819586366
+246,44_0_77,44,44,Old Town - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=44,000099,FFFFFF,Bus,44_0_77_44,"(0, 0, 153)","(255, 255, 255)",40318.768756063182082
+247,44_0_78,44,44,Old Town - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=44,000099,FFFFFF,Bus,44_0_78_44,"(0, 0, 153)","(255, 255, 255)",46207.521357616526075
+248,44_0_79,44,44,Old Town - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=44,000099,FFFFFF,Bus,44_0_79_44,"(0, 0, 153)","(255, 255, 255)",26635.399618074134196
+249,44_1_63,44,44,Old Town - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=44,000099,FFFFFF,Bus,44_1_63_44,"(0, 0, 153)","(255, 255, 255)",25808.280384799130843
+250,44_1_76,44,44,Old Town - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=44,000099,FFFFFF,Bus,44_1_76_44,"(0, 0, 153)","(255, 255, 255)",47065.060042582270398
+251,44_1_80,44,44,Old Town - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=44,000099,FFFFFF,Bus,44_1_80_44,"(0, 0, 153)","(255, 255, 255)",39384.059819845693710
+252,4_2_63,4,4,12th & Imperial Trolley - Lomita Village,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=4,000099,FFFFFF,Bus,4_2_63_4,"(0, 0, 153)","(255, 255, 255)",24733.710152714091237
+253,4_2_65,4,4,12th & Imperial Trolley - Lomita Village,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=4,000099,FFFFFF,Bus,4_2_65_4,"(0, 0, 153)","(255, 255, 255)",58044.584659248415846
+254,4_3_62,4,4,12th & Imperial Trolley - Lomita Village,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=4,000099,FFFFFF,Bus,4_3_62_4,"(0, 0, 153)","(255, 255, 255)",23868.259538621518004
+255,4_3_64,4,4,12th & Imperial Trolley - Lomita Village,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=4,000099,FFFFFF,Bus,4_3_64_4,"(0, 0, 153)","(255, 255, 255)",58758.495817948300100
+256,4_3_66,4,4,12th & Imperial Trolley - Lomita Village,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=4,000099,FFFFFF,Bus,4_3_66_4,"(0, 0, 153)","(255, 255, 255)",57420.532029973968747
+257,510_0_323,510,Blue,San Ysidro - UTC,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=blue_line,0000FF,FFFFFF,"Tram, Streetcar, Light rail",510_0_323_510,"(0, 0, 153)","(255, 255, 255)",83192.497669826756464
+258,510_0_324,510,Blue,San Ysidro - UTC,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=blue_line,0000FF,FFFFFF,"Tram, Streetcar, Light rail",510_0_324_510,"(0, 0, 153)","(255, 255, 255)",83128.751969229779206
+259,510_0_352,510,Blue,San Ysidro - UTC,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=blue_line,0000FF,FFFFFF,"Tram, Streetcar, Light rail",510_0_352_510,"(0, 0, 153)","(255, 255, 255)",160069.953780700161587
+260,510_0_354,510,Blue,San Ysidro - UTC,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=blue_line,0000FF,FFFFFF,"Tram, Streetcar, Light rail",510_0_354_510,"(0, 0, 153)","(255, 255, 255)",85411.747691769312951
+261,510_0_357,510,Blue,San Ysidro - UTC,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=blue_line,0000FF,FFFFFF,"Tram, Streetcar, Light rail",510_0_357_510,"(0, 0, 153)","(255, 255, 255)",75992.102024807798443
+262,510_1_326,510,Blue,San Ysidro - UTC,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=blue_line,0000FF,FFFFFF,"Tram, Streetcar, Light rail",510_1_326_510,"(0, 0, 153)","(255, 255, 255)",83128.881537690103869
+263,510_1_329,510,Blue,San Ysidro - UTC,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=blue_line,0000FF,FFFFFF,"Tram, Streetcar, Light rail",510_1_329_510,"(0, 0, 153)","(255, 255, 255)",70898.693557246690034
+264,510_1_330,510,Blue,San Ysidro - UTC,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=blue_line,0000FF,FFFFFF,"Tram, Streetcar, Light rail",510_1_330_510,"(0, 0, 153)","(255, 255, 255)",120854.067823330478859
+265,510_1_348,510,Blue,San Ysidro - UTC,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=blue_line,0000FF,FFFFFF,"Tram, Streetcar, Light rail",510_1_348_510,"(0, 0, 153)","(255, 255, 255)",160070.153784046240617
+266,510_1_350,510,Blue,San Ysidro - UTC,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=blue_line,0000FF,FFFFFF,"Tram, Streetcar, Light rail",510_1_350_510,"(0, 0, 153)","(255, 255, 255)",85463.266539025877137
+267,510_1_367,510,Blue,San Ysidro - UTC,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=blue_line,0000FF,FFFFFF,"Tram, Streetcar, Light rail",510_1_367_510,"(0, 0, 153)","(255, 255, 255)",69387.390953754904331
+268,520_2_280,520,Orange,El Cajon - Courthouse,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=orange_line,FF6600,FFFFFF,"Tram, Streetcar, Light rail",520_2_280_520,"(0, 0, 153)","(255, 255, 255)",88453.063693161559058
+269,520_2_284,520,Orange,El Cajon - Courthouse,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=orange_line,FF6600,FFFFFF,"Tram, Streetcar, Light rail",520_2_284_520,"(0, 0, 153)","(255, 255, 255)",76133.706502690227353
+270,520_2_285,520,Orange,El Cajon - Courthouse,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=orange_line,FF6600,FFFFFF,"Tram, Streetcar, Light rail",520_2_285_520,"(0, 0, 153)","(255, 255, 255)",87354.805696016104775
+271,520_3_281,520,Orange,El Cajon - Courthouse,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=orange_line,FF6600,FFFFFF,"Tram, Streetcar, Light rail",520_3_281_520,"(0, 0, 153)","(255, 255, 255)",89371.765232603691402
+272,520_3_283,520,Orange,El Cajon - Courthouse,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=orange_line,FF6600,FFFFFF,"Tram, Streetcar, Light rail",520_3_283_520,"(0, 0, 153)","(255, 255, 255)",88453.057770652725594
+273,530_2_354,530,Green,El Cajon - 12th & Imperial,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=green_line,009900,FFFFFF,"Tram, Streetcar, Light rail",530_2_354_530,"(0, 0, 153)","(255, 255, 255)",107497.041380505208508
+274,530_2_356,530,Green,El Cajon - 12th & Imperial,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=green_line,009900,FFFFFF,"Tram, Streetcar, Light rail",530_2_356_530,"(0, 0, 153)","(255, 255, 255)",105472.865801485138945
+275,530_3_333,530,Green,El Cajon - 12th & Imperial,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=green_line,009900,FFFFFF,"Tram, Streetcar, Light rail",530_3_333_530,"(0, 0, 153)","(255, 255, 255)",54490.587989866624412
+276,530_3_355,530,Green,El Cajon - 12th & Imperial,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=green_line,009900,FFFFFF,"Tram, Streetcar, Light rail",530_3_355_530,"(0, 0, 153)","(255, 255, 255)",107478.012422711064573
+277,5_2_91,5,5,Downtown San Diego - Euclid Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=5,000099,FFFFFF,Bus,5_2_91_5,"(0, 0, 153)","(255, 255, 255)",24100.097647021972080
+278,5_3_90,5,5,Downtown San Diego - Euclid Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=5,000099,FFFFFF,Bus,5_3_90_5,"(0, 0, 153)","(255, 255, 255)",24741.910898842339520
+279,60_0_24,60,60,Euclid Av Transit Center - UTC  via Convoy,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=60,000099,FFFFFF,Bus,60_0_24_60,"(0, 0, 153)","(255, 255, 255)",94496.063601693414967
+280,60_1_23,60,60,Euclid Av Transit Center - UTC  via Convoy,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=60,000099,FFFFFF,Bus,60_1_23_60,"(0, 0, 153)","(255, 255, 255)",94885.951231699204072
+281,6_2_79,6,6,North Park - Fashion Valley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=6,000099,FFFFFF,Bus,6_2_79_6,"(0, 0, 153)","(255, 255, 255)",23522.272790151018853
+282,6_3_78,6,6,North Park - Fashion Valley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=6,000099,FFFFFF,Bus,6_3_78_6,"(0, 0, 153)","(255, 255, 255)",21657.333294921452762
+283,6_3_80,6,6,North Park - Fashion Valley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=6,000099,FFFFFF,Bus,6_3_80_6,"(0, 0, 153)","(255, 255, 255)",21034.686344751335128
+284,701_0_24,701,701,H St Transit Center - Palomar St TC via Hilltop Dr,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=701,000099,FFFFFF,Bus,701_0_24_701,"(0, 0, 153)","(255, 255, 255)",45088.071158626822580
+285,701_1_25,701,701,H St Transit Center - Palomar St TC via Hilltop Dr,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=701,000099,FFFFFF,Bus,701_1_25_701,"(0, 0, 153)","(255, 255, 255)",45050.276224589419144
+286,704_0_74,704,704,E St Transit Center - Palomar Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=704,000099,FFFFFF,Bus,704_0_74_704,"(0, 0, 153)","(255, 255, 255)",70553.870410038784030
+287,704_0_75,704,704,E St Transit Center - Palomar Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=704,000099,FFFFFF,Bus,704_0_75_704,"(0, 0, 153)","(255, 255, 255)",33546.457372596662026
+288,704_0_77,704,704,E St Transit Center - Palomar Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=704,000099,FFFFFF,Bus,704_0_77_704,"(0, 0, 153)","(255, 255, 255)",37007.413037442151108
+289,704_0_79,704,704,E St Transit Center - Palomar Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=704,000099,FFFFFF,Bus,704_0_79_704,"(0, 0, 153)","(255, 255, 255)",32868.673757240532723
+290,704_1_71,704,704,E St Transit Center - Palomar Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=704,000099,FFFFFF,Bus,704_1_71_704,"(0, 0, 153)","(255, 255, 255)",19577.398788926315319
+291,704_1_76,704,704,E St Transit Center - Palomar Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=704,000099,FFFFFF,Bus,704_1_76_704,"(0, 0, 153)","(255, 255, 255)",34079.862557075597579
+292,704_1_78,704,704,E St Transit Center - Palomar Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=704,000099,FFFFFF,Bus,704_1_78_704,"(0, 0, 153)","(255, 255, 255)",71058.065089413474197
+293,705_2_42,705,705,E St Transit Center - Plaza Bonita,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=705,000099,FFFFFF,Bus,705_2_42_705,"(0, 0, 153)","(255, 255, 255)",49106.167161214456428
+294,705_2_43,705,705,E St Transit Center - Plaza Bonita,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=705,000099,FFFFFF,Bus,705_2_43_705,"(0, 0, 153)","(255, 255, 255)",18969.987593293149985
+295,705_3_44,705,705,E St Transit Center - Plaza Bonita,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=705,000099,FFFFFF,Bus,705_3_44_705,"(0, 0, 153)","(255, 255, 255)",19782.715316059875477
+296,705_3_45,705,705,E St Transit Center - Plaza Bonita,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=705,000099,FFFFFF,Bus,705_3_45_705,"(0, 0, 153)","(255, 255, 255)",48893.782210832243436
+297,707_0_15,707,707,Otay Ranch Town Center - Southwestern College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=707,000099,FFFFFF,Bus,707_0_15_707,"(0, 0, 153)","(255, 255, 255)",35485.342080771966721
+298,707_1_16,707,707,Otay Ranch Town Center - Southwestern College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=707,000099,FFFFFF,Bus,707_1_16_707,"(0, 0, 153)","(255, 255, 255)",32082.529069110751152
+299,709_2_117,709,709,H St Transit Center - Otay Ranch Town Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=709,000099,FFFFFF,Bus,709_2_117_709,"(0, 0, 153)","(255, 255, 255)",33332.253581117234717
+300,709_2_121,709,709,H St Transit Center - Otay Ranch Town Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=709,000099,FFFFFF,Bus,709_2_121_709,"(0, 0, 153)","(255, 255, 255)",48660.856741676478123
+301,709_3_118,709,709,H St Transit Center - Otay Ranch Town Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=709,000099,FFFFFF,Bus,709_3_118_709,"(0, 0, 153)","(255, 255, 255)",34429.720498535294610
+302,709_3_122,709,709,H St Transit Center - Otay Ranch Town Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=709,000099,FFFFFF,Bus,709_3_122_709,"(0, 0, 153)","(255, 255, 255)",47776.249895736131293
+303,712_2_83,712,712,Palomar Transit Center - Southwestern College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=712,000099,FFFFFF,Bus,712_2_83_712,"(0, 0, 153)","(255, 255, 255)",39485.922185285577143
+304,712_3_84,712,712,Palomar Transit Center - Southwestern College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=712,000099,FFFFFF,Bus,712_3_84_712,"(0, 0, 153)","(255, 255, 255)",39428.710885918437270
+305,712_3_85,712,712,Palomar Transit Center - Southwestern College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=712,000099,FFFFFF,Bus,712_3_85_712,"(0, 0, 153)","(255, 255, 255)",29386.028410600905772
+306,7_0_286,7,7,Downtown San Diego - University/College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=7,000099,FFFFFF,Bus,7_0_286_7,"(0, 0, 153)","(255, 255, 255)",44233.738918773204205
+307,7_0_287,7,7,Downtown San Diego - University/College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=7,000099,FFFFFF,Bus,7_0_287_7,"(0, 0, 153)","(255, 255, 255)",38740.690508762236277
+308,7_0_288,7,7,Downtown San Diego - University/College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=7,000099,FFFFFF,Bus,7_0_288_7,"(0, 0, 153)","(255, 255, 255)",33914.886235823527386
+309,7_1_283,7,7,Downtown San Diego - University/College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=7,000099,FFFFFF,Bus,7_1_283_7,"(0, 0, 153)","(255, 255, 255)",44243.639562940785254
+310,7_1_284,7,7,Downtown San Diego - University/College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=7,000099,FFFFFF,Bus,7_1_284_7,"(0, 0, 153)","(255, 255, 255)",29242.618095901703782
+311,815_2_22,815,815,El Cajon Transit Center - East Main St,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=815,000099,FFFFFF,Bus,815_2_22_815,"(0, 0, 153)","(255, 255, 255)",16948.413468234324682
+312,815_3_23,815,815,El Cajon Transit Center - East Main St,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=815,000099,FFFFFF,Bus,815_3_23_815,"(0, 0, 153)","(255, 255, 255)",19538.202879541164293
+313,816_2_23,816,816,El Cajon TC - Cuyamaca College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=816,000099,FFFFFF,Bus,816_2_23_816,"(0, 0, 153)","(255, 255, 255)",37701.168491488620930
+314,816_3_22,816,816,El Cajon TC - Cuyamaca College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=816,000099,FFFFFF,Bus,816_3_22_816,"(0, 0, 153)","(255, 255, 255)",36927.189160471913056
+315,832_8_10,832,832,Santee Center - NE Santee Loop Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=832,000099,FFFFFF,Bus,832_8_10_832,"(0, 0, 153)","(255, 255, 255)",29215.920657544913411
+316,833_0_55,833,833,Santee Center - Parkway Plaza,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=833,000099,FFFFFF,Bus,833_0_55_833,"(0, 0, 153)","(255, 255, 255)",39853.353407433176471
+317,833_0_56,833,833,Santee Center - Parkway Plaza,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=833,000099,FFFFFF,Bus,833_0_56_833,"(0, 0, 153)","(255, 255, 255)",36456.615769935269782
+318,833_1_48,833,833,Santee Center - Parkway Plaza,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=833,000099,FFFFFF,Bus,833_1_48_833,"(0, 0, 153)","(255, 255, 255)",39253.234377338914783
+319,833_1_49,833,833,Santee Center - Parkway Plaza,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=833,000099,FFFFFF,Bus,833_1_49_833,"(0, 0, 153)","(255, 255, 255)",35856.496739841015369
+320,834_8_21,834,834,West Santee Loop,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=834,000099,FFFFFF,Bus,834_8_21_834,"(0, 0, 153)","(255, 255, 255)",39661.039671505946899
+321,838_2_7,838,838,East County Square - Viejas,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=838,000099,FFFFFF,Bus,838_2_7_838,"(0, 0, 153)","(255, 255, 255)",75962.431381094051176
+322,838_2_8,838,838,East County Square - Viejas,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=838,000099,FFFFFF,Bus,838_2_8_838,"(0, 0, 153)","(255, 255, 255)",75441.639439869017224
+323,838_3_10,838,838,East County Square - Viejas,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=838,000099,FFFFFF,Bus,838_3_10_838,"(0, 0, 153)","(255, 255, 255)",76618.165398739292868
+324,83_0_29,83,83,Downtown San Diego - Old Town,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=83,000099,FFFFFF,Bus,83_0_29_83,"(0, 0, 153)","(255, 255, 255)",24432.409475081141863
+325,83_1_26,83,83,Downtown San Diego - Old Town,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=83,000099,FFFFFF,Bus,83_1_26_83,"(0, 0, 153)","(255, 255, 255)",13897.758097870302663
+326,83_1_28,83,83,Downtown San Diego - Old Town,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=83,000099,FFFFFF,Bus,83_1_28_83,"(0, 0, 153)","(255, 255, 255)",25677.465022776359547
+327,848_0_50,848,848,El Cajon - Lakeside,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=848,000099,FFFFFF,Bus,848_0_50_848,"(0, 0, 153)","(255, 255, 255)",43242.618048923788592
+328,848_0_51,848,848,El Cajon - Lakeside,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=848,000099,FFFFFF,Bus,848_0_51_848,"(0, 0, 153)","(255, 255, 255)",46639.355686421673454
+329,848_1_45,848,848,El Cajon - Lakeside,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=848,000099,FFFFFF,Bus,848_1_45_848,"(0, 0, 153)","(255, 255, 255)",42392.388728630539845
+330,848_1_48,848,848,El Cajon - Lakeside,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=848,000099,FFFFFF,Bus,848_1_48_848,"(0, 0, 153)","(255, 255, 255)",45789.125022033025743
+331,84_0_62,84,84,Point Loma Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=84,000099,FFFFFF,Bus,84_0_62_84,"(0, 0, 153)","(255, 255, 255)",19711.024346408816200
+332,84_0_65,84,84,Point Loma Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=84,000099,FFFFFF,Bus,84_0_65_84,"(0, 0, 153)","(255, 255, 255)",33078.046131054499710
+333,84_1_58,84,84,Point Loma Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=84,000099,FFFFFF,Bus,84_1_58_84,"(0, 0, 153)","(255, 255, 255)",33807.522406556199712
+334,84_1_59,84,84,Point Loma Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=84,000099,FFFFFF,Bus,84_1_59_84,"(0, 0, 153)","(255, 255, 255)",19499.616835462053132
+335,84_1_63,84,84,Point Loma Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=84,000099,FFFFFF,Bus,84_1_63_84,"(0, 0, 153)","(255, 255, 255)",6358.455791037607014
+336,84_1_64,84,84,Point Loma Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=84,000099,FFFFFF,Bus,84_1_64_84,"(0, 0, 153)","(255, 255, 255)",33160.235210527345771
+337,851_0_19,851,851,Spring Valley - La Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=851,000099,FFFFFF,Bus,851_0_19_851,"(0, 0, 153)","(255, 255, 255)",27073.841202563624392
+338,851_1_18,851,851,Spring Valley - La Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=851,000099,FFFFFF,Bus,851_1_18_851,"(0, 0, 153)","(255, 255, 255)",33559.246354913309915
+339,852_2_17,852,852,University & 54th - Grossmont Transit Ctr,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=852,000099,FFFFFF,Bus,852_2_17_852,"(0, 0, 153)","(255, 255, 255)",34231.576801955467090
+340,852_3_18,852,852,University & 54th - Grossmont Transit Ctr,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=852,000099,FFFFFF,Bus,852_3_18_852,"(0, 0, 153)","(255, 255, 255)",36359.922464920586208
+341,854_0_49,854,854,Grossmont Transit Ctr -- Grossmont College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=854,000099,FFFFFF,Bus,854_0_49_854,"(0, 0, 153)","(255, 255, 255)",15760.669656516154646
+342,854_0_51,854,854,Grossmont Transit Ctr -- Grossmont College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=854,000099,FFFFFF,Bus,854_0_51_854,"(0, 0, 153)","(255, 255, 255)",29397.513199519340560
+343,854_1_50,854,854,Grossmont Transit Ctr -- Grossmont College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=854,000099,FFFFFF,Bus,854_1_50_854,"(0, 0, 153)","(255, 255, 255)",17105.842470658702950
+344,854_1_52,854,854,Grossmont Transit Ctr -- Grossmont College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=854,000099,FFFFFF,Bus,854_1_52_854,"(0, 0, 153)","(255, 255, 255)",26513.895958845358109
+345,855_0_26,855,855,Rancho San Diego - La Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=855,000099,FFFFFF,Bus,855_0_26_855,"(0, 0, 153)","(255, 255, 255)",26460.525833864365268
+346,855_1_27,855,855,Rancho San Diego - La Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=855,000099,FFFFFF,Bus,855_1_27_855,"(0, 0, 153)","(255, 255, 255)",23678.617547982899850
+347,856_0_126,856,856,SDSU - Cuyamaca College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=856,000099,FFFFFF,Bus,856_0_126_856,"(0, 0, 153)","(255, 255, 255)",59006.348173666548973
+348,856_0_131,856,856,SDSU - Cuyamaca College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=856,000099,FFFFFF,Bus,856_0_131_856,"(0, 0, 153)","(255, 255, 255)",70138.647122809328721
+349,856_0_132,856,856,SDSU - Cuyamaca College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=856,000099,FFFFFF,Bus,856_0_132_856,"(0, 0, 153)","(255, 255, 255)",60097.278612847338081
+350,856_1_128,856,856,SDSU - Cuyamaca College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=856,000099,FFFFFF,Bus,856_1_128_856,"(0, 0, 153)","(255, 255, 255)",47367.039458047816879
+351,856_1_129,856,856,SDSU - Cuyamaca College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=856,000099,FFFFFF,Bus,856_1_129_856,"(0, 0, 153)","(255, 255, 255)",58175.560185605761944
+352,856_1_133,856,856,SDSU - Cuyamaca College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=856,000099,FFFFFF,Bus,856_1_133_856,"(0, 0, 153)","(255, 255, 255)",69954.738245002314216
+353,856_1_134,856,856,SDSU - Cuyamaca College,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=856,000099,FFFFFF,Bus,856_1_134_856,"(0, 0, 153)","(255, 255, 255)",59146.217517444354598
+354,864_2_177,864,864,El Cajon - East County Sq,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=864,000099,FFFFFF,Bus,864_2_177_864,"(0, 0, 153)","(255, 255, 255)",35867.121151580126025
+355,864_3_176,864,864,El Cajon - East County Sq,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=864,000099,FFFFFF,Bus,864_3_176_864,"(0, 0, 153)","(255, 255, 255)",36491.224894420469354
+356,864_3_178,864,864,El Cajon - East County Sq,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=864,000099,FFFFFF,Bus,864_3_178_864,"(0, 0, 153)","(255, 255, 255)",23362.970764520614466
+357,872_9_22,872,872,El Cajon Shuttle Loop Counterclockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=872,000099,FFFFFF,Bus,872_9_22_872,"(0, 0, 153)","(255, 255, 255)",18263.637592750812473
+358,874_8_78,874,874,El Cajon Eastside Shuttle Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=874,000099,FFFFFF,Bus,874_8_78_874,"(0, 0, 153)","(255, 255, 255)",18525.358804206294735
+359,874_8_79,874,874,El Cajon Eastside Shuttle Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=874,000099,FFFFFF,Bus,874_8_79_874,"(0, 0, 153)","(255, 255, 255)",25932.936952928110259
+360,874_8_81,874,874,El Cajon Eastside Shuttle Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=874,000099,FFFFFF,Bus,874_8_81_874,"(0, 0, 153)","(255, 255, 255)",51611.037299011535652
+361,874_8_82,874,874,El Cajon Eastside Shuttle Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=874,000099,FFFFFF,Bus,874_8_82_874,"(0, 0, 153)","(255, 255, 255)",37203.106001893596840
+362,874_8_83,874,874,El Cajon Eastside Shuttle Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=874,000099,FFFFFF,Bus,874_8_83_874,"(0, 0, 153)","(255, 255, 255)",25678.100346083443583
+363,875_9_36,875,875,El Cajon Eastside Shuttle Counterclockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=875,000099,FFFFFF,Bus,875_9_36_875,"(0, 0, 153)","(255, 255, 255)",21923.917226706405927
+364,875_9_42,875,875,El Cajon Eastside Shuttle Counterclockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=875,000099,FFFFFF,Bus,875_9_42_875,"(0, 0, 153)","(255, 255, 255)",20547.802420220963540
+365,875_9_43,875,875,El Cajon Eastside Shuttle Counterclockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=875,000099,FFFFFF,Bus,875_9_43_875,"(0, 0, 153)","(255, 255, 255)",51420.574554825318046
+366,875_9_44,875,875,El Cajon Eastside Shuttle Counterclockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=875,000099,FFFFFF,Bus,875_9_44_875,"(0, 0, 153)","(255, 255, 255)",26099.919690620987240
+367,875_9_45,875,875,El Cajon Eastside Shuttle Counterclockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=875,000099,FFFFFF,Bus,875_9_45_875,"(0, 0, 153)","(255, 255, 255)",48023.836917327418632
+368,888_2_32,888,888,Jacumba - El Cajon,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=888,663300,FFFFFF,Bus,888_2_32_888,"(0, 0, 153)","(255, 255, 255)",444765.791501719329972
+369,888_3_31,888,888,Jacumba - El Cajon,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=888,663300,FFFFFF,Bus,888_3_31_888,"(0, 0, 153)","(255, 255, 255)",466961.784170684521087
+370,88_9_12,88,88,Old Town - Hotel Circle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=88,000099,FFFFFF,Bus,88_9_12_88,"(0, 0, 153)","(255, 255, 255)",24521.097380401999544
+371,891_2_11,891,891,Borrego - El Cajon via Shelter Valley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=891,663300,FFFFFF,Bus,891_2_11_891,"(0, 0, 153)","(255, 255, 255)",465794.297886783780996
+372,891_3_13,891,891,Borrego - El Cajon via Shelter Valley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=891,663300,FFFFFF,Bus,891_3_13_891,"(0, 0, 153)","(255, 255, 255)",465094.110026729351375
+373,892_2_12,892,892,Borrego - El Cajon via Ranchita/Lake Henshaw,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=892,663300,FFFFFF,Bus,892_2_12_892,"(0, 0, 153)","(255, 255, 255)",446634.285784355713986
+374,892_3_13,892,892,Borrego - El Cajon via Ranchita/Lake Henshaw,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=892,663300,FFFFFF,Bus,892_3_13_892,"(0, 0, 153)","(255, 255, 255)",445296.036474793392699
+375,894_2_37,894,894,Morena/Campo - El Cajon,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=894,663300,FFFFFF,Bus,894_2_37_894,"(0, 0, 153)","(255, 255, 255)",148048.468504192627734
+376,894_2_39,894,894,Morena/Campo - El Cajon,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=894,663300,FFFFFF,Bus,894_2_39_894,"(0, 0, 153)","(255, 255, 255)",178475.937329434818821
+377,894_2_42,894,894,Morena/Campo - El Cajon,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=894,663300,FFFFFF,Bus,894_2_42_894,"(0, 0, 153)","(255, 255, 255)",264411.090025805810001
+378,894_2_43,894,894,Morena/Campo - El Cajon,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=894,663300,FFFFFF,Bus,894_2_43_894,"(0, 0, 153)","(255, 255, 255)",298676.904665631765965
+379,894_3_35,894,894,Morena/Campo - El Cajon,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=894,663300,FFFFFF,Bus,894_3_35_894,"(0, 0, 153)","(255, 255, 255)",173908.994372564804507
+380,894_3_40,894,894,Morena/Campo - El Cajon,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=894,663300,FFFFFF,Bus,894_3_40_894,"(0, 0, 153)","(255, 255, 255)",303014.410611051600426
+381,894_3_41,894,894,Morena/Campo - El Cajon,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=894,663300,FFFFFF,Bus,894_3_41_894,"(0, 0, 153)","(255, 255, 255)",265178.361695820465684
+382,8_0_65,8,8,Old Town - Balboa Av TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=8,000099,FFFFFF,Bus,8_0_65_8,"(0, 0, 153)","(255, 255, 255)",14437.014073663902309
+383,8_0_67,8,8,Old Town - Balboa Av TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=8,000099,FFFFFF,Bus,8_0_67_8,"(0, 0, 153)","(255, 255, 255)",44704.217423087306088
+384,8_1_66,8,8,Old Town - Balboa Av TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=8,000099,FFFFFF,Bus,8_1_66_8,"(0, 0, 153)","(255, 255, 255)",43259.174834995479614
+385,8_1_68,8,8,Old Town - Balboa Av TC,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=8,000099,FFFFFF,Bus,8_1_68_8,"(0, 0, 153)","(255, 255, 255)",28119.289281912482693
+386,901_0_117,901,901,Iris Transit Center - Downtown,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=901,000099,FFFFFF,Bus,901_0_117_901,"(0, 0, 153)","(255, 255, 255)",94251.651682341034757
+387,901_0_119,901,901,Iris Transit Center - Downtown,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=901,000099,FFFFFF,Bus,901_0_119_901,"(0, 0, 153)","(255, 255, 255)",102097.607752439173055
+388,901_1_118,901,901,Iris Transit Center - Downtown,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=901,000099,FFFFFF,Bus,901_1_118_901,"(0, 0, 153)","(255, 255, 255)",92082.252288129515364
+389,901_1_120,901,901,Iris Transit Center - Downtown,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=901,000099,FFFFFF,Bus,901_1_120_901,"(0, 0, 153)","(255, 255, 255)",102594.691922535421327
+390,904_0_27,904,904,Coronado Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=904,000099,FFFFFF,Bus,904_0_27_904,"(0, 0, 153)","(255, 255, 255)",12146.659241436707816
+391,904_1_30,904,904,Coronado Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=904,000099,FFFFFF,Bus,904_1_30_904,"(0, 0, 153)","(255, 255, 255)",14138.373641249776483
+392,905_2_88,905,905,Iris Transit Center - Otay Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=905,000099,FFFFFF,Bus,905_2_88_905,"(0, 0, 153)","(255, 255, 255)",47793.777794213019661
+393,905_3_102,905,905,Iris Transit Center - Otay Mesa Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=905,000099,FFFFFF,Bus,905_3_102_905,"(0, 0, 153)","(255, 255, 255)",47961.587158683083544
+394,906_8_41,906,906,Iris Transit Center - San Ysidro Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=906,000099,FFFFFF,Bus,906_8_41_906,"(0, 0, 153)","(255, 255, 255)",19971.472492791082914
+395,906_8_42,906,906,Iris Transit Center - San Ysidro Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=906,000099,FFFFFF,Bus,906_8_42_906,"(0, 0, 153)","(255, 255, 255)",36298.054490741102200
+396,906_8_43,906,906,Iris Transit Center - San Ysidro Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=906,000099,FFFFFF,Bus,906_8_43_906,"(0, 0, 153)","(255, 255, 255)",16326.581997949986544
+397,907_9_51,907,907,Iris Transit Center - San Ysidro Counterclockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=907,000099,FFFFFF,Bus,907_9_51_907,"(0, 0, 153)","(255, 255, 255)",16178.093457597618908
+398,907_9_52,907,907,Iris Transit Center - San Ysidro Counterclockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=907,000099,FFFFFF,Bus,907_9_52_907,"(0, 0, 153)","(255, 255, 255)",35942.973395208187867
+399,907_9_53,907,907,Iris Transit Center - San Ysidro Counterclockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=907,000099,FFFFFF,Bus,907_9_53_907,"(0, 0, 153)","(255, 255, 255)",19764.879937610559864
+400,909_2_13,909,909,Otay Mesa Transit Center - SWC at Otay Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=909,000099,FFFFFF,Bus,909_2_13_909,"(0, 0, 153)","(255, 255, 255)",26823.646498620451894
+401,909_3_12,909,909,Otay Mesa Transit Center - SWC at Otay Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=909,000099,FFFFFF,Bus,909_3_12_909,"(0, 0, 153)","(255, 255, 255)",37716.707914973172592
+402,910_0_5,910,910,Downtown - San Ysidro (OWL Service),3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=910,000099,FFFFFF,Bus,910_0_5_910,"(0, 0, 153)","(255, 255, 255)",108533.581650258754962
+403,910_1_6,910,910,Downtown - San Ysidro (OWL Service),3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=910,000099,FFFFFF,Bus,910_1_6_910,"(0, 0, 153)","(255, 255, 255)",114462.851193280177540
+404,916_8_37,916,916,Oak Park-Emerald Hills Loop CW,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=916,000099,FFFFFF,Bus,916_8_37_916,"(0, 0, 153)","(255, 255, 255)",61144.549421243267716
+405,916_8_38,916,916,Oak Park-Emerald Hills Loop CW,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=916,000099,FFFFFF,Bus,916_8_38_916,"(0, 0, 153)","(255, 255, 255)",29501.978580728526140
+406,916_8_39,916,916,Oak Park-Emerald Hills Loop CW,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=916,000099,FFFFFF,Bus,916_8_39_916,"(0, 0, 153)","(255, 255, 255)",22081.603071137775260
+407,917_9_23,917,917,Oak Park-Emerald Hills Loop CCW,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=917,000099,FFFFFF,Bus,917_9_23_917,"(0, 0, 153)","(255, 255, 255)",27994.284825084385375
+408,917_9_24,917,917,Oak Park-Emerald Hills Loop CCW,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=917,000099,FFFFFF,Bus,917_9_24_917,"(0, 0, 153)","(255, 255, 255)",60686.469481690626708
+409,921_2_65,921,921,UTC - Miramar College Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=921,000099,FFFFFF,Bus,921_2_65_921,"(0, 0, 153)","(255, 255, 255)",47555.797329595312476
+410,921_2_79,921,921,UTC - Miramar College Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=921,000099,FFFFFF,Bus,921_2_79_921,"(0, 0, 153)","(255, 255, 255)",60138.452930102088430
+411,921_3_76,921,921,UTC - Miramar College Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=921,000099,FFFFFF,Bus,921_3_76_921,"(0, 0, 153)","(255, 255, 255)",47612.838563668425195
+412,921_3_78,921,921,UTC - Miramar College Transit Station,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=921,000099,FFFFFF,Bus,921_3_78_921,"(0, 0, 153)","(255, 255, 255)",58560.066145254815638
+413,923_2_78,923,923,Downtown to Point Loma,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=923,000099,FFFFFF,Bus,923_2_78_923,"(0, 0, 153)","(255, 255, 255)",46890.949431491055293
+414,923_3_77,923,923,Downtown to Point Loma,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=923,000099,FFFFFF,Bus,923_3_77_923,"(0, 0, 153)","(255, 255, 255)",48151.193324097359437
+415,928_0_58,928,928,Fashion Valley - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=928,000099,FFFFFF,Bus,928_0_58_928,"(0, 0, 153)","(255, 255, 255)",55244.709971574819065
+416,928_0_59,928,928,Fashion Valley - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=928,000099,FFFFFF,Bus,928_0_59_928,"(0, 0, 153)","(255, 255, 255)",51032.873806289106142
+417,928_0_60,928,928,Fashion Valley - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=928,000099,FFFFFF,Bus,928_0_60_928,"(0, 0, 153)","(255, 255, 255)",35759.034839975698560
+418,928_1_57,928,928,Fashion Valley - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=928,000099,FFFFFF,Bus,928_1_57_928,"(0, 0, 153)","(255, 255, 255)",49652.676316744807991
+419,928_1_61,928,928,Fashion Valley - Kearny Mesa,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=928,000099,FFFFFF,Bus,928_1_61_928,"(0, 0, 153)","(255, 255, 255)",35527.561950230301591
+420,929_0_158,929,929,Downtown - Iris Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=929,000099,FFFFFF,Bus,929_0_158_929,"(0, 0, 153)","(255, 255, 255)",81837.324175505695166
+421,929_1_159,929,929,Downtown - Iris Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=929,000099,FFFFFF,Bus,929_1_159_929,"(0, 0, 153)","(255, 255, 255)",79326.912060401285999
+422,932_0_79,932,932,Iris Transit Center - 8th St. Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=932,000099,FFFFFF,Bus,932_0_79_932,"(0, 0, 153)","(255, 255, 255)",55182.390300516883144
+423,932_0_80,932,932,Iris Transit Center - 8th St. Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=932,000099,FFFFFF,Bus,932_0_80_932,"(0, 0, 153)","(255, 255, 255)",37010.390361318008217
+424,932_1_77,932,932,Iris Transit Center - 8th St. Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=932,000099,FFFFFF,Bus,932_1_77_932,"(0, 0, 153)","(255, 255, 255)",56365.241850442333089
+425,932_1_78,932,932,Iris Transit Center - 8th St. Transit Center,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=932,000099,FFFFFF,Bus,932_1_78_932,"(0, 0, 153)","(255, 255, 255)",37108.939565489970846
+426,933_9_67,933,933,Iris TC Loop - Imperial Beach Counterclock,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=933,000099,FFFFFF,Bus,933_9_67_933,"(0, 0, 153)","(255, 255, 255)",80842.248078559350688
+427,934_8_65,934,934,Iris TC Loop - Imperial Beach Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=934,000099,FFFFFF,Bus,934_8_65_934,"(0, 0, 153)","(255, 255, 255)",48433.615767026560206
+428,934_8_68,934,934,Iris TC Loop - Imperial Beach Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=934,000099,FFFFFF,Bus,934_8_68_934,"(0, 0, 153)","(255, 255, 255)",80819.891941921989201
+429,934_8_69,934,934,Iris TC Loop - Imperial Beach Clockwise,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=934,000099,FFFFFF,Bus,934_8_69_934,"(0, 0, 153)","(255, 255, 255)",41522.491410578069917
+430,936_0_61,936,936,Spring Valley - SDSU,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=936,000099,FFFFFF,Bus,936_0_61_936,"(0, 0, 153)","(255, 255, 255)",42407.435963484225795
+431,936_1_62,936,936,Spring Valley - SDSU,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=936,000099,FFFFFF,Bus,936_1_62_936,"(0, 0, 153)","(255, 255, 255)",39877.755186064132431
+432,944_2_10,944,944,Sabre Springs Station - Poway,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=944,000099,FFFFFF,Bus,944_2_10_944,"(0, 0, 153)","(255, 255, 255)",27427.707276628683758
+433,944_3_8,944,944,Sabre Springs Station - Poway,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=944,000099,FFFFFF,Bus,944_3_8_944,"(0, 0, 153)","(255, 255, 255)",29154.648796679972293
+434,945_0_13,945,945,Rancho Bernardo Station - Poway,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=945,000099,FFFFFF,Bus,945_0_13_945,"(0, 0, 153)","(255, 255, 255)",56149.639029433717951
+435,945_1_14,945,945,Rancho Bernardo Station - Poway,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=945,000099,FFFFFF,Bus,945_1_14_945,"(0, 0, 153)","(255, 255, 255)",55114.679439191742858
+436,946_10_18,946,945A,Poway HS CC Loop,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=945A,000099,FFFFFF,Bus,946_10_18_946,"(0, 0, 153)","(255, 255, 255)",73371.158981726854108
+437,946_11_17,946,945A,Poway HS CC Loop,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=945A,000099,FFFFFF,Bus,946_11_17_946,"(0, 0, 153)","(255, 255, 255)",73371.158981726854108
+438,955_0_93,955,955,National City - San Diego State University,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=955,000099,FFFFFF,Bus,955_0_93_955,"(0, 0, 153)","(255, 255, 255)",52635.989249698788626
+439,955_0_95,955,955,National City - San Diego State University,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=955,000099,FFFFFF,Bus,955_0_95_955,"(0, 0, 153)","(255, 255, 255)",29378.424916960830160
+440,955_1_97,955,955,National City - San Diego State University,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=955,000099,FFFFFF,Bus,955_1_97_955,"(0, 0, 153)","(255, 255, 255)",52009.783468866960902
+441,955_1_98,955,955,National City - San Diego State University,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=955,000099,FFFFFF,Bus,955_1_98_955,"(0, 0, 153)","(255, 255, 255)",40828.885507019273064
+442,955_1_99,955,955,National City - San Diego State University,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=955,000099,FFFFFF,Bus,955_1_99_955,"(0, 0, 153)","(255, 255, 255)",22558.708076656781486
+443,961_0_61,961,961,24th St Transit Center - Encanto Trolley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=961,000099,FFFFFF,Bus,961_0_61_961,"(0, 0, 153)","(255, 255, 255)",49596.917760289572470
+444,961_0_62,961,961,24th St Transit Center - Encanto Trolley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=961,000099,FFFFFF,Bus,961_0_62_961,"(0, 0, 153)","(255, 255, 255)",17432.003284805174189
+445,961_0_65,961,961,24th St Transit Center - Encanto Trolley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=961,000099,FFFFFF,Bus,961_0_65_961,"(0, 0, 153)","(255, 255, 255)",32164.914475484449213
+446,961_1_63,961,961,24th St Transit Center - Encanto Trolley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=961,000099,FFFFFF,Bus,961_1_63_961,"(0, 0, 153)","(255, 255, 255)",50103.754446213242773
+447,961_1_64,961,961,24th St Transit Center - Encanto Trolley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=961,000099,FFFFFF,Bus,961_1_64_961,"(0, 0, 153)","(255, 255, 255)",18958.500476951827295
+448,962_2_44,962,962,8th St Transit Center - Spring Valley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=962,000099,FFFFFF,Bus,962_2_44_962,"(0, 0, 153)","(255, 255, 255)",39842.162123529466044
+449,962_3_43,962,962,8th St Transit Center - Spring Valley,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=962,000099,FFFFFF,Bus,962_3_43_962,"(0, 0, 153)","(255, 255, 255)",39666.118761812780576
+450,963_2_38,963,963,8th St Transit Center - Paradise Hills,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=963,000099,FFFFFF,Bus,963_2_38_963,"(0, 0, 153)","(255, 255, 255)",22726.416705689200171
+451,963_2_40,963,963,8th St Transit Center - Paradise Hills,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=963,000099,FFFFFF,Bus,963_2_40_963,"(0, 0, 153)","(255, 255, 255)",3705.015461742587831
+452,963_3_39,963,963,8th St Transit Center - Paradise Hills,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=963,000099,FFFFFF,Bus,963_3_39_963,"(0, 0, 153)","(255, 255, 255)",20598.926258093302749
+453,964_2_32,964,964,Mira Mesa - Alliant University via MCTS,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=964,000099,FFFFFF,Bus,964_2_32_964,"(0, 0, 153)","(255, 255, 255)",39435.368066643299244
+454,964_2_33,964,964,Mira Mesa - Alliant University via MCTS,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=964,000099,FFFFFF,Bus,964_2_33_964,"(0, 0, 153)","(255, 255, 255)",21936.700635055283783
+455,964_3_40,964,964,Mira Mesa - Alliant University via MCTS,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=964,000099,FFFFFF,Bus,964_3_40_964,"(0, 0, 153)","(255, 255, 255)",18929.458012150418654
+456,964_3_41,964,964,Mira Mesa - Alliant University via MCTS,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=964,000099,FFFFFF,Bus,964_3_41_964,"(0, 0, 153)","(255, 255, 255)",36295.024305287217430
+457,965_9_21,965,965,City Heights Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=965,000099,FFFFFF,Bus,965_9_21_965,"(0, 0, 153)","(255, 255, 255)",31587.286887244656100
+458,967_9_53,967,967,24th St Transit Center - Division & Ava,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=967,000099,FFFFFF,Bus,967_9_53_967,"(0, 0, 153)","(255, 255, 255)",29561.271570504359261
+459,967_9_54,967,967,24th St Transit Center - Division & Ava,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=967,000099,FFFFFF,Bus,967_9_54_967,"(0, 0, 153)","(255, 255, 255)",46785.478204510865908
+460,967_9_55,967,967,24th St Transit Center - Division & Ava,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=967,000099,FFFFFF,Bus,967_9_55_967,"(0, 0, 153)","(255, 255, 255)",29688.010684549226426
+461,968_2_49,968,968,8th St Transit Center - Plaza Bonita,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=968,000099,FFFFFF,Bus,968_2_49_968,"(0, 0, 153)","(255, 255, 255)",28859.280981507417891
+462,968_3_43,968,968,8th St Transit Center - Plaza Bonita,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=968,000099,FFFFFF,Bus,968_3_43_968,"(0, 0, 153)","(255, 255, 255)",11286.883727081012694
+463,968_3_48,968,968,8th St Transit Center - Plaza Bonita,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=968,000099,FFFFFF,Bus,968_3_48_968,"(0, 0, 153)","(255, 255, 255)",28460.496732834788418
+464,985_9_13,985,985,UCSD Central Campus Station - Torrey Pines,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=985,000099,FFFFFF,Bus,985_9_13_985,"(0, 0, 153)","(255, 255, 255)",29054.149678647809196
+465,985_9_14,985,985,UCSD Central Campus Station - Torrey Pines,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=985,000099,FFFFFF,Bus,985_9_14_985,"(0, 0, 153)","(255, 255, 255)",19246.710609624966310
+466,985_9_15,985,985,UCSD Central Campus Station - Torrey Pines,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=985,000099,FFFFFF,Bus,985_9_15_985,"(0, 0, 153)","(255, 255, 255)",19315.754426404186233
+467,992_9_65,992,992,Airport/Downtown Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=992,000099,FFFFFF,Bus,992_9_65_992,"(0, 0, 153)","(255, 255, 255)",40989.827613469540665
+468,992_9_66,992,992,Airport/Downtown Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=992,000099,FFFFFF,Bus,992_9_66_992,"(0, 0, 153)","(255, 255, 255)",19202.989622486347798
+469,992_9_67,992,992,Airport/Downtown Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=992,000099,FFFFFF,Bus,992_9_67_992,"(0, 0, 153)","(255, 255, 255)",40991.459940719709266
+470,992_9_68,992,992,Airport/Downtown Shuttle,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=992,000099,FFFFFF,Bus,992_9_68_992,"(0, 0, 153)","(255, 255, 255)",19365.253836574018351
+471,9_0_139,9,9,Old Town - Jewell & Garnet,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=9,000099,FFFFFF,Bus,9_0_139_9,"(0, 0, 153)","(255, 255, 255)",34144.163818536755571
+472,9_0_140,9,9,Old Town - Jewell & Garnet,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=9,000099,FFFFFF,Bus,9_0_140_9,"(0, 0, 153)","(255, 255, 255)",28397.680886156536872
+473,9_1_141,9,9,Old Town - Jewell & Garnet,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=9,000099,FFFFFF,Bus,9_1_141_9,"(0, 0, 153)","(255, 255, 255)",32593.218999051328865
+474,9_1_142,9,9,Old Town - Jewell & Garnet,3,MTS,,https://www.sdmts.com/schedules-real-time?fragment=9,000099,FFFFFF,Bus,9_1_142_9,"(0, 0, 153)","(255, 255, 255)",26846.736066671124718
+475,AIR_9_246,AIR,,Old Town to Airport Shuttle,3,MTS,,https://www.san.org/Parking-Transportation/Public-Transportation#117819-trolley-service,000099,FFFFFF,Bus,AIR_9_246_AIR,"(0, 0, 153)","(255, 255, 255)",49572.365683667158009
+476,S2_535_2_2,535,Copper,Santee - El Cajon,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=copper_line,B87333,000000,"Tram, Streetcar, Light rail",S2_535_2_2_535,,"(180, 188, 194)",19615.213527708714537
+477,S2_535_3_1,535,Copper,Santee - El Cajon,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=copper_line,B87333,000000,"Tram, Streetcar, Light rail",S2_535_3_1_535,,"(180, 188, 194)",19615.216459191928152
+478,S2_535_3_3,535,Copper,Santee - El Cajon,0,MTS,,https://www.sdmts.com/schedules-real-time?fragment=copper_line,B87333,000000,"Tram, Streetcar, Light rail",S2_535_3_3_535,,"(180, 188, 194)",19954.015507468906435
