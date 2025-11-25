@@ -1,0 +1,522 @@
+service_type,org,name,address,city,state,zip,lat,lon,source
+ymca,YMCA of San Diego County,Border View Family YMCA,3601 Arey Drive,San Diego,CA,91154,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,Cameron Family YMCA,10123 Riverwalk Drive,Santee,CA,92071,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,Copley-Price Family YMCA,4300 El Cajon Boulevard,San Diego,CA,92105,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,Dan McKinney Family YMCA,8355 Cliffridge Avenue,La Jolla,CA,92037,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,Escondido YMCA – A Campus for Community Well-Being,1050 N. Broadway,Escondido,CA,92026,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,Jackie Robinson Family YMCA,151 YMCA Way,San Diego,CA,92102,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,Joe and Mary Mottino Family YMCA,4701 Mesa Drive,Oceanside,CA,92056,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,John A. Davis Family YMCA,8881 Dallas Street,La Mesa,CA,91942,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,Magdalena Ecke Family YMCA,200 Saxony Road,Encinitas,CA,92024,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,McGrath Family YMCA,12006 Campo Road,Spring Valley,CA,91978,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,Mission Valley YMCA,5505 Friars Road,San Diego,CA,92110,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,Rancho Family YMCA,9410 Fairgrove Lane,San Diego,CA,92129,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,Shepherd YMCA Firehouse,7877 Herschel Avenue,La Jolla,CA,92037,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,South Bay Family YMCA,1201 Paseo Magda,Chula Vista,CA,91910,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,T. Claude and Gladys B. Ryan Family YMCA,4390 Valeta Street,San Diego,CA,92107,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,Toby Wells YMCA,5105 Overland Avenue,San Diego,CA,92123,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,YMCA Camp Marston,4761 Pine Hills Road,Julian,CA,92036,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,YMCA Camp Surf,560 Silver Strand Boulevard,Imperial Beach,CA,91932,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,YMCA Childcare Resource Service,4451 30th Street,San Diego,CA,92116,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,YMCA Expanded Learning Programs,4451 30th St Suite 200,San Diego,CA,92116,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,YMCA of San Diego County: Corporate Office,3708 Ruffin Road,San Diego,CA,92123,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,YMCA Raintree Ranch,2315 Frisius Drive,Julian,CA,92036,,,https://www.ymcasd.org/locations/
+ymca,YMCA of San Diego County,YMCA Youth and Family Services,2929 Meade Avenue,San Diego,CA,92116,,,https://www.ymcasd.org/locations/
+library,Carlsbad,Carlsbad City Library,1775 Dove Lane,Carlsbad,CA,92011,,,Carlsbad
+library,Carlsbad,Georgina Cole Library,1250 Carlsbad Village Dr,Carlsbad,CA,92008,,,Carlsbad
+library,Carlsbad,Library Learning Center,3368 Eureka Pl,Carlsbad,CA,92008,,,Carlsbad
+library,Chula Vista,Civic Center Branch,365 F Street,Chula Vista,CA,91910,,,Chula Vista
+library,Chula Vista,Otay Ranch Branch,"2015 Birch Road, Suite 409",Chula Vista,CA,91915,,,Chula Vista
+library,Chula Vista,South Chula Vista Branch,389 Orange Avenue,Chula Vista,CA,91911,,,Chula Vista
+library,Coronado,Coronado Public,640 Orange Avenue,Coronado,CA,92118,,,City of Coronado website
+library,Escondido,Escondido Public,239 South Kalmia Street,Escondido,CA,92025,,,City of Escondido
+library,National City,National City Public,1401 National City Blvd,National City,CA,91950,,,National City Website
+library,Oceanside,Country Club Lane Senior Center Mini-Library,455 Country Club Lane,Oceanside,CA,92054,,,City of Oceanside website
+library,Oceanside,El Corazon Senior Center Mini-Library,3302 Senior Center Dr,Oceanside,CA,92056,,,City of Oceanside website
+library,Oceanside,Joe Balderrama Recreation Center,709 San Diego Street,Oceanside,CA,92056,,,
+library,Oceanside,John Landes Community Center Library,2855 Cedar Rd,Oceanside,CA,92056,,,City of Oceanside website
+library,Oceanside,Melba Bishop Recreation Center Mini-Library,5306 North River Rd,Oceanside,CA,92057,,,City of Oceanside website
+library,Oceanside,Mission Branch,3861 B Mission Avenue,Oceanside,CA,92054,,,City of Oceanside website
+library,Oceanside,Oceanside Civic Center Library,330 North Coast Highway,Oceanside,CA,92054,,,City of Oceanside website
+library,Oceanside,Oceanside READS Literacy Center,804 Pier View Way #101,Oceanside,CA,92054,,,City of Oceanside website
+library,San Diego County,24/7 Library Kiosk Encinitas,501 N El Camino Real,Encinitas,CA,92024,,,SDCL
+library,San Diego County,24/7 Library To Go - Bonsall,31505 Old River Rd.,Bonsall,CA,92003,,,SDCL
+library,San Diego County,24/7 Library To Go - Boulevard,39923 Ribbonwood Road,Boulevard,CA,91905,,,SDCL
+library,San Diego County,24/7 Library To Go - County Operations Center,"5560 Overland Avenue, Ste 110",San Diego,CA,92123,,,SDCL
+library,San Diego County,24/7 Library To Go - South Region,690 Oxford Street,Chula Vista,CA,91911,,,SDCL
+library,San Diego County,4S Ranch Branch,10433 Reserve Drive,San Diego,CA,92127,,,SDCL
+library,San Diego County,Alpine Branch,1752 Alpine Blvd.,Alpine,CA,91901,,,SDCL
+library,San Diego County,Bonita-Sunnyside Branch,4375 Bonita Rd.,Bonita,CA,91902,,,SDCL
+library,San Diego County,Borrego Springs Branch,2580 Country Club Road,Borrego Springs,CA,92004,,,SDCL
+library,San Diego County,Campo-Morena Village Branch,31356 Highway 94,Campo,CA,91906,,,SDCL
+library,San Diego County,Cardiff-by-the-Sea Branch,2081 Newcastle Ave.,"Cardiff-by-the-Sea,",CA,92007,,,SDCL
+library,San Diego County,Casa de Oro Branch,9805 Campo Rd. #180,Spring Valley,CA,91977,,,SDCL
+library,San Diego County,Crest Branch,105 Juanita Lane,El Cajon,CA,92021,,,SDCL
+library,San Diego County,Del Mar Branch,"1309 Camino Del Mar, Del Mar",Del Mar,CA,92014,,,SDCL
+library,San Diego County,Descanso Branch,9545 River Dr.,Descanso,CA,91916,,,SDCL
+library,San Diego County,El Cajon Branch,201 E. Douglas,El Cajon,CA,92020,,,SDCL
+library,San Diego County,Encinitas Branch,540 Cornish Drive,Encinitas 92024,CA,92024,,,SDCL
+library,San Diego County,Fallbrook Branch,124 S. Mission Rd.,Fallbrook,CA,92028,,,SDCL
+library,San Diego County,Fletcher Hills Branch,576 Garfield Ave.,El Cajon,CA,92020,,,SDCL
+library,San Diego County,Imperial Beach Branch,810 Imperial Beach Blvd.,Imperial Beach,CA,91932,,,SDCL
+library,San Diego County,Jacumba Branch,44605 Old Hwy. 80,Jacumba,CA,91934,,,SDCL
+library,San Diego County,Julian Branch,1850 Highway 78,Julian,CA,92036,,,SDCL
+library,San Diego County,La Mesa Branch,8074 Allison Avenue,La Mesa,CA,91942,,,SDCL
+library,San Diego County,Lakeside Branch,12428  Woodside Ave,Lakeside,CA,92040,,,SDCL
+library,San Diego County,Lemon Grove Branch,3001 School Ln.,Lemon Grove,CA,91945,,,SDCL
+library,San Diego County,Lincoln Acres Branch,2725 Granger Ave.,National City,CA,91950,,,SDCL
+library,San Diego County,Pine Valley Branch,28804 Old Hwy. 80,Pine Valley,CA,91962,,,SDCL
+library,San Diego County,Potrero Branch,24883 Potrero Valley Rd.,Potrero,CA,91963,,,SDCL
+library,San Diego County,Poway Branch,13137 Poway Rd,Poway,CA,92064,,,SDCL
+library,San Diego County,Ramona Branch,1275 Main Street,Ramona,CA,92065,,,SDCL
+library,San Diego County,Rancho San Diego Branch,11555 Via Rancho San Diego,El Cajon,CA,92019,,,SDCL
+library,San Diego County,Rancho Santa Fe Branch,17040 Avenida de Acacias,Rancho Santa Fe,CA,92067,,,SDCL
+library,San Diego County,San Marcos Branch,2 Civic Center Drive,San Marcos,CA,92069,,,SDCL
+library,San Diego County,Santee Branch,9225 Carlton Hills Blvd. #17,Santee,CA,92071,,,SDCL
+library,San Diego County,Solana Beach Branch Earl Warren Middle School,157 Stevens Ave.,Solana Beach,CA,92075,,,SDCL
+library,San Diego County,Spring Valley Branch,836 Kempton St.,Spring Valley,CA,91977,,,SDCL
+library,San Diego County,Valley Center Branch,29200 Cole Grade Rd.,Valley Center,CA,92082,,,SDCL
+library,San Diego County,Vista Branch,700 Eucalyptus Ave.,Vista,CA,92084,,,SDCL
+library,San Diego Public Library,Allied Gardens / Benjamin,5188 Zion Avenue,San Diego,CA,92120,,,City of San Diego
+library,San Diego Public Library,Allied Gardens/Benjamin Library,5188 Zion Ave,San Diego,CA,92120,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Balboa,4255 Mt. Abernathy Avenue,San Diego,CA,92117,,,City of San Diego
+library,San Diego Public Library,Balboa Library,4255 Mt. Abernathy Ave,San Diego,CA,92117,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Carmel Mountain Ranch,12095 World Trade Dr.,San Diego,CA,92128,,,City of San Diego
+library,San Diego Public Library,Carmel Mountain Ranch Library,12095 World Trade Dr,San Diego,CA,92128,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Carmel Valley,3919 Townsgate Drive,San Diego,CA,92130,,,City of San Diego
+library,San Diego Public Library,Carmel Valley Library,3919 Townsgate Dr,San Diego,CA,92130,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Central Library,330 Park Blvd,San Diego,CA,92101,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,City Heights Performance Annex,3795 Fairmount Ave,San Diego,CA,92105,,,
+library,San Diego Public Library,City Heights/Weingart,3795 Fairmount Ave.,San Diego,CA,92105,,,City of San Diego
+library,San Diego Public Library,City Heights/Weingart Library,3795 Fairmount Ave,San Diego,CA,92105,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Clairemont,2920 Burgener Boulevard,San Diego,CA,92110,,,City of San Diego
+library,San Diego Public Library,Clairemont Library,2920 Burgener Blvd,San Diego,CA,92110,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,College-Rolando,6600 Montezuma Road,San Diego,CA,92115,,,City of San Diego
+library,San Diego Public Library,College-Rolando Library,6600 Montezuma Rd,San Diego,CA,92115,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Kensington - Normal Heights,4121 Adams Avenue,San Diego,CA,92116,,,City of San Diego
+library,San Diego Public Library,Kensington-Normal Heights Library,4121 Adams Ave,San Diego,CA,92116,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,La Jolla/Riford,7555 Draper Ave,La Jolla,CA,92037,,,City of San Diego
+library,San Diego Public Library,La Jolla/Riford Library,7555 Draper Ave,La Jolla,CA,92037,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Linda Vista,2160 Ulric Street,San Diego,CA,92111,,,City of San Diego
+library,San Diego Public Library,Linda Vista Library,2160 Ulric St,San Diego,CA,92111,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Logan Heights,567 South 28th Street,San Diego,CA,92113,,,City of San Diego
+library,San Diego Public Library,Logan Heights Library,567 S. 28th St,San Diego,CA,92113,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Mira Mesa,8405 New Salem St,San Diego,CA,92126,,,City of San Diego
+library,San Diego Public Library,Mira Mesa Library,8405 New Salem St,San Diego,CA,92126,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Mission Hills-Hillcrest/Knox,215 West Washington St,San Diego,CA,92103,,,City of San Diego
+library,San Diego Public Library,Mission Hills-Hillcrest/Knox Library,215 W. Washington St,San Diego,CA,92103,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Mission Valley,2123 Fenton Parkway,San Diego,CA,92108,,,City of San Diego
+library,San Diego Public Library,Mission Valley Library,2123 Fenton Pkwy,San Diego,CA,92108,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Mountain View/Beckwourth,721 San Pasqual St,San Diego,CA,92113,,,City of San Diego
+library,San Diego Public Library,Mountain View/Beckwourth Library,721 San Pasqual St,San Diego,CA,92113,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,North Clairemont,4616 Clairemont Drive,San Diego,CA,92117,,,City of San Diego
+library,San Diego Public Library,North Clairemont Library,4616 Clairemont Dr,San Diego,CA,92117,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,North Park,3795 31st Street,San Diego,CA,92104,,,City of San Diego
+library,San Diego Public Library,North Park Library,3795 31st St,San Diego,CA,92104,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,North University Community,8820 Judicial Dr,San Diego,CA,92112,,,City of San Diego
+library,San Diego Public Library,North University Community Library,8820 Judicial Dr,San Diego,CA,92122,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Oak Park,2802 54th Street,San Diego,CA,92105,,,City of San Diego
+library,San Diego Public Library,Oak Park Library,2802 54th St,San Diego,CA,92105,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Ocean Beach,4801 Santa Monica Avenue,San Diego,CA,92107,,,City of San Diego
+library,San Diego Public Library,Ocean Beach Library,4801 Santa Monica Ave,San Diego,CA,92107,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Otay Mesa-Nestor Library,3003 Coronado Ave,San Diego,CA,92154,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Otay Mesa/Nestor,3003 Coronado Avenue,San Diego,CA,92154,,,City of San Diego
+library,San Diego Public Library,Pacific Beach/Taylor,4275 Cass St,San Diego,CA,92109,,,City of San Diego
+library,San Diego Public Library,Pacific Beach/Taylor Library,4275 Cass St,San Diego,CA,92109,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Pacific Highlands Ranch,12911 Pacific Place,San Diego,CA,92130,,,City of San Diego
+library,San Diego Public Library,Pacific Highlands Ranch Library,12911 Pacific Pl,San Diego,CA,92130,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Paradise Hills,5922 Rancho Hills Drive,San Diego,CA,92139,,,City of San Diego
+library,San Diego Public Library,Paradise Hills Library,5922 Rancho Hills Dr,San Diego,CA,92139,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Point Loma/Hervey,3701 Voltaire Street,San Diego,CA,92107,,,City of San Diego
+library,San Diego Public Library,Point Loma/Hervey Library,3701 Voltaire St,San Diego,CA,92107,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Rancho Bernardo,17110 Bernardo Center Drive,San Diego,CA,92128,,,City of San Diego
+library,San Diego Public Library,Rancho Bernardo Library,17110 Bernardo Center Dr,San Diego,CA,92128,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Rancho Penasquitos,13330 Salmon River Road,San Diego,CA,92129,,,City of San Diego
+library,San Diego Public Library,Rancho Peñasquitos Library,13330 Salmon River Rd,San Diego,CA,92129,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,San Carlos,7265 Jackson Dr,San Diego,CA,92119,,,City of San Diego
+library,San Diego Public Library,San Carlos Library,7265 Jackson Dr,San Diego,CA,92119,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,San Diego Central,330 Park Blvd,San Diego,CA,92101,,,City of San Diego
+library,San Diego Public Library,San Ysidro,4235 Beyer Blvd,San Diego,CA,92173,,,City of San Diego
+library,San Diego Public Library,San Ysidro Library,4235 Beyer Blvd,San Diego,CA,92173,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Scripps Miramar Ranch,10301 Scripps Lake Drive,San Diego,CA,92131,,,City of San Diego
+library,San Diego Public Library,Scripps Miramar Ranch Library,10301 Scripps Lake Dr,San Diego,CA,92131,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Serra Mesa-Kearny Mesa,9005 Aero Dr,San Diego,CA,92123,,,City of San Diego
+library,San Diego Public Library,Serra Mesa-Kearny Mesa Library,9005 Aero Dr,San Diego,CA,92123,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Skyline Hills,7900 Paradise Valley Rd,San Diego,CA,92139,,,City of San Diego
+library,San Diego Public Library,Skyline Hills Library,7900 Paradise Valley Rd,San Diego,CA,92139,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Tierrasanta,4985 La Cuenta Drive,San Diego,CA,92124,,,City of San Diego
+library,San Diego Public Library,Tierrasanta Library,4985 La Cuenta Dr,San Diego,CA,92124,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,University Community,4155 Governor Drive,San Diego,CA,92122,,,City of San Diego
+library,San Diego Public Library,University Community Library,4155 Governor Dr,San Diego,CA,92122,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,University Heights,4193 Park Boulevard,San Diego,CA,92103,,,City of San Diego
+library,San Diego Public Library,University Heights Library,4193 Park Blvd,San Diego,CA,92103,,,https://sandiego.librarymarket.com/branches/select
+library,San Diego Public Library,Valencia Park /Malcolm X,5148 Market Street,San Diego,CA,92114,,,City of San Diego
+library,San Diego Public Library,Valencia Park/Malcolm X Library,5148 Market St,San Diego,CA,92114,,,https://sandiego.librarymarket.com/branches/select
+,City of San Diego Parks & Recreation,Hourglass Rec Center,10440 Black Mountain Rd,San Diego,CA,92126,32.90843510563245,-117.1199266162646,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Encanto Rec Center,6508 Wunderlin Av,San Diego,CA,92114,32.714737597852,-117.0577529614486,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Encanto Teen Center,6508 Wunderlin Av,San Diego,CA,92114,32.715606430412365,-117.05682267803742,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Southcrest Rec Center,4149 Newton Av,San Diego,CA,92113,32.69427131368468,-117.10459424081246,rec_centers_all_clean
+,City of San Diego Parks & Recreation,San Ysidro Teen Center,101 W. San Ysidro Blvd.,San Diego,CA,92173,32.552678366914016,-117.04428888567236,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Serra Mesa Rec Center,9020 Village Glen Dr,San Diego,CA,92123,32.80537746106929,-117.13317149803537,rec_centers_all_clean
+,City of San Diego Parks & Recreation,La Jolla Rec Center,615 Prospect St,San Diego,CA,92037,32.84334955099366,-117.2777901284521,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Tecolote Rec Center,4675 Tecolote Rd,San Diego,CA,92110,32.774870026272545,-117.20020437210664,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Ocean Beach Rec Center,4726 Santa Monica Av,San Diego,CA,92107,32.7450178096028,-117.24547725621947,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Presidio Rec Center,2811 Jackson St,San Diego,CA,92110,32.75776750558109,-117.19579132091238,rec_centers_all_clean
+,City of San Diego Parks & Recreation,North Park Rec Center,4044 Idaho St,San Diego,CA,92104,32.75090087324055,-117.13418236426403,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Colina Del Sol Rec Center,5319 Orange Av,San Diego,CA,92115,32.752817855330406,-117.08011697726168,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Cadman Rec Center,4280 Avati Rd,San Diego,CA,92117,32.82026922299765,-117.2147928662327,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Dolores Magdaleno Memorial Rec Center,2902 Marcy Av,San Diego,CA,92113,32.69780038229515,-117.13054178557444,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Pacific Beach Rec Center,1405 Diamond St,San Diego,CA,92109,32.80155896145586,-117.24492999822394,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Santa Clara Point Rec Center,1008 Santa Clara Pl,San Diego,CA,92109,32.78347392689387,-117.24904397887978,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Golden Hills Rec Center,2600 Golf Course Dr,San Diego,CA,92102,32.720992448307676,-117.1373364153029,rec_centers_all_clean
+,City of San Diego Parks & Recreation,North Clairemont Rec Center,4421 Bannock Av,San Diego,CA,92117,,,rec_centers_all_clean
+,City of San Diego Parks & Recreation,North Clairemont Rec Center,4421 Bannock Av,San Diego,CA,92117,32.83239485849539,-117.19740810520952,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Allied Gardens Rec Center,5155 Greenbrier Av,San Diego,CA,92120,32.795926252579456,-117.08062862005995,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Municipal Gymnasium,2111 Pan American Rd,San Diego,CA,92101,32.72695610889106,-117.15297513085976,rec_centers_all_clean
+,City of San Diego Parks & Recreation,San Carlos Rec Center,6445 Lake Badin Av,San Diego,CA,92119,32.798250243125274,-117.02170289120664,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Skyline Rec Center,8285 Skyline Dr,San Diego,CA,92114,32.70567512429343,-117.02617170452372,rec_centers_all_clean
+,City of San Diego Parks & Recreation,So. Clairemont Rec Center,3605 Clairemont Dr,San Diego,CA,92117,32.806370621494,-117.20051723383516,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Linda Vista Rec Center,7064 Levant St,San Diego,CA,92111,32.79248976843051,-117.1697005771412,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Robb Field Rec Center,2525 Bacon St,San Diego,CA,92107,32.75430992570211,-117.24140963621412,rec_centers_all_clean
+,City of San Diego Parks & Recreation,"Robert Egger, Sr. - South Bay Rec Center",1885 Coronado Av,San Diego,CA,92154,32.575069513335066,-117.0939657038762,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Azalea Rec Center,2596 Violet St,San Diego,CA,92105,32.7323646442225,-117.10817166761672,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Kearny Mesa Rec Center,3170 Armstrong St,San Diego,CA,92111,32.8025548257626,-117.16430848266305,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Paradise Hills Rec Center,6610 Potomac St,San Diego,CA,92139,32.685278531341524,-117.05076749802406,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Mountain View Rec Center,551 S 40th St,San Diego,CA,92113,32.7000091504887,-117.10787086895358,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Standley Rec Center,3585 Governor Dr,San Diego,CA,92122,32.851097644358326,-117.21012066526704,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Silver Wing Rec Center,3737 Arey Dr,San Diego,CA,92123,32.57776281765363,-117.05345486514904,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Gil Johnson Mira Mesa Rec Center,8575 New Salem St,San Diego,CA,92126,32.91517114591862,-117.14005692398656,rec_centers_all_clean
+,City of San Diego Parks & Recreation,City Heights Rec Center,4380 Landis St,San Diego,CA,92105,32.74600511701164,-117.1000103339776,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Stockton Rec Center,330 32nd St,San Diego,CA,92102,32.70919014648919,-117.12550340484816,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Willie Henderson Rec Center,1035 S 45th St,San Diego,CA,92113,32.694617707156276,-117.09759656080568,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Cabrillo Rec Center,3051 Canon St,San Diego,CA,92106,32.72177354305867,-117.23262033707502,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Adams Rec Center,3491 Adams Av,San Diego,CA,92116,32.76316050602282,-117.11754612346704,rec_centers_all_clean
+,City of San Diego Parks & Recreation,"Martin L. King, Jr. Memorial Rec Center",6401 Skyline Dr,San Diego,CA,92114,32.70097820500591,-117.06070428325056,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Colonel Salomon Rec Center,179 Diza Rd,San Diego,CA,92173,32.56508558576903,-117.04556314681577,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Cathy Hopper Friendship Senior Center,4425 Bannock Avenue,San Diego,CA,92117,32.83260794553196,-117.19668021733744,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Montgomery-Waller Rec Center,3020 Coronado Av,San Diego,CA,92154,32.57889961936472,-117.06861095796673,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Penn Rec Center,2555 Dusk Dr,San Diego,CA,92139,32.67826794571245,-117.0477122514651,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Tierrasanta Rec Center,11220 Clairemont Mesa Bl,San Diego,CA,92124,32.82971644888273,-117.0891643243352,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Doyle Rec Center,8175 Regents Rd,San Diego,CA,92122,32.86462307509567,-117.22108436342086,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Canyonside Rec Center,12350 Black Mountain Rd,San Diego,CA,92126,,,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Lois J. Mangarelli (Canyonside) Rec Center,12350 Black Mountain Rd,San Diego,CA,92126,32.942273271634356,-117.13029468518592,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Cesar Chavez Comm Center,455 Sycamore Rd,San Diego,CA,92173,32.54676994955479,-117.04543623518198,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Rancho Bernardo Rec Center,18448 W Bernardo Dr,San Diego,CA,92127,33.04839443897128,-117.07692414167867,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Mid-City Gymnasium,4302 Landis St,San Diego,CA,92105,32.74672118871274,-117.10165085437518,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Black Mtn Multi-Purpose Gym,9353 Oviedo St,San Diego,CA,92126,32.96953891811702,-117.12500805826036,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Hilltop Rec Center,9711 Oviedo Wy,San Diego,CA,92129,32.97148877293932,-117.11873726474366,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Balboa Park Activity Center,2145 Park Bl,San Diego,CA,92101,32.726735591887454,-117.1477334792267,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Scripps Ranch Rec Center,11454 Blue Cypress Dr,San Diego,CA,92131,32.92867422067815,-117.0798588377493,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Carmel Valley Rec Center,3770 Townsgate Dr,San Diego,CA,92130,32.948589985317334,-117.234039357498,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Carmel Mtn Ranch / Sabre Springs Rec Center,10152 Rancho Carmel Dr,San Diego,CA,92128,32.966843627892274,-117.0911724939546,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Lopez Ridge Rec Center,7245 Calle Cristobal,San Diego,CA,92126,32.920776685359606,-117.16835808712098,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Nobel Rec Center,8810 Judicial Dr,San Diego,CA,92122,32.86697135716738,-117.1992836728133,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Ocean Air Rec Center,4770 Fairport Way,San Diego,CA,92130,32.92803828076477,-117.21705420468184,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Park de la Cruz Gymnasium & Community Center,3901 Landis Steet St,San Diego,CA,92105,32.7457158022284,-117.11032075761244,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Pacific Highlands Ranch Rec Center,5977 Village Loop Rd,San Diego,CA,92130,32.95998981852963,-117.18718358661884,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Bay TerracesCommunity & Senior Center,7445 Tooma St,San Diego,CA,92139,32.6807953626424,-117.03557615834056,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Balboa Park Senior Lounge,"1650 El Prado, Room 105",San Diego,CA,92101,32.73172801737437,-117.14878638033768,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Cathy Hopper Friendship Senior Center,4425 Bannock Avenue,San Diego,CA,92117,,,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Memorial Senior Center,610 S 30th St,San Diego,CA,92113,32.70028505886432,-117.12986192434585,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Morley Field Sports Complex,2221 Morley Field Drive,San Diego,CA,92101,32.739783138444224,-117.13904277230084,rec_centers_all_clean
+,City of San Diego Parks & Recreation,Oak Neighborhood Park,"5235 Maple St., 92105",San Diego,CA,92105,32.73254957,-117.08300743,parks_all_clean
+,City of San Diego Parks & Recreation,San Carlos Community Park & Recreation Center,"6445 Lake Badin Ave., 92119",San Diego,CA,92119,32.798645900000004,-117.02114835,parks_all_clean
+,City of San Diego Parks & Recreation,Marcy Neighborhood Park,"5526 STRESEMANN ST, 92122",San Diego,CA,92122,32.84513943,-117.22717022,parks_all_clean
+,City of San Diego Parks & Recreation,McCall Street Mini-Park,"453 SAN ANTONIO AVE, 92106",San Diego,CA,92106,32.71034976,-117.23699943,parks_all_clean
+,City of San Diego Parks & Recreation,Southcrest Trails Neighborhood Park,"3605 BETA ST, 92113",San Diego,CA,92113,32.691294830000004,-117.1153064,parks_all_clean
+,City of San Diego Parks & Recreation,Point Loma Community Park,"1059 CATALINA BLVD, 92106",San Diego,CA,92106,32.72482087,-117.24319333,parks_all_clean
+,City of San Diego Parks & Recreation,Sefton Field,"2508 HOTEL CIRCLE PL, 92108",San Diego,CA,92108,32.76175792,-117.19169652999997,parks_all_clean
+,City of San Diego Parks & Recreation,Davis House Mini-Park,"424 ISLAND AVE, 92101",San Diego,CA,92101,32.710595180000006,-117.16073886,parks_all_clean
+,City of San Diego Parks & Recreation,Views West Neighborhood Park,"12904 LA TORTOLA, 92129",San Diego,CA,12904,32.95504919,-117.11588009,parks_all_clean
+,City of San Diego Parks & Recreation,La Jolla Strand Park,"6664 NEPTUNE PL, 92037",San Diego,CA,92037,32.82786165,-117.28003911,parks_all_clean
+,City of San Diego Parks & Recreation,Oak Glen Mini-Park,"10775 SPRING CANYON RD, 92131",San Diego,CA,10775,32.92934253,-117.09615913,parks_all_clean
+,City of San Diego Parks & Recreation,City Heights Community Park & Recreation Center,"4367 WIGHTMAN ST, 92105",San Diego,CA,92105,32.74673719,-117.09941291,parks_all_clean
+,City of San Diego Parks & Recreation,Cabrillo Mini-Park South,"1032 Leroy Street, 92106",San Diego,CA,92106,32.72141199,-117.23487078,parks_all_clean
+,City of San Diego Parks & Recreation,Gershwin Neighborhood Park,"3508 Conrad Avenue, 92117",San Diego,CA,92117,32.834760159999995,-117.21137838,parks_all_clean
+,City of San Diego Parks & Recreation,West Maple Canyon Mini-Park,"250 W MAPLE ST, 92103",San Diego,CA,92103,32.732612509999996,-117.16549268,parks_all_clean
+,City of San Diego Parks & Recreation,Starkey Mini-Park,"6705 DRAPER AVE, 92037",San Diego,CA,92037,32.829951460000004,-117.27293532,parks_all_clean
+,City of San Diego Parks & Recreation,Windansea Beach,"6950 NEPTUNE PL, 92037",San Diego,CA,92037,32.83178307,-117.28130509,parks_all_clean
+,City of San Diego Parks & Recreation,Skyline Hills Community Park & Recreation Center,"8285 Skyline Dr., 92114",San Diego,CA,92114,32.70536972,-117.0252031,parks_all_clean
+,City of San Diego Parks & Recreation,L Street Mini-Park,"2901 L St., 92102",San Diego,CA,92102,32.707120149999994,-117.13368136,parks_all_clean
+,City of San Diego Parks & Recreation,Tecolote Community Park & Recreation Center,"1701 TECOLOTE RD, 92110",San Diego,CA,92110,32.77416461,-117.19956015,parks_all_clean
+,City of San Diego Parks & Recreation,North Mountain View Mini-Park,"3376 N MOUNTAIN VIEW DR, 92116",San Diego,CA,92116,32.770253780000004,-117.12165415,parks_all_clean
+,City of San Diego Parks & Recreation,Robert Egger-South Bay Community Park & Recreation Center,"1885 CORONADO SB AVE, 92154",San Diego,CA,92154,32.575518429999995,-117.09390615,parks_all_clean
+,City of San Diego Parks & Recreation,Central Neighborhood Park,"4081 POLK AVE, 92105",San Diego,CA,92105,32.75166061,-117.10749666,parks_all_clean
+,City of San Diego Parks & Recreation,Zena Mini-Park,"6458 ZENA DR, 92115",San Diego,CA,92115,32.74660675,-117.0577782,parks_all_clean
+,City of San Diego Parks & Recreation,Dorothy Petway Neighborhood Park,"1367 RIGEL ST, 92113",San Diego,CA,92113,32.69203523,-117.11863008,parks_all_clean
+,City of San Diego Parks & Recreation,Clay Ave. Mini-Park,"3156 CLAY AVE, 92113",San Diego,CA,92113,32.70297681,-117.12611028,parks_all_clean
+,City of San Diego Parks & Recreation,Semillon Mini-Park,"12074 SEMILLON BLVD, 92131",San Diego,CA,12074,32.91770622000001,-117.0711128,parks_all_clean
+,City of San Diego Parks & Recreation,Martin Luther King Community Park & Recreation Center,"6407 SKYLINE DR, 92114",San Diego,CA,92114,32.699208719999994,-117.06029147999998,parks_all_clean
+,City of San Diego Parks & Recreation,Spring Canyon Neighborhood Park,"11157 SCRIPPS POWAY PKWY, 92131",San Diego,CA,11157,32.93458746,-117.09354246,parks_all_clean
+,City of San Diego Parks & Recreation,Pasatiempo Neighborhood Park,Pasatempo Avd.  92120,San Diego,CA,92120,32.791235,-117.05850538,parks_all_clean
+,City of San Diego Parks & Recreation,Birdrock Neighborhood Park,"5371 La Jolla Hermosa Avenue, 92037",San Diego,CA,92037,32.81134372,-117.26207906,parks_all_clean
+,City of San Diego Parks & Recreation,Serra Mesa Community Park & Recreation Center,"9020 Village Glen Drive, 92123",San Diego,CA,92123,32.80740859,-117.13310479,parks_all_clean
+,City of San Diego Parks & Recreation,Solana Ranch Neighborhood Park,"13597 PACIFIC HIGHLANDS PKWY, 92130",San Diego,CA,13597,32.96686041,-117.19155021,parks_all_clean
+,City of San Diego Parks & Recreation,Kate Sessions Memorial Park,"5115 Soledad Road, 92109",San Diego,CA,92109,32.813357329999995,-117.23825312,parks_all_clean
+,City of San Diego Parks & Recreation,Vista Terrace Neighborhood Park,"301 Athey Ave., 92173",San Diego,CA,92173,32.56445204,-117.05150772,parks_all_clean
+,City of San Diego Parks & Recreation,Capehart Open Space Park,"4700 Soledad Mountain Road, 92109",San Diego,CA,92109,32.806882,-117.22557307,parks_all_clean
+,City of San Diego Parks & Recreation,Western Hills Neighborhood Park,"4810 Kane Street, 92110",San Diego,CA,92110,32.786560709999996,-117.1962744,parks_all_clean
+,City of San Diego Parks & Recreation,Roadrunner Neighborhood Park,"4779 LA CUENTA DR, 92124",San Diego,CA,92124,32.8180256,-117.10167482,parks_all_clean
+,City of San Diego Parks & Recreation,Pacific Breezes Community Park,"4901 DEL SOL BLVD, 92154",San Diego,CA,92154,32.57032677,-117.02527383,parks_all_clean
+,City of San Diego Parks & Recreation,Mesa Verde Neighborhood Park,"8342 FLANDERS DR, 92126",San Diego,CA,92126,32.90595469,-117.14395288,parks_all_clean
+,City of San Diego Parks & Recreation,Lake Murray Community Park,"6308 PARK RIDGE BLVD, 92120",San Diego,CA,92120,32.79080183,-117.04691883,parks_all_clean
+,City of San Diego Parks & Recreation,Cypress Canyon Neighborhood Park,"11470 Cypress Canyon Rd., 92131",San Diego,CA,11470,32.92510086,-117.06553967,parks_all_clean
+,City of San Diego Parks & Recreation,Hilltop Community Park & Recreation Center,"14000 MC ENTEE ST, 92129",San Diego,CA,14000,32.97048037,-117.11955775,parks_all_clean
+,City of San Diego Parks & Recreation,Calumet Park,"5433 Calumet Avenue, 92037",San Diego,CA,92037,32.810846,-117.2693896,parks_all_clean
+,City of San Diego Parks & Recreation,Silver Terrace Mini-Park,"5500 Friars Road, 92110",San Diego,CA,92110,32.764765309999994,-117.1918167,parks_all_clean
+,City of San Diego Parks & Recreation,Carmel Creek Neighborhood Park,"4260 Carmel Center Road, 92103",San Diego,CA,92103,32.95186593,-117.22492376,parks_all_clean
+,City of San Diego Parks & Recreation,Carmel Mtn. Ranch Community Park & Recreation Center,"10166 RANCHO CARMEL DR, 92128",San Diego,CA,10166,32.96662407,-117.09173364,parks_all_clean
+,City of San Diego Parks & Recreation,Central Ave. Mini-Park,"3660 CENTRAL AVE, 92105",San Diego,CA,92105,32.74512651,-117.10853014,parks_all_clean
+,City of San Diego Parks & Recreation,Sunridge Vista Mini-Park,"10305 Azuaga St, 92129",San Diego,CA,10305,32.95977869,-117.10496277,parks_all_clean
+,City of San Diego Parks & Recreation,North Park Community Park & Recreation Center,"4044 Idaho St., 92104",San Diego,CA,92104,32.75242453,-117.13443722,parks_all_clean
+,City of San Diego Parks & Recreation,Lakeview Neighborhood Park,"10794 MIRA LAGO TERRACE, 92131",San Diego,CA,10794,32.918391580000005,-117.08792576,parks_all_clean
+,City of San Diego Parks & Recreation,Breen Neighborhood Park,"11103 Polaris Drive, 92126",San Diego,CA,11103,32.92348492,-117.12980158,parks_all_clean
+,City of San Diego Parks & Recreation,Dusty Rhodes Neighborhood Park,"2500 SUNSET CLIFFS BLVD,92107",San Diego,CA,92107,32.75215206,-117.23887385,parks_all_clean
+,City of San Diego Parks & Recreation,Torrey Pines City Park,"12001 TORREY PINES PARK RD, 92037",San Diego,CA,12001,32.89919901,-117.24828968,parks_all_clean
+,City of San Diego Parks & Recreation,Miramar Overlook Neighborhood Park,"11417 Scripps Ranch Blvd, 92131",San Diego,CA,11417,32.92034148,-117.1022186,parks_all_clean
+,City of San Diego Parks & Recreation,Montezuma Neighborhood Park,"4941 CATOCTIN DR, 92115",San Diego,CA,92115,32.76742677,-117.0603238,parks_all_clean
+,City of San Diego Parks & Recreation,Penasquitos Town Center Neighborhood Park,"13349 SALMON RIVER RD, 92129",San Diego,CA,13349,32.95913277,-117.12148548,parks_all_clean
+,City of San Diego Parks & Recreation,Mission Beach Park,"804 W MISSION BAY DR, 92109",San Diego,CA,92109,32.76821665,-117.2524361,parks_all_clean
+,City of San Diego Parks & Recreation,Silver Wing Neighborhood Park & Recreation Center,"3737 Arey Dr., 92154",San Diego,CA,92154,32.5775372,-117.05257232,parks_all_clean
+,City of San Diego Parks & Recreation,41st Street Mini-Park,"4105 Gamma St., 92113",San Diego,CA,92113,32.68950051,-117.10577523,parks_all_clean
+,City of San Diego Parks & Recreation,Solana Highlands Neighborhood Park,"3520 Long Run Drive, 92130",San Diego,CA,92130,32.95589948000001,-117.23889057,parks_all_clean
+,City of San Diego Parks & Recreation,Walls of Excellence Mini-Park,"4932 IMPERIAL AVE, 92102",San Diego,CA,92102,32.70437822,-117.0884119,parks_all_clean
+,City of San Diego Parks & Recreation,Cadman Community Park & Recreation Centers,"4280 Avati Drive, 92117",San Diego,CA,92117,32.820533000000005,-117.21587986,parks_all_clean
+,City of San Diego Parks & Recreation,Coral Gate Neighborhood Park,"3279 Anella Rd., 92173",San Diego,CA,92173,32.54507023,-117.04974674,parks_all_clean
+,City of San Diego Parks & Recreation,Marina Linear Park,"176 HARBOR DR, 92101",San Diego,CA,92101,32.70804741,-117.16142203,parks_all_clean
+,City of San Diego Parks & Recreation,East Gate Mini-Park #2,"9825 TOWNE CENTRE DR, 92121",San Diego,CA,92121,32.88595851,-117.21259912,parks_all_clean
+,City of San Diego Parks & Recreation,Horton Plaza Park,"325 Broadway Ave, 92101",San Diego,CA,92101,32.71539187,-117.16152859,parks_all_clean
+,City of San Diego Parks & Recreation,West Lewis Mini-Park,"792 W LEWIS ST, 92103",San Diego,CA,92103,32.751837980000005,-117.17070865,parks_all_clean
+,City of San Diego Parks & Recreation,Gompers Neighborhood Park,"4926 Hilltop Dr., 92102",San Diego,CA,92102,32.71598436,-117.08876104,parks_all_clean
+,City of San Diego Parks & Recreation,Torrey Hills Neighborhood Park,"4262 Calle Mejillones, 92130",San Diego,CA,92130,32.91805124,-117.2227715,parks_all_clean
+,City of San Diego Parks & Recreation,Hawk Pocket Park,Guymon St.,San Diego,CA,,,,parks_all_clean
+,City of San Diego Parks & Recreation,Ocean View Hills Neighborhood Park,"4925 OCEAN VIEW HILLS PKWY, 92154",San Diego,CA,92154,32.581963099999996,-117.02660386,parks_all_clean
+,City of San Diego Parks & Recreation,Carmel View Mini-Park,"3764 VALLEY CENTRE DR,92130",San Diego,CA,92130,32.93803882,-117.23398774,parks_all_clean
+,City of San Diego Parks & Recreation,Old Trolley Barn Neighborhood Park,"1900 Adams Ave., 92116",San Diego,CA,92116,32.76294158,-117.1437597,parks_all_clean
+,City of San Diego Parks & Recreation,Sunnyslope Neighborhood Park,"2600 Elm St., 92154",San Diego,CA,92154,32.58097443,-117.07812342,parks_all_clean
+,City of San Diego Parks & Recreation,Charles L. Stevens III Memorial Park,"4632 HOME AVE, 92105",San Diego,CA,92105,32.73405125,-117.09329129,parks_all_clean
+,City of San Diego Parks & Recreation,Mission Heights Neighborhood Park,"1716 Westinghouse Street, 92111",San Diego,CA,92111,32.77515596,-117.16693575,parks_all_clean
+,City of San Diego Parks & Recreation,Laureate Mini-Park,"2219 AVE DE LA PLAYA, 92037",San Diego,CA,92037,32.85363219,-117.25521731,parks_all_clean
+,City of San Diego Parks & Recreation,Camp Elloit Park,"4916 Calle De Vida, 92124",San Diego,CA,92124,32.82289719,-117.07574539,parks_all_clean
+,City of San Diego Parks & Recreation,Montclair Neighborhood Park,"2786 VANCOUVER AVE, 92104",San Diego,CA,92104,32.735124000000006,-117.11638662,parks_all_clean
+,City of San Diego Parks & Recreation,Wightman Street Neighborhood Park,"5028 WIGHTMAN ST, 92105",San Diego,CA,92105,32.74780197,-117.08584594,parks_all_clean
+,City of San Diego Parks & Recreation,Town and Country Neighborhood Park,"500 Hotel Cir N, 92108",San Diego,CA,92108,1859362.128,6279494.85425,parks_all_clean
+,City of San Diego Parks & Recreation,La Jolla Athletic Area-Allen Field,"4636 Torrey Pines Road, 92130",San Diego,CA,92130,32.86778754,-117.24351133,parks_all_clean
+,City of San Diego Parks & Recreation,Hoyt Neighborhood Park,"10805 CANYON LAKE DR, 92131",San Diego,CA,10805,32.9051285,-117.09948977,parks_all_clean
+,City of San Diego Parks & Recreation,Pacific Beach Community Park & Recreation Center,"1405 Diamond Street, 92109",San Diego,CA,92109,32.80139402,-117.24470681,parks_all_clean
+,City of San Diego Parks & Recreation,Black Mountain Ranch Community Park,"14700 Carmel Valley Road, 92128",San Diego,CA,14700,32.98884809,-117.12958,parks_all_clean
+,City of San Diego Parks & Recreation,Canon Street Mini-Park,North end of Avendia de Portugal St.  92107,San Diego,CA,92107,32.72450252,-117.23591508,parks_all_clean
+,City of San Diego Parks & Recreation,Hermosa Terrace Park,"6500 NEPTUNE PL, 92037",San Diego,CA,92037,32.8257191,-117.27983083,parks_all_clean
+,City of San Diego Parks & Recreation,Ward Canyon Neighborhood Park,"4642 40TH ST, 92116",San Diego,CA,92116,32.76209345,-117.11054628,parks_all_clean
+,City of San Diego Parks & Recreation,Martin Ave. Mini-Park,"3469 MARTIN AVE, 92113",San Diego,CA,92113,32.69918034,-117.1193186,parks_all_clean
+,City of San Diego Parks & Recreation,Doyle Community Park & Recreation Center,"3950 Berino Court, 92122",San Diego,CA,92122,32.864537,-117.21922999,parks_all_clean
+,City of San Diego Parks & Recreation,Parkside Neighborhood Park,"6240 Parkside Ave., 92139",San Diego,CA,92139,32.66769718,-117.05171272,parks_all_clean
+,City of San Diego Parks & Recreation,Mission Beach Pocket Park,,San Diego,CA,,32.462856,-117.15557,parks_all_clean
+,City of San Diego Parks & Recreation,South Creek Neighborhood Park,"12245 Wickerbay Cove, 92128",San Diego,CA,12245,32.94277751,-117.07968969,parks_all_clean
+,City of San Diego Parks & Recreation,Ocean View Mini-Park,"4294 OCEAN VIEW BLVD, 92113",San Diego,CA,92113,32.70083427,-117.10240404,parks_all_clean
+,City of San Diego Parks & Recreation,Torrey Del Mar Neighborhood Park,"7693 McGonigle Trail, 92130",San Diego,CA,92130,32.96762603,-117.16132605,parks_all_clean
+,City of San Diego Parks & Recreation,South Clairemont Community Park Recreation Center,"3577 CLAIREMONT DR, 92117",San Diego,CA,92117,32.805861619999995,-117.19932139999997,parks_all_clean
+,City of San Diego Parks & Recreation,Virgie Hazel McCain and William Henry Carter Mini-Park,"3032 39TH ST, 92105",San Diego,CA,92105,32.737239530000004,-117.11040201,parks_all_clean
+,City of San Diego Parks & Recreation,Howard Lane Neighborhood Park,"1626 DAIRY MART RD, 92173",San Diego,CA,92173,32.56662491,-117.06370354,parks_all_clean
+,City of San Diego Parks & Recreation,Dry Creek Mini-Park,"11369 Scripps Creek Drive,92131",San Diego,CA,11369,32.92559718,-117.08882082,parks_all_clean
+,City of San Diego Parks & Recreation,Aviary Neighborhood Park,"9782 Aviary Drive., 92131",San Diego,CA,92131,32.90113707,-117.1026167,parks_all_clean
+,City of San Diego Parks & Recreation,Ocean Beach Athletic Area Robb Field,"2525 Bacon Street, 92107",San Diego,CA,92107,32.75418006,-117.24133566,parks_all_clean
+,City of San Diego Parks & Recreation,John F. Kennedy Neighborhood Park,"4825 Ocean View Bl., 92113",San Diego,CA,92113,32.69953407,-117.09108099999997,parks_all_clean
+,City of San Diego Parks & Recreation,Sandburg Neighborhood Park,"11170 Avenida del Gato, 92126",San Diego,CA,11170,32.92460836,-117.14890859,parks_all_clean
+,City of San Diego Parks & Recreation,Palm Ridge Neighborhood Park,"751 Firethorn St., 92154",San Diego,CA,92154,32.58274849,-117.03925401999997,parks_all_clean
+,City of San Diego Parks & Recreation,Tourmaline Surfing Park,"601 Tourmaline Street, 92109",San Diego,CA,92109,32.80641255,-117.26305601,parks_all_clean
+,City of San Diego Parks & Recreation,Crest Canyon Neighborhood Park,"2250 Del Mar Heights Road, 92130",San Diego,CA,92130,32.95034103,-117.25402101,parks_all_clean
+,City of San Diego Parks & Recreation,Del Sur Neighborhood Park,"15800 Block of Paseo Montenero,",San Diego,CA,15800,,,parks_all_clean
+,City of San Diego Parks & Recreation,Bedlow Neighborhood Park,6800 block of Monte Verde Dr.  92119,San Diego,CA,92119,32.811713010000005,-117.04852199,parks_all_clean
+,City of San Diego Parks & Recreation,Lindbergh Neighborhood Park,"4141 Ashford Street, 92111",San Diego,CA,92111,32.818980769999996,-117.16228492,parks_all_clean
+,City of San Diego Parks & Recreation,Cherokee Point Neighborhood Park,"3901 Landis St., 92105",San Diego,CA,92105,32.7466225,-117.11226734,parks_all_clean
+,City of San Diego Parks & Recreation,Adams Ave. Community Park & Recreation Center,"3491 Adams Ave., 92116",San Diego,CA,92116,32.762999990000004,-117.11780132,parks_all_clean
+,City of San Diego Parks & Recreation,Nestor Neighborhood Park,"2423 Grove Ave., 92154",San Diego,CA,92154,32.57141738,-117.08121676,parks_all_clean
+,City of San Diego Parks & Recreation,Pacific Highlands Ranch Community Park & Recreation Center,5977 Village Center Loop Rd.  92130,San Diego,CA,92130,,,parks_all_clean
+,City of San Diego Parks & Recreation,Chollas Parkway Open Space Park,"2891 EUCLID AVE, 92105",San Diego,CA,92105,32.736607930000005,-117.08732131,parks_all_clean
+,City of San Diego Parks & Recreation,Ocean Beach Regional Park (Saratoga & Brighton),Wet end of Brighton St.  92107,San Diego,CA,92107,,,parks_all_clean
+,City of San Diego Parks & Recreation,Fault Line Park,14th and J Streets,San Diego,CA,,,,parks_all_clean
+,City of San Diego Parks & Recreation,San Carlos Pocket Park,"6599 E LAKE DR, 92119",San Diego,CA,92119,32.80116204,-117.00640321,parks_all_clean
+,City of San Diego Parks & Recreation,East Clairemont Athletic Area,"3451 Mt. Acadia Boulevard, 92111",San Diego,CA,92111,32.803565909999996,-117.18328214,parks_all_clean
+,City of San Diego Parks & Recreation,Tuxedo Neighborhood Park,"6978 Tuxedo Rd., 92119",San Diego,CA,92119,32.81019647,-117.0472157,parks_all_clean
+,City of San Diego Parks & Recreation,32nd Street Mini-Park,"3145 32ND ST., 92104",San Diego,CA,92104,32.738133100000006,-117.12530915,parks_all_clean
+,City of San Diego Parks & Recreation,Nobel Athletic Area & Recreation Center,"8810 Judicial Drive, 92121",San Diego,CA,92121,32.867275979999995,-117.19966337,parks_all_clean
+,City of San Diego Parks & Recreation,Los Altos Neighborhood Park,"3898 MARZO ST, 92154",San Diego,CA,92154,32.56997517,-117.05040193,parks_all_clean
+,City of San Diego Parks & Recreation,J Street Mini-Park,"3291 J St., 92102",San Diego,CA,92102,32.70975025,-117.12280798,parks_all_clean
+,City of San Diego Parks & Recreation,Univeristy Gardens Neighborhood Park,"6431 Gullstrand Street, 92122",San Diego,CA,92122,32.85405996,-117.19020325,parks_all_clean
+,City of San Diego Parks & Recreation,Neighborhood 8 Neighborhood Park,"11900 Carmel Creek RD,92130",San Diego,CA,11900,32.93619581,-117.22265604,parks_all_clean
+,City of San Diego Parks & Recreation,North Park Mini-Park,"2874 N PARK WAY, 92104",San Diego,CA,92104,32.74761562,-117.13147375,parks_all_clean
+,City of San Diego Parks & Recreation,Stonebridge Neighborhood Park,15030 Sycamore Trail Rd.,San Diego,CA,15030,32.9243609,-117.02012052,parks_all_clean
+,City of San Diego Parks & Recreation,Nicholson's Point Park,"246 COAST BLVD, 92037",San Diego,CA,92037,32.838921510000006,-117.28162873,parks_all_clean
+,City of San Diego Parks & Recreation,Del Mar Mesa Neighborhood Park,"6622 DUCK POND LN, 92130",San Diego,CA,92130,32.94089137,-117.1817044,parks_all_clean
+,City of San Diego Parks & Recreation,Mesa Viking Neighborhood Park,"11278 Westonhill Drive, 92126",San Diego,CA,11278,32.925431180000004,-117.13646313,parks_all_clean
+,City of San Diego Parks & Recreation,Montgomery Waller Community Park & Recreation Center,"3020 Coronado Ave., 92154",San Diego,CA,92154,32.58079461,-117.06866647,parks_all_clean
+,City of San Diego Parks & Recreation,Lopez Ridge Neighborhood Park & Recreation Center,"7245 Calle Cristobal, 92126",San Diego,CA,92126,32.92072199,-117.16730103,parks_all_clean
+,City of San Diego Parks & Recreation,John P. Baca Park,Linda Vista Rd. and Comstock St.  92111,San Diego,CA,92111,32.78491625,-117.17133252,parks_all_clean
+,City of San Diego Parks & Recreation,Mount Etna Neighborhood Park,"4741 Mt Etna Drive, 92117",San Diego,CA,92117,32.82209874,-117.19218567,parks_all_clean
+,City of San Diego Parks & Recreation,Soledad Natural Open Space Park,"7016 SOLEDAD PARK RD, 92037",San Diego,CA,92037,32.84081871,-117.24406477,parks_all_clean
+,City of San Diego Parks & Recreation,Chicano Regional Park,"1982 National Ave., 92113",San Diego,CA,92113,32.70025377,-117.14340798,parks_all_clean
+,City of San Diego Parks & Recreation,Vail Creek Neighborhood Park,"5116 CARMEL KNOLLS DR, 92130",San Diego,CA,92130,32.94913472,-117.20532567,parks_all_clean
+,City of San Diego Parks & Recreation,Villa La Jolla Neighborhood Park,"8341 VIA MALLORCA, 92037",San Diego,CA,92037,32.85739769,-117.23429536,parks_all_clean
+,City of San Diego Parks & Recreation,Boone Neighborhood Park,"7248 Bullock Dr., 92114",San Diego,CA,92114,32.69785512,-117.03775246,parks_all_clean
+,City of San Diego Parks & Recreation,Murray Ridge Neighborhood Park,"8651 Celestine Avenue, 92123",San Diego,CA,92123,32.79025232,-117.14688636,parks_all_clean
+,City of San Diego Parks & Recreation,Via Del Norte Mini-Park,"6165 LA JOLLA HERMOSA AVE, 92037",San Diego,CA,92037,32.82290863,-117.27426322,parks_all_clean
+,City of San Diego Parks & Recreation,King Promenade,"326 W HARBOR DR, 92101",San Diego,CA,92101,32.71062962,-117.16637868,parks_all_clean
+,City of San Diego Parks & Recreation,Linda Vista Community Park & Recreation Center,"6842 OSLER ST, 92111",San Diego,CA,92111,32.79244817,-117.17060753,parks_all_clean
+,City of San Diego Parks & Recreation,San Ysidro Athletic Area Larsen Field,"455 SYCAMORE RD, 92173",San Diego,CA,92173,32.546331460000005,-117.0455566,parks_all_clean
+,City of San Diego Parks & Recreation,Vista Pacifica Neighborhood Park,"6066 Avenida de las Vistas, 92154",San Diego,CA,92154,32.58169852,-117.00551293,parks_all_clean
+,City of San Diego Parks & Recreation,Canyonside Community Park & Recreation Center,"12350 Black Mountain Road, 92129",San Diego,CA,12350,32.94209331,-117.13292329,parks_all_clean
+,City of San Diego Parks & Recreation,Cabrillo Heights,"8308 Hurlbut Street, 92123",San Diego,CA,92123,32.80569831,-117.14766884,parks_all_clean
+,City of San Diego Parks & Recreation,Coast Blvd. Park,"322 COAST BLVD, 92037",San Diego,CA,92037,32.840957669999995,-117.28155496,parks_all_clean
+,City of San Diego Parks & Recreation,Canyon Hills Resource Park,"12300 Alemania Rd,92129",San Diego,CA,12300,32.935231800000004,-117.11564358,parks_all_clean
+,City of San Diego Parks & Recreation,Rancho Mission Canyon Neighborhood Park,"7635 MARGERUM AVE, 92120",San Diego,CA,92120,32.8067117,-117.06437528,parks_all_clean
+,City of San Diego Parks & Recreation,Torrey Meadows Neighborhood Park,"13516 TORREY MEADOWS DR, 92129",San Diego,CA,13516,32.96466711,-117.15634778,parks_all_clean
+,City of San Diego Parks & Recreation,Mission Hills Neighborhood Park,"1586 WASHINGTON PL, 92103",San Diego,CA,92103,32.74940698,-117.17813237,parks_all_clean
+,City of San Diego Parks & Recreation,Carmel Valley Neighborhood Park,"4468 CARMEL CENTER RD, 92130",San Diego,CA,92130,32.951793880000004,-117.22150218,parks_all_clean
+,City of San Diego Parks & Recreation,Sage Canyon Neighborhood Park,"5252 Harvest Run Drive, 92130",San Diego,CA,92130,32.92647049,-117.20510653,parks_all_clean
+,City of San Diego Parks & Recreation,Villa Monserate Neighborhood Park,"10283 Perez Court, 92124",San Diego,CA,10283,32.83566005,-117.10807229,parks_all_clean
+,City of San Diego Parks & Recreation,Officer Christopher Wilson Neighborhood Park,"8285 Skyline Dr., 92114",San Diego,CA,92114,32.70446902,-117.04193317,parks_all_clean
+,City of San Diego Parks & Recreation,University Village Neighborhood Park,"7150 Florey Street, 92122",San Diego,CA,92122,32.858844080000004,-117.19166211,parks_all_clean
+,City of San Diego Parks & Recreation,Penasquitos Skate Park,"10129 CARMEL MOUNTAIN RD, 92129",San Diego,CA,10129,32.96043409,-117.10975466,parks_all_clean
+,City of San Diego Parks & Recreation,Beyer Community Park,"2300 E. Beyer Blvd., 92173",San Diego,CA,92173,32.556286189999994,-117.03602188,parks_all_clean
+,City of San Diego Parks & Recreation,Plumosa Park,"2676 CHATSWORTH BLVD, 92106",San Diego,CA,92106,32.74441558,-117.22149427,parks_all_clean
+,City of San Diego Parks & Recreation,Palisades South Neighborhood Park,"4918 OCEAN BLVD, 92109",San Diego,CA,92109,32.80237908,-117.25955234,parks_all_clean
+,City of San Diego Parks & Recreation,La Jolla Hermosa Park,"5788 CHELSEA ST, 92037",San Diego,CA,92037,32.81706998,-117.27275091,parks_all_clean
+,City of San Diego Parks & Recreation,Encanto Community Park & Recreation Center,"6508 Wunderlin Ave., 92114",San Diego,CA,92114,32.71557466,-117.05690957,parks_all_clean
+,City of San Diego Parks & Recreation,Rancho Bernardo Community Park & Recreation Center,"18448 W Bernardo Drive, 92127",San Diego,CA,18448,33.047667190000006,-117.07564525999997,parks_all_clean
+,City of San Diego Parks & Recreation,Emerald Hills Neighborhood Park,"1501Kelton Rd., 92114",San Diego,CA,92114,32.7217835,-117.07342262,parks_all_clean
+,City of San Diego Parks & Recreation,La Jolla Community Park & Recreation Center,"615 Prospect Street, 92037",San Diego,CA,92037,32.84277336,-117.27755096,parks_all_clean
+,City of San Diego Parks & Recreation,Cabrillo Mini-Park North,"3232 Trumbull Street, 92106",San Diego,CA,92106,32.7227655,-117.23457982,parks_all_clean
+,City of San Diego Parks & Recreation,Miramar Ranch North Park,"10481 SCRIPPS POWAY PKWY, 92131",San Diego,CA,10481,32.936653639999996,-117.10255978,parks_all_clean
+,City of San Diego Parks & Recreation,Tierrasanta Community Park & Recreation Center,"11220 Clairemont Mesa Bl., 92124",San Diego,CA,11220,32.83090062,-117.08865598,parks_all_clean
+,City of San Diego Parks & Recreation,Olive Street Mini-Park,"2798 3RD AVE, 92103",San Diego,CA,92103,32.734365669999995,-117.16251204999998,parks_all_clean
+,City of San Diego Parks & Recreation,Charlotte Park,"7962 PRINCESS ST, 92037",San Diego,CA,92037,32.84960264,-117.26388022,parks_all_clean
+,City of San Diego Parks & Recreation,30th Street Mini-Park,"702 S.30TH St., 92113",San Diego,CA,92113,32.710965210000005,-117.12951474,parks_all_clean
+,City of San Diego Parks & Recreation,Berry Neighborhood Park,"2060 Leon Rd., 92154",San Diego,CA,92154,32.56732237000001,-117.08884454,parks_all_clean
+,City of San Diego Parks & Recreation,Mandell Weiss Eastgate Neighborhood Park,"4202 EXECUTIVE DR, 92037",San Diego,CA,92037,32.87581786,-117.21621977,parks_all_clean
+,City of San Diego Parks & Recreation,Color Mini-Park,"1650 Los Altos Road, 92109",San Diego,CA,92109,32.808661969999996,-117.24175541,parks_all_clean
+,City of San Diego Parks & Recreation,Hickman Field Athletic Area,"6660 Hickman Field Drive, 92111",San Diego,CA,92111,32.83734035,-117.16549533,parks_all_clean
+,City of San Diego Parks & Recreation,Union Place Circle Mini-Park,"1250 Park Row Circle, 92101",San Diego,CA,92101,32.846006810000006,-117.27010766,parks_all_clean
+,City of San Diego Parks & Recreation,La Paz Mini-Park,"5292 LA PAZ DR, 92114",San Diego,CA,92114,32.699634919999994,-117.08066982,parks_all_clean
+,City of San Diego Parks & Recreation,Paradise Hills Community Park & Recreation Center,"6610 Potomac St., 92139",San Diego,CA,92139,32.687280009999995,-117.05368021,parks_all_clean
+,City of San Diego Parks & Recreation,Princess Del Cerro Neighborhood Park,"6221 WENRICH DR, 92120",San Diego,CA,92120,32.78907221,-117.06755715,parks_all_clean
+,City of San Diego Parks & Recreation,Santa Isabel Mini-Park,"771 SANTA ISABEL DR, 92114",San Diego,CA,92114,32.697766339999994,-117.07907416,parks_all_clean
+,City of San Diego Parks & Recreation,"Allen, Dennis V Neighborhood Park","800 Boundary St., 92102",San Diego,CA,92102,32.7138322,-117.11188982,parks_all_clean
+,City of San Diego Parks & Recreation,Azalea Neighborhood Park & Recreation Center,"2596 Violet Ave., 92105",San Diego,CA,92105,32.732128440000004,-117.10845168,parks_all_clean
+,City of San Diego Parks & Recreation,North Clairemont Community Park & Recreation Center,"4421 Bannock Avenue, 92117",San Diego,CA,92117,32.83155833,-117.19678184,parks_all_clean
+,City of San Diego Parks & Recreation,Del Mar Trails Neighborhood Park,"4450 DEL MAR TRAILS RD, 92130",San Diego,CA,92130,32.943122,-117.21816121,parks_all_clean
+,City of San Diego Parks & Recreation,Civita Park (Recreation Easement),"7964 Civita Blvd., 92111",San Diego,CA,92111,,,parks_all_clean
+,City of San Diego Parks & Recreation,Penasquitos Village Neighborhood Park,"10636 CARMEL MOUNTAIN RD, 92129",San Diego,CA,10636,32.9679852,-117.09935169,parks_all_clean
+,City of San Diego Parks & Recreation,Hidden Trails Neighborhood Park,1049 PARSONS LANDING,San Diego,CA,,32.579196599999996,-117.01995403,parks_all_clean
+,City of San Diego Parks & Recreation,McAuliffe Community Park,"7540 WINTERWOOD LN, 92126",San Diego,CA,92126,32.9122519,-117.16057086,parks_all_clean
+,City of San Diego Parks & Recreation,Olive Grove Community Park,"6075 Printwood Way, 92117",San Diego,CA,92117,32.82651911,-117.17100333,parks_all_clean
+,City of San Diego Parks & Recreation,Adobe Bluffs Neighborhood Park,"8805 Gainsborough Avenue, 92129",San Diego,CA,92129,32.97288693,-117.13946638,parks_all_clean
+,City of San Diego Parks & Recreation,Carmel Grove Neighborhood Park,"3799 Carmel View Road,",San Diego,CA,,32.94185994,-117.23171201,parks_all_clean
+,City of San Diego Parks & Recreation,Teralta Neigborhood Park,"4100 Central Ave., 92105",San Diego,CA,92105,32.75226664,-117.10873926,parks_all_clean
+,City of San Diego Parks & Recreation,Cuiver Park,"528 COAST BLVD, 92037",San Diego,CA,92037,32.84364681,-117.27997148,parks_all_clean
+,City of San Diego Parks & Recreation,Colina Del Sol Community Park & Recreation Center,"4150 54th Place, 92115",San Diego,CA,92115,32.75158415,-117.08146931,parks_all_clean
+,City of San Diego Parks & Recreation,Golden Hill Community Park & Recreation Center,2600 Golf Course Dr. 92102,San Diego,CA,92102,32.720285249999996,-117.13701888,parks_all_clean
+,City of San Diego Parks & Recreation,Windwood Mini-Park,"12757 CARMEL CREEK RD, 92130",San Diego,CA,12757,32.9482995,-117.22522509,parks_all_clean
+,City of San Diego Parks & Recreation,Hollywood Neighborhood Park,"2301 Shamrock St., 92105",San Diego,CA,92105,32.73182932,-117.10360366,parks_all_clean
+,City of San Diego Parks & Recreation,Children's Museum Park,"255 W ISLAND AVE, 92101",San Diego,CA,92101,32.710125479999995,-117.16514364,parks_all_clean
+,City of San Diego Parks & Recreation,Mountain View Neighborhood Park & Recreation Center,"551 S. 40th St., 92113",San Diego,CA,92113,32.700161189999996,-117.10686753,parks_all_clean
+,City of San Diego Parks & Recreation,Westview Neighborhood Park,"11278 Westview Parkway, 92126",San Diego,CA,11278,32.92327179,-117.12018495,parks_all_clean
+,City of San Diego Parks & Recreation,Corte Playa San Juan Mini-Park,"5111 Corte Playa San Juan, 92124",San Diego,CA,92124,32.836244719999996,-117.08184595,parks_all_clean
+,City of San Diego Parks & Recreation,Camino Ruiz Neighborhood Park,"11498 Camino Ruiz, 92126",San Diego,CA,11498,32.93414935,-117.14668858,parks_all_clean
+,City of San Diego Parks & Recreation,Bay Terraces Community Park,"7373 Tooma St., 92139",San Diego,CA,92139,32.68050159,-117.03577995,parks_all_clean
+,City of San Diego Parks & Recreation,G Street Mini-Park,"302 G ST, 92101",San Diego,CA,92101,32.712792459999996,-117.16191916,parks_all_clean
+,City of San Diego Parks & Recreation,Ridgewood Neighborhood Park,"12530 LA TORTOLA, 92129",San Diego,CA,12530,32.9459054,-117.11645104,parks_all_clean
+,City of San Diego Parks & Recreation,St. Joseph's Park,3rd and Ash St.  92101,San Diego,CA,92101,,,parks_all_clean
+,City of San Diego Parks & Recreation,Centrum Park,8650 SPECTRUM CENTER BLVD,San Diego,CA,,32.82774701,-117.139109,parks_all_clean
+,City of San Diego Parks & Recreation,Marie Widman Neighborhood Park,"6727 IMPERIAL AVE, 92114",San Diego,CA,92114,32.71054755,-117.05298068,parks_all_clean
+,City of San Diego Parks & Recreation,Pantoja Neighborhood Park,"524 West G Street, 92118",San Diego,CA,92118,32.71309993,-117.167855,parks_all_clean
+,City of San Diego Parks & Recreation,Imperial Marketplace,"4475 Imperial Ave, 92113",San Diego,CA,92113,32.701956970000005,-117.10026397,parks_all_clean
+,City of San Diego Parks & Recreation,Ocean Beach Gateway Mini-Park,"2300 SUNSET CLIFFS BLVD, 92107",San Diego,CA,92107,32.751285839999994,-117.24227933,parks_all_clean
+,City of San Diego Parks & Recreation,Mission Bay Park,"2682 INGRAHAM ST, 92109",San Diego,CA,92109,32.77490061,-117.22937946,parks_all_clean
+,City of San Diego Parks & Recreation,Civita Creekside Park (Re. Ease).,"7964 Civita Blvd., 92111",San Diego,CA,92111,,,parks_all_clean
+,City of San Diego Parks & Recreation,Antigua Pocket Park,"5699 Antigua Blvd., 92124",San Diego,CA,92124,32.833240839999995,-117.10544256,parks_all_clean
+,City of San Diego Parks & Recreation,Villa Norte Neighborhood Park,"6597 Antigua Blvd., 92124",San Diego,CA,92124,32.836431989999994,-117.08867385,parks_all_clean
+,City of San Diego Parks & Recreation,Jerabek Neighborhood Park,"10150 Avenida Magnifica, 92131",San Diego,CA,10150,32.91083992,-117.08228535,parks_all_clean
+,City of San Diego Parks & Recreation,Park De La Cruz Neighborhood Park & Recreation Center,"3901 Landis St., 92105",San Diego,CA,92105,32.7451278,-117.11096386,parks_all_clean
+,City of San Diego Parks & Recreation,Mira Mesa Community Park & Recreation Center,"8575 New Salem Street, 92126",San Diego,CA,92126,32.91424637,-117.14034716,parks_all_clean
+,City of San Diego Parks & Recreation,Torrey Highlands Neighborhood Park,"4450 Lansdale Dr., 92130",San Diego,CA,92130,32.9604004,-117.22224016,parks_all_clean
+,City of San Diego Parks & Recreation,Southwest Neighborhood Park,"1416 27TH SB ST, 92154",San Diego,CA,92154,32.57169344,-117.07696543,parks_all_clean
+,City of San Diego Parks & Recreation,Mount Hope Cemetery,"3700 Imperial Ave, 92113",San Diego,CA,92113,32.70818622,-117.11291651,parks_all_clean
+,City of San Diego Parks & Recreation,Via Playa Los Santos Mini-Park,"5112 Via Playa Los Santos, 92124",San Diego,CA,92124,32.83647925,-117.07876426,parks_all_clean
+,City of San Diego Parks & Recreation,Salk Neighborhood Park ,Parkdale Ave. at Salk Elem.,San Diego,CA,,,,parks_all_clean
+,City of San Diego Parks & Recreation,Ocean Air Community Park & Recreation Center,"4770 Fairport Ave, 92130",San Diego,CA,92130,32.927846259999995,-117.21698675,parks_all_clean
+,City of San Diego Parks & Recreation,Kensington Park,"4121 Adams Ave., 92116",San Diego,CA,92116,32.76300327,-117.10682979,parks_all_clean
+,City of San Diego Parks & Recreation,Kellogg Park,"8300 CAM DEL ORO, 92037",San Diego,CA,92037,32.85736634,-117.25657405,parks_all_clean
+,City of San Diego Parks & Recreation,Southcrest Community Park & Recreation Center,"1297 S 40TH ST, 92113",San Diego,CA,92113,32.69337886,-117.10559654,parks_all_clean
+,City of San Diego Parks & Recreation,Children's Park,"155 W ISLAND AVE, 92101",San Diego,CA,92101,32.70981509,-117.16429455,parks_all_clean
+,City of San Diego Parks & Recreation,Butterfly Mini-Park,"11885 Cypress Canyon Rd., 92131",San Diego,CA,11885,32.932789979999995,-117.08346013,parks_all_clean
+,City of San Diego Parks & Recreation,Pearlman Mini-Park,"5404 Carmel Knolls Dr., 92130",San Diego,CA,92130,32.95440126,-117.20548738,parks_all_clean
+,City of San Diego Parks & Recreation,Grantville Neighborhood Park,"4645 VANDEVER AVE, 92120",San Diego,CA,92120,32.78728503,-117.09491909,parks_all_clean
+,City of San Diego Parks & Recreation,Kearny Mesa Community Park & Recreation Center,"3170 Armstrong Street, 92111",San Diego,CA,92111,32.80089563,-117.16860295,parks_all_clean
+,City of San Diego Parks & Recreation,Sherman Mini-Park,"2218 Island Ave, San Diego, CA 92102",San Diego,CA,92102,32.71070943,-117.14345082,parks_all_clean
+,City of San Diego Parks & Recreation,Ellen Browning Scripps Neighborhood Park,"1146 COAST BLVD, 92037",San Diego,CA,92037,32.84982574,-117.27435961,parks_all_clean
+,City of San Diego Parks & Recreation,Pacific Beach Park,"4507 OCEAN BLVD, 92109",San Diego,CA,92109,32.794056999999995,-117.2563306,parks_all_clean
+,City of San Diego Parks & Recreation,Collier Neighborhood Park,"2351 Soto Street, 92107",San Diego,CA,92107,32.747546310000004,-117.23524637,parks_all_clean
+,City of San Diego Parks & Recreation,Cedar Ridge Mini-Park,"1702 Pentuckett Ave., 92104",San Diego,CA,92104,32.722573819999994,-117.11840288,parks_all_clean
+,City of San Diego Parks & Recreation,Mission Bay Athletic Area,"2639 Grand Avenue, 92109",San Diego,CA,92109,32.8010048,-117.220423,parks_all_clean
+,City of San Diego Parks & Recreation,Balboa Park,"2125 Park Boulevard, 92101",San Diego,CA,92101,32.73157694,-117.14580944,parks_all_clean
+,City of San Diego Parks & Recreation,East Gate Mini-Park #1,"9639 TOWNE CENTRE DR, 92121",San Diego,CA,92121,32.8834007,-117.20781946,parks_all_clean
+,City of San Diego Parks & Recreation,Ashley Falls Neighborhood Park,"13030 Ashley Falls Drive., 92130",San Diego,CA,13030,32.95739477,-117.20922243,parks_all_clean
+,City of San Diego Parks & Recreation,Mount Acadia Neighborhood Park,"3865 Mt Acadia Boulevard, 92111",San Diego,CA,92111,32.8123258,-117.18026292,parks_all_clean
+,City of San Diego Parks & Recreation,Twin Trails Neighborhood Park,"8900 Twin Trails Drive, 92129",San Diego,CA,92129,32.95893647,-117.13430154,parks_all_clean
+,City of San Diego Parks & Recreation,El Campo Santo Neighborhood Park,"2410 San Diego Avenue, 92110",San Diego,CA,92110,32.751608000000004,-117.19320542,parks_all_clean
+,City of San Diego Parks & Recreation,Sunset Cliffs Natural Park,"700 SUNSET CLIFFS BLVD, 92107",San Diego,CA,92107,32.719513899999995,-117.25479593,parks_all_clean
+,City of San Diego Parks & Recreation,Civita Franklin Ridge Park,2690 1/3 Franklin Ridge Road,San Diego,CA,,32.782284000000004,-117.143052,parks_all_clean
+,City of San Diego Parks & Recreation,Cliffridge Neighborhood Park,"8301 CLIFFRIDGE AVE, 92037",San Diego,CA,92037,32.857647539999995,-117.24439308,parks_all_clean
+,City of San Diego Parks & Recreation,Kenmore Terrace Mini-Park,"4842 Kenmore Terrace, 92103",San Diego,CA,92103,32.76639814,-117.12721954,parks_all_clean
+,City of San Diego Parks & Recreation,San Ysidro Community Park,"247 E PARK AVE, 92173",San Diego,CA,92173,32.55481459,-117.04429869,parks_all_clean
+,City of San Diego Parks & Recreation,Coast View Mini-Park (Rec. Ease.),"10590 West Ocean Air Drive, 92130",San Diego,CA,10590,32.91082885,-117.22498713,parks_all_clean
+,City of San Diego Parks & Recreation,Naval Training Center Park,"2750 Womble Rd, 92106",San Diego,CA,92106,32.73482402,-117.2125375,parks_all_clean
+,City of San Diego Parks & Recreation,Standley Community Park & Recreation Center,"3547 GOVERNOR DR, 92122",San Diego,CA,92122,32.84961707,-117.21016789,parks_all_clean
+,City of San Diego Parks & Recreation,Memorial Community Park & Recreation Center,"2947 OCEAN VIEW BLVD, 92113",San Diego,CA,92113,32.69935785,-117.13065761,parks_all_clean
+,City of San Diego Parks & Recreation,Bill Cleator Community Park,"4412 NIMITZ BLVD, 92107",San Diego,CA,92107,32.74739599,-117.23317458,parks_all_clean
+,City of San Diego Parks & Recreation,Sunshine Berardini Field,"4416 FEDERAL BLVD, 92102",San Diego,CA,92102,32.72357267,-117.09779338,parks_all_clean
+,City of San Diego Parks & Recreation,Wabash Neighborhood Park,"3356 UNIVERSITY AVE, 92104",San Diego,CA,92104,32.749606310000004,-117.12073742,parks_all_clean
+,City of San Diego Parks & Recreation,Tweet Street Mini-Park,"1696 8TH AVE, 92101",San Diego,CA,92101,32.723111540000005,-117.15707629,parks_all_clean
+,City of San Diego Parks & Recreation,Forrest View Mini-Park,"11201 Forestview Lane, 92131",San Diego,CA,11201,32.91282442,-117.09065895,parks_all_clean
+,City of San Diego Parks & Recreation,Lomita Neighborhood Park,"8205 Leucadia St., 92114",San Diego,CA,92114,32.7097615,-117.02811288,parks_all_clean
+,City of San Diego Parks & Recreation,Z Street Mini-Park,"3944 Z ST, 92113",San Diego,CA,92113,32.69328321,-117.10946257,parks_all_clean
+,City of San Diego Parks & Recreation,Carmel Valley Community Park & Recreation Center,"3751 TOWNSGATE DR, 92130",San Diego,CA,92130,32.9481641,-117.2339367,parks_all_clean
+,City of San Diego Parks & Recreation,Maddox Neighborhood Park,"7793 FLANDERS DR, 92126",San Diego,CA,92126,32.906692639999996,-117.15687711,parks_all_clean
+,City of San Diego Parks & Recreation,Grant Hill Neighborhood Park,"2632 J ST, 92102",San Diego,CA,92102,32.70970335,-117.13718071,parks_all_clean
+,City of San Diego Parks & Recreation,La Jolla Shores Beach,La Jolla Shores Beach,San Diego,CA,,,,parks_all_clean
+,City of San Diego Parks & Recreation,Civita Park,"7964 Civita Blvd., 92111",San Diego,CA,92111,,,parks_all_clean
+,City of San Diego Parks & Recreation,Penasquitos Creek Neighborhood Park,"8021 Park Village Rd., 92129",San Diego,CA,92129,32.93954817,-117.15136773,parks_all_clean
+,City of San Diego Parks & Recreation,Sabre Springs Neighborhood Park,"12953 Sabre Springs Parkway, 92128",San Diego,CA,12953,32.95088078,-117.09629427,parks_all_clean
+,City of San Diego Parks & Recreation,Willie Henderson Sports Complex & Recreation Center,"1092 S 45TH ST, 92113",San Diego,CA,92113,32.69474691,-117.09673547,parks_all_clean
+,City of San Diego Parks & Recreation,Edward Tyler Cramer Neighborhood Park,5961 Linda Vista Blvd.  92111,San Diego,CA,92111,32.770952519999994,-117.18451637,parks_all_clean
+,City of San Diego Parks & Recreation,MacDowell Neighborhood Park,"5173 ARVINELS AVE, 92117",San Diego,CA,92117,32.83944228,-117.17452877,parks_all_clean
+,City of San Diego Parks & Recreation,Riviera Del Sol Neighborhood Park,"4524 RIVIERA SHORES ST, 92154",San Diego,CA,92154,32.57142854,-117.03677457,parks_all_clean
+,City of San Diego Parks & Recreation,Fairbrook Neighborhood Park,Fiarbrook Rd. and Rue Fontenay  92131,San Diego,CA,92131,32.90552221,-117.07245504,parks_all_clean
+,City of San Diego Parks & Recreation,Chollas Community Park,"6350 College Grove Dr., 92105",San Diego,CA,92105,32.73479757,-117.06764563,parks_all_clean
+,City of San Diego Parks & Recreation,Rolling Hills Neighborhood Park,"11082 Carlota, 92129",San Diego,CA,11082,32.99171905,-117.09178199,parks_all_clean
+,City of San Diego Parks & Recreation,Scripps Ranch Community Park & Recreation Center,"11424 BLUE CYPRESS DR, 92131",San Diego,CA,11424,32.9277092,-117.07977638,parks_all_clean
+,City of San Diego Parks & Recreation,Chollas Lake Regional Park,"6350 College Grove Dr., 92105",San Diego,CA,92105,32.73479757,-117.06764563,parks_all_clean
+,City of San Diego Parks & Recreation,Palisades North Neighborhood Park,"4937 OCEAN BLVD, 92109",San Diego,CA,92109,32.80383779,-117.26002739,parks_all_clean
+,City of San Diego Parks & Recreation,Highland Ranch Neighborhood Park,"12140 Eastbourne Road, 92128",San Diego,CA,12140,32.98243635,-117.072359,parks_all_clean
+,City of San Diego Parks & Recreation,South Village Neighborhood Park,"9353 Oviedo Street, 92129",San Diego,CA,92129,32.99486917,-117.16173402,parks_all_clean
+,City of San Diego Parks & Recreation,Cypress Valley Mini-Park,"11871 Stonedale Ct., 92131",San Diego,CA,11871,32.923738459999996,-117.07467528,parks_all_clean
+,City of San Diego Parks & Recreation,Keiller Neighborhood Park,"7400 Lisbon St., 92114",San Diego,CA,92114,32.7133804,-117.04140611,parks_all_clean
+,City of San Diego Parks & Recreation,Ocean Beach Community Park,"1984 EBERS ST, 92107",San Diego,CA,92107,32.74508985,-117.24517795,parks_all_clean
+,City of San Diego Parks & Recreation,Allied Gardens Community Park & Recreation Center,"5155 Greenbrier Ave., 92120",San Diego,CA,92120,32.79505977,-117.08102646,parks_all_clean
+,City of San Diego Parks & Recreation,Carmel Del Mar Neighborhood Park,"12345 Carmel Park Drive, 92103",San Diego,CA,12345,32.94042097,-117.22782641,parks_all_clean
+,City of San Diego Parks & Recreation,Carmel Mission Neighborhood Park,"12281 CARMEL COUNTRY RD, 92130",San Diego,CA,12281,32.94756246,-117.22161146,parks_all_clean
+,City of San Diego Parks & Recreation,City Heights Square Mini Park,"43rd Street, 4000 block  92105",San Diego,CA,92105,,,parks_all_clean
+,City of San Diego Parks & Recreation,Canyon View Mini-Park,"11724 Spring Canyon Rd., 92131",San Diego,CA,11724,32.92404791,-117.07858731,parks_all_clean
+,City of San Diego Parks & Recreation,East Village Green Park,14th and G Streets  92101,San Diego,CA,92101,,,parks_all_clean
+,City of San Diego Parks & Recreation,Dennery Ranch Neighborhood Park,,San Diego,CA,,32.5901748,-117.02480811,parks_all_clean
+,City of San Diego Parks & Recreation,Sycamore Canyon Neighborhood Park,13745 Stonebridge Parkway,San Diego,CA,13745,32.921771,117.039235,parks_all_clean
+,City of San Diego Parks & Recreation,Piazza Famigilia,Date St. btwn. India & Hawthorn,San Diego,CA,,,,parks_all_clean
+,City of San Diego Parks & Recreation,Kelly Street Neighborhood Park,"6640 Kelly Street, 92111",San Diego,CA,92111,32.7828213,-117.17803116,parks_all_clean
+,City of San Diego Parks & Recreation,Winterwood Lane Neighborhood Park,"7540 WINTERWOOD LN, 92126",San Diego,CA,92126,32.91452526,-117.16001861,parks_all_clean
+,City of San Diego Parks & Recreation,Dailard Neighborhood Park,"6391 Cibola Rd, 92120",San Diego,CA,92120,32.80686883,-117.05366622,parks_all_clean
+,City of San Diego Parks & Recreation,Carmel Knolls Neighborhood Park,"4850 Carmel Knolls Dr., 92130",San Diego,CA,92130,32.950494410000005,-117.21402926,parks_all_clean
+,City of San Diego Parks & Recreation,San Ysidro Mini-Park,179 W. San Ysidro Blvd.,San Diego,CA,,32.55374993,-117.04712072,parks_all_clean
+,City of San Diego Parks & Recreation,Clay Neighborhood Park,"4768 SEMINOLE DR, 92115",San Diego,CA,92115,32.76294724,-117.06021048,parks_all_clean
+,City of San Diego Parks & Recreation,Presidio Community Park,"2805 PRESIDIO DR, 92110",San Diego,CA,92110,32.75795874,-117.19388052,parks_all_clean
+,City of San Diego Parks & Recreation,Corridor Neighborhood Park,"4004 DEL MAR TRAILS RD, 92130",San Diego,CA,92130,32.94335494,-117.22658413,parks_all_clean

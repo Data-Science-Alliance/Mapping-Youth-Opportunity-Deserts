@@ -1,0 +1,93 @@
+service_type,org,name,address,city,state,zip,lat,lon,phone,fax,website,hours,eligibility,source
+library,Chula Vista,Civic Center Branch,365 F Street,Chula Vista,CA,91910,,,(619) 691-5069,,https://www.chulavistaca.gov/departments/library,,,Chula Vista
+library,Chula Vista,South Chula Vista Branch,389 Orange Avenue,Chula Vista,CA,91911,,,(619) 585-5755,,https://www.chulavistaca.gov/departments/library,,,Chula Vista
+library,Coronado,Coronado Public,640 Orange Avenue,Coronado,CA,92118,,,(619) 522-7390,,https://coronadolibrary.org/,,,City of Coronado website
+library,Escondido,Escondido Public,239 South Kalmia Street,Escondido,CA,92025,,,(760) 839-4683,,https://www.escondido.gov/162/Library,,,City of Escondido
+library,National City,National City Public,1401 National City Blvd,National City,CA,91950,,,(619) 336-4241,,https://www.nationalcityca.gov/government/library,,,National City Website
+library,Oceanside,Oceanside Civic Center Library,330 North Coast Highway,Oceanside,CA,92054,,,(760) 435-5600,,https://www.ci.oceanside.ca.us/gov/lib/,,,City of Oceanside website
+library,Oceanside,Mission Branch,3861 B Mission Avenue,Oceanside,CA,92054,,,(760) 435-5600,,https://www.ci.oceanside.ca.us/gov/lib/,,,City of Oceanside website
+library,San Diego Public Library,Balboa,4255 Mt. Abernathy Avenue,San Diego,CA,92117,,,(858) 573-1390,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Mountain View/Beckwourth,721 San Pasqual St,San Diego,CA,92113,,,(619) 527-3404,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Allied Gardens / Benjamin,5188 Zion Avenue,San Diego,CA,92120,,,(619) 533-3970,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Carmel Mountain Ranch,12095 World Trade Dr.,San Diego,CA,92128,,,(858) 538-8181,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Carmel Valley,3919 Townsgate Drive,San Diego,CA,92130,,,(858) 552-1668,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Clairemont,2920 Burgener Boulevard,San Diego,CA,92110,,,(858) 581-9935,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Kensington - Normal Heights,4121 Adams Avenue,San Diego,CA,92116,,,(619) 533-3974,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,La Jolla/Riford,7555 Draper Ave,La Jolla,CA,92037,,,(858) 552-1657,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Linda Vista,2160 Ulric Street,San Diego,CA,92111,,,(858) 573-1399,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Logan Heights,567 South 28th Street,San Diego,CA,92113,,,(619) 533-3968,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Valencia Park /Malcolm X,5148 Market Street,San Diego,CA,92114,,,(619) 527-3405,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Mira Mesa,8405 New Salem St,San Diego,CA,92126,,,(858) 538-8165,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Mission Hills-Hillcrest/Knox,215 West Washington St,San Diego,CA,92103,,,(619) 692-4910,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,North Clairemont,4616 Clairemont Drive,San Diego,CA,92117,,,(858) 581-9931,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,North Park,3795 31st Street,San Diego,CA,92104,,,(619) 533-3972,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Oak Park,2802 54th Street,San Diego,CA,92105,,,(619) 527-3406,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Ocean Beach,4801 Santa Monica Avenue,San Diego,CA,92107,,,(619) 531-1532,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Otay Mesa/Nestor,3003 Coronado Avenue,San Diego,CA,92154,,,(619) 424-0474,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Paradise Hills,5922 Rancho Hills Drive,San Diego,CA,92139,,,(619) 527-3461,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Point Loma/Hervey,3701 Voltaire Street,San Diego,CA,92107,,,(619) 531-1539,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Rancho Bernardo,17110 Bernardo Center Drive,San Diego,CA,92128,,,(858) 538-8163,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Rancho Penasquitos,13330 Salmon River Road,San Diego,CA,92129,,,(858) 538-8159,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,San Carlos,7265 Jackson Dr,San Diego,CA,92119,,,(619) 527-3430,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,San Ysidro,4235 Beyer Blvd,San Diego,CA,92173,,,(619) 424-0475,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Scripps Miramar Ranch,10301 Scripps Lake Drive,San Diego,CA,92131,,,(858) 538-8158,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Serra Mesa-Kearny Mesa,9005 Aero Dr,San Diego,CA,92123,,,(858) 573-1396,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Skyline Hills,7900 Paradise Valley Rd,San Diego,CA,92139,,,(619) 527-3485,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Pacific Beach/Taylor,4275 Cass St,San Diego,CA,92109,,,(858) 581-9934,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Tierrasanta,4985 La Cuenta Drive,San Diego,CA,92124,,,(858) 573-1384,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,North University Community,8820 Judicial Dr,San Diego,CA,92112,,,(858) 581-9637,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,University Heights,4193 Park Boulevard,San Diego,CA,92103,,,(619) 692-4912,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,City Heights/Weingart,3795 Fairmount Ave.,San Diego,CA,92105,,,(619) 641-6100,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Mission Valley,2123 Fenton Parkway,San Diego,CA,92108,,,(858) 573-5007,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,College-Rolando,6600 Montezuma Road,San Diego,CA,92115,,,(619) 533-3902,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,University Community,4155 Governor Drive,San Diego,CA,92122,,,(858) 552-1655,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,Carlsbad,Carlsbad City Library,1775 Dove Lane,Carlsbad,CA,92011,,,(442)339-2049,,https://library.carlsbadca.gov/our-library,,,Carlsbad
+library,Carlsbad,Georgina Cole Library,1250 Carlsbad Village Dr,Carlsbad,CA,92008,,,(442)339-2870,,https://library.carlsbadca.gov/our-library,,,Carlsbad
+library,Carlsbad,Library Learning Center,3368 Eureka Pl,Carlsbad,CA,92008,,,(442)339-5500,,https://library.carlsbadca.gov/our-library,,,Carlsbad
+library,Chula Vista,Otay Ranch Branch,"2015 Birch Road, Suite 409",Chula Vista,CA,91915,,,(619) 397-5740,,https://www.chulavistaca.gov/departments/library,,,Chula Vista
+library,San Diego County,24/7 Library To Go - Bonsall,31505 Old River Rd.,Bonsall,CA,92003,,,(858) 694-2415,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,24/7 Library To Go - Boulevard,39923 Ribbonwood Road,Boulevard,CA,91905,,,(858) 694-2415,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,24/7 Library To Go - County Operations Center,"5560 Overland Avenue, Ste 110",San Diego,CA,92123,,,(858) 694-2415,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,24/7 Library To Go - South Region,690 Oxford Street,Chula Vista,CA,91911,,,(858) 694-2415,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,4S Ranch Branch,10433 Reserve Drive,San Diego,CA,92127,,,(858) 673-4697,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Alpine Branch,1752 Alpine Blvd.,Alpine,CA,91901,,,(619) 445-4221,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Bonita-Sunnyside Branch,4375 Bonita Rd.,Bonita,CA,91902,,,(619) 475-4642,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Borrego Springs Branch,2580 Country Club Road,Borrego Springs,CA,92004,,,(760) 767-5761,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Campo-Morena Village Branch,31356 Highway 94,Campo,CA,91906,,,(619) 478-5945,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Cardiff-by-the-Sea Branch,2081 Newcastle Ave.,"Cardiff-by-the-Sea,",CA,92007,,,(760) 753-4027,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Casa de Oro Branch,9805 Campo Rd. #180,Spring Valley,CA,91977,,,(619) 463-3236,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Crest Branch,105 Juanita Lane,El Cajon,CA,92021,,,(619) 442-7083,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Del Mar Branch,"1309 Camino Del Mar, Del Mar",Del Mar,CA,92014,,,(858) 755-1666,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Descanso Branch,9545 River Dr.,Descanso,CA,91916,,,(619) 445-5279,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Encinitas Branch,540 Cornish Drive,Encinitas 92024,CA,92024,,,(760) 753-7376,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Fallbrook Branch,124 S. Mission Rd.,Fallbrook,CA,92028,,,(760) 731-4650,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Fletcher Hills Branch,576 Garfield Ave.,El Cajon,CA,92020,,,(619) 466-1132,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Imperial Beach Branch,810 Imperial Beach Blvd.,Imperial Beach,CA,91932,,,(619) 424-6981,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Jacumba Branch,44605 Old Hwy. 80,Jacumba,CA,91934,,,(619) 766-4608,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Julian Branch,1850 Highway 78,Julian,CA,92036,,,(760) 765-0370,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,La Mesa Branch,8074 Allison Avenue,La Mesa,CA,91942,,,(619) 469-2151,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Lakeside Branch,12428  Woodside Ave,Lakeside,CA,92040,,,(619) 443-1811,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Lemon Grove Branch,3001 School Ln.,Lemon Grove,CA,91945,,,(619) 463-9819,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Lincoln Acres Branch,2725 Granger Ave.,National City,CA,91950,,,(619) 475-9880,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Pine Valley Branch,28804 Old Hwy. 80,Pine Valley,CA,91962,,,(619) 473-8022,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Potrero Branch,24883 Potrero Valley Rd.,Potrero,CA,91963,,,(619) 478-5978,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Poway Branch,13137 Poway Rd,Poway,CA,92064,,,(858) 513-2900,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Ramona Branch,1275 Main Street,Ramona,CA,92065,,,(760) 788-5270,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Rancho San Diego Branch,11555 Via Rancho San Diego,El Cajon,CA,92019,,,(619) 660-5370,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Rancho Santa Fe Branch,17040 Avenida de Acacias,Rancho Santa Fe,CA,92067,,,(858) 756-2512,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,San Marcos Branch,2 Civic Center Drive,San Marcos,CA,92069,,,(760) 891-3000,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Santee Branch,9225 Carlton Hills Blvd. #17,Santee,CA,92071,,,(619) 448-1863,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Solana Beach Branch Earl Warren Middle School,157 Stevens Ave.,Solana Beach,CA,92075,,,(858) 755-1404,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Spring Valley Branch,836 Kempton St.,Spring Valley,CA,91977,,,(619) 463-3006,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Valley Center Branch,29200 Cole Grade Rd.,Valley Center,CA,92082,,,(760) 749-1305,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,Vista Branch,700 Eucalyptus Ave.,Vista,CA,92084,,,(760) 643-510,,https://www.sdcl.org/,,,SDCL
+library,San Diego County,El Cajon Branch,201 E. Douglas,El Cajon,CA,92020,,,(619) 588-3718,,https://www.sdcl.org/,,,SDCL
+library,Oceanside,Oceanside READS Literacy Center,804 Pier View Way #101,Oceanside,CA,92054,,,(760) 435-5680,,https://www.ci.oceanside.ca.us/gov/lib/,,,City of Oceanside website
+library,Oceanside,John Landes Community Center Library,2855 Cedar Rd,Oceanside,CA,92056,,,(760)435-5642,,https://www.oceansidelibrary.org/about-us/hours-and-locations,,,City of Oceanside website
+library,Oceanside,Country Club Lane Senior Center Mini-Library,455 Country Club Lane,Oceanside,CA,92054,,,,,https://www.oceansidelibrary.org/about-us/hours-and-locations,,,City of Oceanside website
+library,Oceanside,El Corazon Senior Center Mini-Library,3302 Senior Center Dr,Oceanside,CA,92056,,,,,https://www.oceansidelibrary.org/about-us/hours-and-locations,,,City of Oceanside website
+library,Oceanside,Melba Bishop Recreation Center Mini-Library,5306 North River Rd,Oceanside,CA,92057,,,,,https://www.oceansidelibrary.org/about-us/hours-and-locations,,,City of Oceanside website
+library,San Diego County,24/7 Library Kiosk Encinitas,501 N El Camino Real,Encinitas,CA,92024,,,(858) 694-2415,,https://www.sdcl.org/,,,SDCL
+library,Oceanside,Joe Balderrama Recreation Center,709 San Diego Street,Oceanside,CA,92056,,,,,https://www.oceansidelibrary.org/about-us/hours-and-locations,,,
+library,San Diego Public Library,San Diego Central,330 Park Blvd,San Diego,CA,92101,,,(619) 236-5800,,http://www.sandiego.gov/public-library/,,,City of San Diego
+library,San Diego Public Library,Pacific Highlands Ranch,12911 Pacific Place,San Diego,CA,92130,,,(858) 523-7052,,http://www.sandiego.gov/public-library/,,,City of San Diego

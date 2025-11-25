@@ -1,4 +1,4 @@
-the_geom,objectid,stop_uid,stop_agency,stop_id,stop_name,lat,lon,stop_code,location_type,parent_station,wheelchair_boarding,intersection_code,stop_place
+the_geom,OBJECTID,stop_UID,stop_agency,stop_id,stop_name,lat,lon,stop_code,location_type,parent_station,wheelchair_boarding,intersection_code,stop_place
 POINT (-117.225253999814 33.289260000306),"5,239",NCTD_21699,NCTD,21699,Hwy 76 & Camino Del Rey,33.28926,-117.225254,21699.0,0,,,F-N/B,miscam
 POINT (-117.090831370467 32.658396440078),"1,947",MTS_12532,MTS,12532,Highland Av & 30th St,32.65839644,-117.09083137,12532.0,0,,1.0,N-N/B,high30
 POINT (-117.146401100416 32.753688689998),"3,404",MTS_13553,MTS,13553,Park Bl & Howard Av,32.75368869,-117.1464011,13553.0,0,,0.0,F-S/B,
