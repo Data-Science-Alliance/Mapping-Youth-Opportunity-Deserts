@@ -1,0 +1,30 @@
+                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     services_per_1k_youth_10_19   R-squared:                       0.221
+Model:                                     OLS   Adj. R-squared:                  0.217
+Method:                          Least Squares   F-statistic:                     61.75
+Date:                         Wed, 26 Nov 2025   Prob (F-statistic):           5.82e-46
+Time:                                 03:44:47   Log-Likelihood:                -3906.2
+No. Observations:                          877   AIC:                             7822.
+Df Residuals:                              872   BIC:                             7846.
+Df Model:                                    4                                         
+Covariance Type:                     nonrobust                                         
+===============================================================================================
+                                  coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------
+const                          -6.2394      3.612     -1.728      0.084     -13.328       0.849
+youth_10_19_per_1k             -0.0929      0.012     -7.777      0.000      -0.116      -0.069
+median_hh_income_2023usd        0.0001   2.01e-05      6.079      0.000    8.28e-05       0.000
+zero_veh_share                177.1713     14.217     12.462      0.000     149.268     205.074
+stops_within_500m_per_tract    -0.0347      0.046     -0.750      0.453      -0.126       0.056
+==============================================================================
+Omnibus:                     1066.372   Durbin-Watson:                   0.767
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           116686.769
+Skew:                           6.147   Prob(JB):                         0.00
+Kurtosis:                      58.155   Cond. No.                     2.42e+06
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.42e+06. This might indicate that there are
+strong multicollinearity or other numerical problems.
