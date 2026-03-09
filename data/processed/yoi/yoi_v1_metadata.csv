@@ -1,0 +1,8 @@
+indicator,col,domain,higher_is_better
+poverty_rate,poverty_rate_pct,economic,False
+mental_distress,places_MHLTH,health,False
+poor_physical_health,places_PHLTH,health,False
+uninsured_rate,places_ACCESS2,health,False
+crime_rate,crime_groupA_rate_per_1k,safety_env,False
+service_count,service_count,youth_supports,True
+services_per_10k,services_per_10k,youth_supports,True

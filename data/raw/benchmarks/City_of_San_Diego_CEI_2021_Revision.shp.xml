@@ -1,0 +1,14 @@
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20210305</CreaDate>
+		<CreaTime>19172000</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>TRUE</SyncOnce>
+		<DataProperties>
+			<lineage>
+				<Process ToolSource="z:\home\ags\arcgis\server\framework\runtime\arcgis\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20210305" Time="191720">CopyFeatures layer0 Z:\data\arcgisserver\directories\arcgisjobs\tasks_gpserver\je5dca011160d4150acd7dcbadd3822e5\scratch\output\City_of_San_Diego_CEI_2021_Revision.shp # # # #</Process>
+			</lineage>
+			<LayerFile>{"type":"CIMLayerDocument","version":"2.6.0","build":24234,"layers":["CIMPATH=internal_map/city_of_san_diego_cei_2021_revision.xml"],"layerDefinitions":[{"type":"CIMFeatureLayer","name":"City_of_San_Diego_CEI_2021_Revision","uRI":"CIMPATH=internal_map/city_of_san_diego_cei_2021_revision.xml","sourceModifiedTime":{"type":"TimeInstant"},"useSourceMetadata":true,"description":"City_of_San_Diego_CEI_2021_Revision","expanded":true,"layerType":"Operational","showLegends":true,"visibility":true,"displayCacheType":"Permanent","maxDisplayCacheAge":5,"showPopups":true,"serviceLayerID":-1,"refreshRate":-1,"refreshRateUnit":"esriTimeUnitsSeconds","autoGenerateFeatureTemplates":true,"featureTable":{"type":"CIMFeatureTable","displayField":"Tract","editable":true,"dataConnection":{"type":"CIMStandardDataConnection","workspaceConnectionString":"DATABASE=Z:\\data\\arcgisserver\\directories\\arcgisjobs\\tasks_gpserver\\je5dca011160d4150acd7dcbadd3822e5\\scratch\\output","workspaceFactory":"Shapefile","dataset":"City_of_San_Diego_CEI_2021_Revision","datasetType":"esriDTFeatureClass"},"studyAreaSpatialRel":"esriSpatialRelUndefined","searchOrder":"esriSearchOrderSpatial"},"htmlPopupEnabled":true,"selectable":true,"featureCacheType":"Session","displayFiltersType":"ByScale","renderer":{"type":"CIMSimpleRenderer","patch":"Default","symbol":{"type":"CIMSymbolReference","symbol":{"type":"CIMPolygonSymbol","symbolLayers":[{"type":"CIMSolidStroke","enable":true,"capStyle":"Round","joinStyle":"Round","lineStyle3D":"Strip","miterLimit":10,"width":0.69999999999999996,"color":{"type":"CIMRGBColor","values":[110,110,110,100]}},{"type":"CIMSolidFill","enable":true,"color":{"type":"CIMRGBColor","values":[231.25,252.449999999999989,181.759999999999991,100]}}]}}},"scaleSymbols":true,"snappable":true}]}</LayerFile>
+		</DataProperties>
+	</Esri>
+</metadata>
